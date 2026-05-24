@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
+
+# Database
+cantonese.db
+
+# Uploads (user-generated audio)
+uploads/
+
+# Original PDFs (too large for git)
+all/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE / OS
+.claude/
+.review/

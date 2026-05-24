@@ -1,0 +1,381 @@
+{
+  "title": "國家文化",
+  "theme": "national_culture",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "3.1 Common vocabulary",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "關於",
+          "jyutping": "gwaan1 jyu1",
+          "meaning": "about, regarding"
+        },
+        {
+          "cantonese": "是否",
+          "jyutping": "si6 fau2",
+          "meaning": "whether or not"
+        },
+        {
+          "cantonese": "增設",
+          "jyutping": "zang1 cit1",
+          "meaning": "to add, to set up additionally"
+        },
+        {
+          "cantonese": "公眾假期",
+          "jyutping": "gung1 zung3 gaa3 kei4",
+          "meaning": "public holiday"
+        },
+        {
+          "cantonese": "多元化",
+          "jyutping": "do1 jyun4 faa3",
+          "meaning": "diversification, diversified"
+        },
+        {
+          "cantonese": "節日",
+          "jyutping": "zit3 jat6",
+          "meaning": "festival, holiday"
+        },
+        {
+          "cantonese": "宗教信仰",
+          "jyutping": "zung1 gaau3 seon3 joeng5",
+          "meaning": "religious belief"
+        },
+        {
+          "cantonese": "一視同仁",
+          "jyutping": "jat1 si6 tung4 jan4",
+          "meaning": "to treat equally without discrimination"
+        },
+        {
+          "cantonese": "紅假",
+          "jyutping": "hung4 gaa3",
+          "meaning": "public holiday (colloquial)"
+        },
+        {
+          "cantonese": "大多數",
+          "jyutping": "daai6 do1 sou3",
+          "meaning": "majority"
+        },
+        {
+          "cantonese": "傳統節日",
+          "jyutping": "cyun4 tung2 zit3 jat6",
+          "meaning": "traditional festival"
+        },
+        {
+          "cantonese": "國慶",
+          "jyutping": "gwok3 hing3",
+          "meaning": "National Day"
+        },
+        {
+          "cantonese": "官方",
+          "jyutping": "gun1 fong1",
+          "meaning": "official"
+        },
+        {
+          "cantonese": "紀念活動",
+          "jyutping": "gei2 nim6 wut6 dung6",
+          "meaning": "commemorative activity"
+        },
+        {
+          "cantonese": "一家大細",
+          "jyutping": "jat1 gaa1 daai6 sai3",
+          "meaning": "the whole family"
+        },
+        {
+          "cantonese": "長線旅行",
+          "jyutping": "coeng4 sin3 leoi5 haang4",
+          "meaning": "long-distance travel"
+        },
+        {
+          "cantonese": "教會",
+          "jyutping": "gaau3 wui2",
+          "meaning": "church"
+        },
+        {
+          "cantonese": "內部",
+          "jyutping": "noi6 bou6",
+          "meaning": "internal"
+        },
+        {
+          "cantonese": "宗教味道",
+          "jyutping": "zung1 gaau3 mei6 dou6",
+          "meaning": "religious flavour"
+        },
+        {
+          "cantonese": "明顯",
+          "jyutping": "ming4 hin2",
+          "meaning": "obvious, apparent"
+        },
+        {
+          "cantonese": "公開",
+          "jyutping": "gung1 hoi1",
+          "meaning": "public, open"
+        },
+        {
+          "cantonese": "至於",
+          "jyutping": "zi3 jyu1",
+          "meaning": "as for, regarding"
+        },
+        {
+          "cantonese": "歷史原因",
+          "jyutping": "lik6 si2 jyun4 jan1",
+          "meaning": "historical reasons"
+        },
+        {
+          "cantonese": "例外",
+          "jyutping": "lai6 ngoi6",
+          "meaning": "exception"
+        },
+        {
+          "cantonese": "基本上",
+          "jyutping": "gei1 bun2 soeng5",
+          "meaning": "basically"
+        },
+        {
+          "cantonese": "遵從",
+          "jyutping": "zyun1 cung4",
+          "meaning": "to comply with, to follow"
+        },
+        {
+          "cantonese": "設立",
+          "jyutping": "cit3 laap6",
+          "meaning": "to establish, to set up"
+        },
+        {
+          "cantonese": "補充",
+          "jyutping": "bou2 cung1",
+          "meaning": "to supplement, to add"
+        },
+        {
+          "cantonese": "減少",
+          "jyutping": "gaam2 siu2",
+          "meaning": "to reduce, to decrease"
+        },
+        {
+          "cantonese": "大老闆",
+          "jyutping": "daai6 lou5 baan2",
+          "meaning": "big boss"
+        },
+        {
+          "cantonese": "加班",
+          "jyutping": "gaa1 baan1",
+          "meaning": "to work overtime"
+        },
+        {
+          "cantonese": "高興",
+          "jyutping": "gou1 hing3",
+          "meaning": "happy, glad"
+        },
+        {
+          "cantonese": "改變",
+          "jyutping": "goi2 bin3",
+          "meaning": "to change"
+        },
+        {
+          "cantonese": "個人",
+          "jyutping": "go3 jan4",
+          "meaning": "personal, individual"
+        }
+      ]
+    },
+    {
+      "title": "3.2 Place names",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "瑞典",
+          "jyutping": "seoi6 din2",
+          "meaning": "Sweden"
+        },
+        {
+          "cantonese": "菲律賓",
+          "jyutping": "fei1 leot6 ban1",
+          "meaning": "Philippines"
+        },
+        {
+          "cantonese": "泰國",
+          "jyutping": "taai3 gwok3",
+          "meaning": "Thailand"
+        },
+        {
+          "cantonese": "尼泊爾",
+          "jyutping": "nei5 bok6 ji5",
+          "meaning": "Nepal"
+        },
+        {
+          "cantonese": "愛爾蘭",
+          "jyutping": "ngoi6 ji5 laan4",
+          "meaning": "Ireland"
+        }
+      ]
+    },
+    {
+      "title": "3.3 About religions and festivals",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "宗教團體",
+          "jyutping": "zung1 gaau3 tyun4 tai2",
+          "meaning": "religious group/organization"
+        },
+        {
+          "cantonese": "宗教派別",
+          "jyutping": "zung1 gaau3 paai3 bit6",
+          "meaning": "religious denomination"
+        },
+        {
+          "cantonese": "印度教",
+          "jyutping": "jan3 dou6 gaau3",
+          "meaning": "Hinduism"
+        },
+        {
+          "cantonese": "猶太教",
+          "jyutping": "jau4 taai3 gaau3",
+          "meaning": "Judaism"
+        },
+        {
+          "cantonese": "伊斯蘭教節",
+          "jyutping": "ji1 si1 laan4 gaau3 zit3",
+          "meaning": "Islamic festival"
+        },
+        {
+          "cantonese": "道教節",
+          "jyutping": "dou6 gaau3 zit3",
+          "meaning": "Taoist festival"
+        },
+        {
+          "cantonese": "農曆新年",
+          "jyutping": "lung4 lik6 san1 nin4",
+          "meaning": "Lunar New Year"
+        },
+        {
+          "cantonese": "清明節",
+          "jyutping": "cing1 ming4 zit3",
+          "meaning": "Ching Ming Festival"
+        },
+        {
+          "cantonese": "端午節",
+          "jyutping": "dyun1 ng5 zit3",
+          "meaning": "Dragon Boat Festival"
+        },
+        {
+          "cantonese": "中秋節",
+          "jyutping": "zung1 cau1 zit3",
+          "meaning": "Mid-Autumn Festival"
+        },
+        {
+          "cantonese": "重陽節",
+          "jyutping": "cung4 joeng4 zit3",
+          "meaning": "Chung Yeung Festival"
+        },
+        {
+          "cantonese": "拜年",
+          "jyutping": "baai3 nin4",
+          "meaning": "to pay a New Year visit"
+        },
+        {
+          "cantonese": "派利是",
+          "jyutping": "paai3 lei6 si6",
+          "meaning": "to give red packets"
+        },
+        {
+          "cantonese": "扒龍船",
+          "jyutping": "paa4 lung4 syun4",
+          "meaning": "to race dragon boats"
+        },
+        {
+          "cantonese": "拜山",
+          "jyutping": "baai3 saan1",
+          "meaning": "to visit graves"
+        },
+        {
+          "cantonese": "回歸",
+          "jyutping": "wui4 gwai1",
+          "meaning": "reunification, handover"
+        },
+        {
+          "cantonese": "聖誕節",
+          "jyutping": "sing3 daan3 zit3",
+          "meaning": "Christmas"
+        },
+        {
+          "cantonese": "復活節",
+          "jyutping": "fuk6 wut6 zit3",
+          "meaning": "Easter"
+        },
+        {
+          "cantonese": "新曆新年",
+          "jyutping": "san1 lik6 san1 nin4",
+          "meaning": "New Year (Gregorian calendar)"
+        },
+        {
+          "cantonese": "佛誕",
+          "jyutping": "fat6 daan3",
+          "meaning": "Buddha's Birthday"
+        },
+        {
+          "cantonese": "萬聖節",
+          "jyutping": "maan6 sing3 zit3",
+          "meaning": "Halloween"
+        },
+        {
+          "cantonese": "感恩節",
+          "jyutping": "gam1 jan1 zit3",
+          "meaning": "Thanksgiving"
+        },
+        {
+          "cantonese": "瑞典嘅「聖露西亞日」",
+          "jyutping": "seoi6 din2 ge3 sing3 lou6 sai1 ngaa4 jat6",
+          "meaning": "Sweden's Saint Lucia Day"
+        },
+        {
+          "cantonese": "菲律賓嘅「朋友節」",
+          "jyutping": "fei1 leot6 ban1 ge3 pang4 jau5 zit3",
+          "meaning": "Philippines' Friendship Day"
+        },
+        {
+          "cantonese": "泰國嘅「潑水節」",
+          "jyutping": "taai3 gwok3 ge3 put3 seoi2 zit3",
+          "meaning": "Thailand's Songkran (Water Splashing Festival)"
+        }
+      ]
+    },
+    {
+      "title": "Reading passage: 關於是否增設伊斯蘭教節同道教節為公眾假期",
+      "type": "reading_passage",
+      "units": [
+        {
+          "cantonese": "各位，關於是否增設伊斯蘭教節同道教節為公眾假期呢個問題呢，我個人嘅睇法係噉嘅：",
+          "jyutping": "gok3 wai6, gwaan1 jyu1 si6 fau2 zang1 cit1 ji1 si1 laan1 gaau3 zit3 tung4 dou6 gaau3 zit3 wai4 gung1 zung3 gaak3 kei4 ni1 go3 man6 tai4, ngo5 go3 jan4 ge3 tai2 faat3 hai6 gam2 ge3:",
+          "meaning": "Everyone, regarding the question of whether to add Islamic and Taoist festivals as public holidays, my personal view is as follows:"
+        },
+        {
+          "cantonese": "首先對於增設呢兩個節日為公眾假期我並唔反對。大家都知道香港係一個多元化嘅國際大城市，增加節日代表社會對於不同宗教信仰同文化一視同仁，同時又可以俾市民放多兩日紅假。另外如果政府、宗教團體趁呢個機會舉辦一啲同節日有關嘅活動，有可能為香港嘅旅遊業同埋經濟帶嚟一啲好處，噉就好值得。",
+          "jyutping": "sau2 sin1, deoi3 jyu1 zang1 cit1 ni1 loeng5 go3 zit3 jat6 wai4 gung1 zung3 gaak3 kei4, ngo5 bing6 m4 faan2 deoi6. daai6 gaa1 dou1 zi1 dou6, hoeng1 gong2 hai6 jat1 go3 do1 jyun4 faa3 ge3 gwok3 zai3 daai6 sing1 si5, zang1 gaa1 zit3 jat6 doi6 biu2 se5 wui6 deoi3 jyu1 bat1 tung4 zung1 gaau3 seon3 joeng5 tung4 man4 faa3 jat1 si6 tung4 jan4, tung4 si4 jau6 ho2 ji5 bei2 si5 man4 fong3 do1 loeng5 jat6 hung4 gaa3. ling6 ngoi6, jyu4 gwo2 zing3 fu2, zung1 gaau3 tyun4 tai2 can3 ni1 go3 gei1 wui6 keoi2 baan6 jat1 di1 tung4 zit3 jat6 jau5 gwaan1 ge3 wut6 dung6, jau5 ho2 nang4 wai4 hoeng1 gong2 ge3 leoi5 jau4 jip6 tung4 ging1 zai6 daai6 lai4 jat1 di1 hou2 cyu5, gam2 zau6 hou2 ji6 dak1 laa1.",
+          "meaning": "First, I do not oppose adding these two festivals as public holidays. Everyone knows Hong Kong is a diversified international city. Adding festivals represents that society treats different religious beliefs and cultures equally, and at the same time allows citizens two more public holidays. Moreover, if the government and religious organizations take this opportunity to hold activities related to the festivals, it could benefit Hong Kong's tourism and economy, which would be worthwhile."
+        },
+        {
+          "cantonese": "不過從另一方面去睇，同樣係因為香港係一個國際大城市，除咗伊斯蘭教、道教之外，仲有好多其他宗教派別，好似係印度教、猶太教等等，但佢哋喺香港都係好緊要嘅。我覺得唔需要為伊斯蘭教同道教嘅節日設立公眾假期，最大嘅一個理由係，我覺得政府唔可以選擇支持某一啲宗教，而唔支持另一啲宗教。",
+          "jyutping": "bat1 gwo3 cung4 ling6 jat1 fong1 min6 heoi3 tai2, tung4 joeng6 hai6 jan1 wai6 hoeng1 gong2 hai6 jat1 go3 gwok3 zai3 daai6 sing1 si5, ceoi4 zo2 ji1 si1 laan4 gaau3, dou6 gaau3 zi1 ngoi6, zung6 jau5 hou2 do1 kei4 taa1 zung1 gaau3 paai3 bit6, hou2 ci5 hai6 jan3 dou6 gaau3, jau4 taai3 gaau3 dang2 dang2, daan6 keoi5 dei6 hai6 hoeng1 gong2 dou1 hai6 hou2 gan2 jiu3 ge3. ngo5 gok3 dak1 m4 seoi1 jiu3 wai6 ji1 si1 laan4 gaau3 tung4 dou6 gaau3 ge3 zit3 jat6 laap6 lap6 gung1 zung3 gaak3 kei4, zeoi6 daai6 jat1 go3 lei5 jau6 hai6, ngo5 gok3 dak1 zing2 fu2 m4 ho2 ji5 syun2 zaak6 zi1 ci4 dak1 ling6 jat1 paak3 zung1 gaau3, ji4 bat1 zi1 ci4 dak1 ling6 jat1 paak3 zung1 gaau3.",
+          "meaning": "However, looking from another perspective, precisely because Hong Kong is an international city, besides Islam and Taoism, there are many other religious denominations such as Hinduism, Judaism, etc., and they are all important in Hong Kong. I think there is no need to establish public holidays for Islamic and Taoist festivals. The biggest reason is that I believe the government should not choose to support certain religions while not supporting others."
+        },
+        {
+          "cantonese": "目前香港嘅公眾假期，大多數係傳統節日，好似農曆新年、清明節、端午節、中秋節、重陽節等等，我哋喺呢幾日放假係因為要進行一啲傳統嘅活動，新年要拜年、派利是，端午節要扒龍船，重陽節要拜山，等等，放假係為咗方便市民做呢啲事。仲有就係歷史上一啲重要嘅日子，譬如香港回歸、國慶，會有官方嘅紀念活動。至於聖誕節、復活節，喺香港，已經成為一種傳統，以聖誕節為例，香港人習慣咗喺聖誕假期，一家大細放假去長線旅行，從聖誕開始去到新曆新年放假休息下。聖誕節除咗喺教會內部，喺香港呢啲節日嘅宗教味道已經唔係特別明顯喇。但係伊斯蘭教同道教嘅節日就唔一樣喇，香港人喺呢啲日子放假會做啲乜嘢呢？政府都冇理由公開慶祝呢啲節日。至於佛誕，香港本來有佛誕呢個假期有歷史原因。雖然佛誕係一個帶宗教色彩嘅節日，但係算係一個例外。",
+          "jyutping": "muk6 cin4 hoeng1 gong2 ge3 gung1 zung3 gaak3 kei4, daai6 do1 sou3 hai6 cyun4 tung2 zit3 jat6, hou2 ci5 lung4 lik6 san1 nin4, cing1 ming4 zit3, dyun1 ng5 zit3, zung1 cau1 zit3, cung4 joeng4 zit3 dang2 dang2, ngo5 dei6 hai6 ni1 gei2 jat6 fong3 gaa3 hai6 jan1 wai6 jiu3 zeon6 hang4 jat1 di1 cyun4 tung2 ge3 wut6 dung6, san1 nin4 jiu3 baai3 nin4, paai3 lei6 si6, dyun1 ng5 zit3 jiu3 paa4 lung4 syun4, cung4 joeng4 zit3 jiu3 baai3 saan1, dang2 dang2, fong3 gaa3 hai6 wai6 zo2 fong1 bin6 si5 man4 zou6 ni1 di1 si6. zung6 jau5 zau6 hai6 lik6 si2 soeng6 jat1 di1 zung6 jiu3 ge3 jat6 zi2, pei3 jyu4 hoeng1 gong2 wui4 gwai1, gwok3 hing3, wui5 jau5 gun1 fong1 ge3 gei2 nim6 wut6 dung6. zi3 jyu1 sing3 daan3 zit3, fuk6 wut6 zit3, hai6 hoeng1 gong2, ji5 ging1 sing4 wai4 jat1 zung2 cyun4 tung2, ji5 sing3 daan3 zit3 wai4 lai6, hoeng1 gong2 jan4 zaap6 gwaan3 zo2 hai6 sing3 daan3 gaa3 kei4, jat1 gaa1 daai6 sai3 fong3 gaa3 heoi3 coeng4 sin3 leoi5 haang4, cung4 sing3 daan3 hoi1 ci2 heoi3 dou3 san1 lik6 san1 nin4 fong3 gaa3 jau1 sik1 haa6. sing3 daan3 zit3 ceoi4 zo2 hai6 gaau3 wui2 noi6 bou6, hai6 hoeng1 gong2 ni1 di1 zit3 jat6 ge3 zung1 gaau3 mei6 dou6 ji5 ging1 m4 hai6 dak6 bit6 ming4 hin2 laa3. daan6 hai6 ji1 si1 laan4 gaau3 tung4 dou6 gaau3 ge3 zit3 jat6 zau6 m4 jat1 joeng4 laa3, hoeng1 gong2 jan4 hai6 ni1 di1 jat6 zi2 fong3 gaa3 wui5 zou6 di1 mat1 je5 ne1? zing2 fu2 dou1 mou5 lei5 jau4 gung1 hoi1 hing3 zuk6 ni1 di1 zit3 jat6. zi3 jyu1 fat6 daan3, hoeng1 gong2 bun2 loi4 jau5 fat6 daan3 ni1 go3 gaa3 kei4 jau5 lik6 si2 jyun4 jan1. seoi1 jin4 fat6 daan3 hai6 jat1 go3 daai3 zung1 gaau3 sik1 coi2 ge3 zit3 jat6, daan6 hai6 syun3 hai6 jat1 go3 lai6 ngoi6.",
+          "meaning": "Currently, Hong Kong's public holidays are mostly traditional festivals like Lunar New Year, Ching Ming, Dragon Boat, Mid-Autumn, and Chung Yeung festivals. We have holidays on these days because we need to carry out traditional activities — New Year visits and giving red packets, dragon boat racing during Dragon Boat Festival, grave visits during Chung Yeung, etc. The holidays are for the convenience of citizens to do these things. There are also historically important dates like Hong Kong's reunification and National Day, which have official commemorative activities. As for Christmas and Easter, they have become a tradition in Hong Kong. Taking Christmas as an example, Hong Kong people are used to going on long-distance trips during the Christmas holiday period, from Christmas to the New Year. Apart from within churches, the religious flavour of these festivals in Hong Kong is no longer particularly obvious. But Islamic and Taoist festivals are different — what would Hong Kong people do on these days off? The government has no reason to publicly celebrate these festivals. As for Buddha's Birthday, Hong Kong originally has this holiday for historical reasons. Although it is a festival with religious colour, it counts as an exception."
+        },
+        {
+          "cantonese": "如果真係要一視同仁，好多喺香港每年都會慶祝嘅節日，好似萬聖節、感恩節、又或者瑞典嘅「聖露西亞日」、菲律賓嘅「朋友節」、泰國嘅「潑水節」、尼泊爾嘅新年，係咪都應該要增加一啲公眾假期俾佢哋呢？如果講到宗教信仰公平嘅話，我覺得而家嘅安排就好公平。至於唔同國家嘅文化，中國人社會基本上當然遵從中國文化，香港嘅外國人咁多，唔通韓國嘅節日、法國嘅節日、愛爾蘭嘅節日，我哋全部都要設立公眾假期咩？",
+          "jyutping": "jyu4 gwo2 zan1 hai6 jiu3 jat1 si6 tung4 jan4, hou2 do1 hai2 hoeng1 gong2 mui5 nin4 dou1 wui5 hing3 zuk1 ge3 zit3 jat6, hou2 ci5 maan6 sing3 zit3, gam1 jan1 zit3, jau6 waak6 ze2 seoi6 din2 ge3 sing3 lou6 sai1 ngaa4 jat6, fei1 leot6 ban1 ge3 pang4 jau5 zit3, taai3 gwok3 ge3 put3 seoi2 zit3, nei5 bok6 ji5 ge3 san1 nin4, hai6 mai6 dou1 jing1 goi1 jiu3 zang1 gaa1 jat1 di1 gung1 zung3 gaak3 kei4 bei2 keoi5 dei6 ne1? jyu4 gwo2 gong2 dou3 zung1 gaau3 seon3 joeng5 gung1 ping4 ge3 waa6, ngo5 gok3 dak1 ji4 gaa1 ge3 on1 paai4 zau6 hou2 gung1 ping4. zi3 jyu1 m4 tung4 gwok3 gaa1 ge3 man4 faa3, zung1 gwok3 jan4 se5 wui2 gei1 bun2 soeng5 dong1 jin4 zyun1 cung4 zung1 gwok3 man4 faa3, hoeng1 gong2 ge3 ngoi6 gwok3 jan4 gam3 do1, m4 tung1 hon4 gwok3 ge3 zit3 jat6, faat3 gwok3 ge3 zit3 jat6, ngoi6 ji5 laan4 ge3 zit3 jat6, ngo5 dei6 cyun4 bou6 dou1 jiu3 cit3 laap6 gung1 zung3 gaak3 kei4 me1?",
+          "meaning": "If we truly want to treat everyone equally, many festivals celebrated in Hong Kong every year — like Halloween, Thanksgiving, or Sweden's Saint Lucia Day, Philippines' Friendship Day, Thailand's Songkran, Nepal's New Year — should we also add public holidays for all of them? If we're talking about fairness in religious belief, I think the current arrangement is already fair. As for the cultures of different countries, Chinese society basically follows Chinese culture. With so many foreigners in Hong Kong, should we establish public holidays for Korean festivals, French festivals, Irish festivals too?"
+        },
+        {
+          "cantonese": "最後一點想補充嘅係，增加一個公眾假期，係咪要喺另一啲假期嗰度減少返啲呢？如果淨係增加一兩個節日，而唔減少其他假期，噉公眾假期會唔會太多呢？公眾假期太多，第一個出嚟反對嘅一定係啲大老闆。佢哋會話，平時已經忙到要加班，休息一日，公司就會少搵多錢，關係到錢嘅問題，佢哋想唔反對都唔得。如果增設伊斯蘭教節同道教節同埋聖誕節係咪應該放少啲呢？但係新年假期同聖誕節本來就放得唔多㗎，再減嘅話，香港人會唔會唔高興呢？所以討論呢個問題嘅時候，需要考慮好多方面嘅問題，而且要照顧社會上唔同人嘅聲音，我認為唔可以隨便改變公眾假期嘅安排。呢個係我個人嘅睇法，多謝大家。",
+          "jyutping": "zeoi3 hau6 jat1 dim2 soeng2 bou2 cung1 ge3 hai6, zang1 gaa1 jat1 go3 gung1 zung3 gaak3 kei4, hai6 mai6 jiu3 hai2 ling6 jat1 di1 gaa3 kei4 go2 dou6 gaam2 siu2 faan1 di1 ne1? jyu4 gwo2 zing6 hai6 zang1 gaa1 jat1 loeng5 go3 zit3 jat6, ji4 m4 gaam2 siu2 kei4 taa1 gaa3 kei4, gam2 gung1 zung3 gaak3 kei4 wui5 m4 wui5 taai3 do1 ne1? gung1 zung3 gaak3 kei4 taai3 do1, dai6 jat1 go3 ceot1 lai4 faan2 deoi3 ge3 jat1 ding6 hai6 di1 daai6 lou5 baan2. keoi5 dei2 wui5 waa6, ping4 si4 ji5 ging1 mong4 dou3 jiu3 gaa1 baan1, jau1 sik1 jat1 jat6, gung1 si1 zau6 wui2 siu2 wan2 do1 cin2, gwaan1 hai6 dou3 cin2 ge3 man6 tai4, keoi5 dei2 soeng2 m4 faan2 deoi3 dou1 m4 dak1. jyu4 gwo2 zang1 cit1 ji1 si1 laan4 gaau3 zit3 tung4 dou6 gaau3 zit3, gam2 san1 nin4 gaa3 kei4 tung4 sing3 daan3 zit3 hai6 mai6 jing1 goi1 fong3 siu2 di1 ne1? daan6 hai6 san1 nin4 gaa3 kei4 tung4 sing3 daan3 zit3 bun2 loi4 zau6 fong3 dak1 m4 do1 gaa3, zoi3 gaam2 ge3 waa6, hoeng1 gong2 jan4 wui5 m4 wui5 m4 gou1 hing3 ne1? so2 ji5 tou2 leon6 ni1 go3 man6 tai4 ge3 si4 hau6, seoi1 jiu3 haau2 leoi6 hou2 do1 fong1 min6 ge3 man6 tai4, ji4 ce2 jiu3 ziu3 gu3 se5 wui2 soeng5 m4 tung4 jan4 ge3 seng1 jam1, ngo5 jing6 wai4 m4 ho2 ji5 ceoi4 bin6 goi2 bin3 gung1 zung3 gaak3 kei4 ge3 on1 paai4. ni1 go3 hai6 ngo5 go3 jan4 ge3 tai2 faat3, do1 ze6 daai6 gaa1.",
+          "meaning": "Lastly, I want to add that if we add a public holiday, should we reduce some other holidays? If we only add one or two festivals without reducing other holidays, would there be too many public holidays? If there are too many, the first to object would definitely be the big bosses. They would say they are already so busy they need to work overtime, and one day of rest means the company earns less money. When it comes to money, they can't help but object. If we add Islamic and Taoist festival holidays, should Christmas holidays be reduced? But the New Year and Christmas holidays are already not that many; if we reduce them further, would Hong Kong people be unhappy? So when discussing this issue, we need to consider many aspects and take into account the voices of different people in society. I believe we cannot casually change the arrangement of public holidays. This is my personal view, thank you everyone."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "title": "租房篇",
+  "theme": "renting",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "2.1 課文：瑪麗搵租盤",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "唔該我想租間房，喺呢度附近嗰，有冇好介紹呀？",
+          "jyutping": "m4 goi1 ngo5 soeng2 zou1 gaan1 fong2, hai2 ni1 dou6 fu6 gan6 ge3, jau5 mou5 hou2 gaai3 siu6 aa3?",
+          "meaning": "Excuse me, I want to rent a room, nearby here, any good recommendations?",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "得，請坐吖！我姓陳，點稱呼你呀小姐？",
+          "jyutping": "dak1, cing2 co5 aa1! ngo5 sing3 can4, dim2 cing1 fu1 nei5 aa1 siu2 ze2?",
+          "meaning": "Sure, please sit down! My surname is Chan, how should I address you, miss?",
+          "speaker": "經紀陳先生"
+        },
+        {
+          "cantonese": "我姓王。",
+          "jyutping": "ngo5 sing3 wong4.",
+          "meaning": "My surname is Wong.",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "王小姐，請問你想搵一個人住嘅單位定係同其他人合租呀？",
+          "jyutping": "wong4 siu2 ze2, cing2 man6 nei5 soeng2 wan2 jat1 go3 jan4 zyu6 ge3 daan1 wai2 ding6 hai6 tung4 kei4 taa1 jan4 hap6 zou1 aa3?",
+          "meaning": "Miss Wong, may I ask if you want to find a unit for one person or share with others?",
+          "speaker": "經紀陳先生"
+        },
+        {
+          "cantonese": "我打算自己一個人住，有自己嘅廚房同廁所。",
+          "jyutping": "ngo5 daa2 syun3 zi6 gei2 jat1 go3 jan4 zyu6, jau5 zi6 gei2 ge3 ceoi4 fong2 tung4 ci3 so2.",
+          "meaning": "I plan to live alone, with my own kitchen and bathroom.",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "呢個區嘅兩房一廳租緊萬四蚊到萬八蚊嘅。你嘅 budget 大概幾多錢度呢？",
+          "jyutping": "ni1 go3 keoi1 ge3 loeng5 fong2 jat1 teng1 zou1 gan2 maan6 sei3 man1 dou3 maan6 baat3 man1 ge3. nei5 ge3 budget daai6 koi3 gei2 do1 cin2 dou6 ne1?",
+          "meaning": "Two-bedroom flats in this area are renting for about $14,000 to $18,000. What's your budget approximately?",
+          "speaker": "經紀陳先生"
+        },
+        {
+          "cantonese": "嘩，成萬八蚊咁貴嘅，有冇平啲嘅？",
+          "jyutping": "waa3, seng4 maan6 baat3 man1 gam3 gwai3 ge2, jau5 mou5 peng4 di1 ge3?",
+          "meaning": "Wow, as much as $18,000, that expensive, are there cheaper ones?",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "有，但係得一間房，一個廳嘅，廚房好細，廁所有浴缸。業主嗌緊一萬二千，我可以幫你還價萬一蚊都得。",
+          "jyutping": "jau5, daan6 hai6 dak1 jat1 gaan1 fong2, jat1 go3 teng1 ge3, ceoi4 fong2 hou2 sai3, ci3 so2 jau5 juk6 gong1. jip6 zyu2 ngaai4 gan2 jat1 maan6 ji6 cin1, ngo5 ho2 ji5 bong1 nei5 waan4 gaa3 maan6 jat1 man1 dou1 dak1.",
+          "meaning": "Yes, but it only has one room, one living room, the kitchen is very small, the bathroom has a bathtub. The landlord is asking $12,000, I can help you bargain down to $11,000.",
+          "speaker": "經紀陳先生"
+        }
+      ]
+    },
+    {
+      "title": "2.2 課文：琪琪喺服務式住宅查詢",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "唔該，我想問吓呢度租房嘅價錢。",
+          "jyutping": "m4 goi1, ngo5 soeng2 man6 haa5 ni1 dou6 zou1 fong2 ge3 gaa3 cin2.",
+          "meaning": "Excuse me, I'd like to ask about the rental prices here.",
+          "speaker": "琪琪"
+        },
+        {
+          "cantonese": "請問你幾多人住呀？",
+          "jyutping": "cing2 man6 nei5 gei2 do1 jan4 zyu6 aa3?",
+          "meaning": "May I ask how many people will be living?",
+          "speaker": "詢問處接待員"
+        },
+        {
+          "cantonese": "我同我朋友兩個人一齊住。",
+          "jyutping": "ngo5 tung4 ngo5 pang4 jau5 loeng5 go3 jan4 jat1 cai4 zyu6.",
+          "meaning": "My friend and I, two people living together.",
+          "speaker": "琪琪"
+        },
+        {
+          "cantonese": "兩個人唔可以淨係租一間房，要租一個單位。呢度有兩房同三房嘅單位，你哋需要邊種呢？",
+          "jyutping": "loeng5 go3 jan4 m4 ho2 ji5 zing6 hai6 zou1 jat1 gaan1 fong2, jiu3 zou1 jat1 go3 daan1 wai2. ni1 dou6 jau5 loeng5 fong2 tung4 saam1 fong2 ge3 daan1 wai2, nei5 dei6 seoi1 jiu3 bin1 zung2 aa3?",
+          "meaning": "Two people can't just rent one room, you need to rent a unit. We have two-bedroom and three-bedroom units here, which type do you need?",
+          "speaker": "詢問處接待員"
+        },
+        {
+          "cantonese": "我哋住兩房單位夠啦。",
+          "jyutping": "ngo5 dei6 zyu6 loeng5 fong2 daan1 wai2 gau3 laa1.",
+          "meaning": "A two-bedroom unit is enough for us.",
+          "speaker": "琪琪"
+        },
+        {
+          "cantonese": "兩房單位每個月一萬七千蚊，包水費、管理費同煤氣費，電費另計。我哋呢度一個月起租，不過要俾兩個月按金同一個月上期先。",
+          "jyutping": "loeng5 fong2 daan1 wai2 mui5 go3 jyut6 jat1 maan6 cat1 cin1 man1, baau1 seoi2 fai3, gun2 lei5 fai3 tung4 mui4 hei3 fai3, din6 fai3 ling6 gai3. ngo5 dei6 ni1 dou6 jat1 go3 jyut6 hei2 zou1, bat1 gwo3 jiu3 bei2 loeng5 go3 jyut6 on3 gam1 tung4 jat1 go3 jyut6 soeng6 kei4 sin1.",
+          "meaning": "A two-bedroom unit is $17,000 per month, including water bill, management fee, and gas bill. Electricity is charged separately. We rent from one month minimum, but you need to pay two months' deposit and one month's rent in advance first.",
+          "speaker": "詢問處接待員"
+        },
+        {
+          "cantonese": "屋裏面有啲乜嘢設備呀？",
+          "jyutping": "uk1 leoi5 min6 jau5 di1 mat1 je5 cit3 bei6 aa3?",
+          "meaning": "What facilities are there inside the flat?",
+          "speaker": "琪琪"
+        },
+        {
+          "cantonese": "我哋包全屋傢俬同電器，有雪櫃、微波爐、抽油煙機、冷氣機、電視機、吸塵機、洗衣機同抽濕機。",
+          "jyutping": "ngo5 dei6 baau1 cyun4 uk1 gaa1 si1 tung4 din6 hei3, jau5 syut3 gwai6, mei4 bo1 lou4, cau1 jau4 jin1 gei1, laang5 hei3 gei1, din6 si6 gei1, kap1 can4 gei1, sai2 ji1 gei1 tung4 cau1 sap1 gei1.",
+          "meaning": "We include all furniture and electrical appliances: fridge, microwave oven, range hood, air conditioner, TV, vacuum cleaner, washing machine, and dehumidifier.",
+          "speaker": "詢問處接待員"
+        },
+        {
+          "cantonese": "上網呢？請問入便有冇 Wi-fi 呀？",
+          "jyutping": "soeng5 mong5 ne1? cing2 man6 jap6 bin6 jau5 mou5 Wi-fi aa3?",
+          "meaning": "What about internet? Is there Wi-fi inside?",
+          "speaker": "琪琪"
+        },
+        {
+          "cantonese": "我哋嘅酒店式公寓間間房都提供 Wi-fi 服務，月費係二百五十蚊，無限上網。",
+          "jyutping": "ngo5 dei6 ge3 zau2 dim3 sik1 gung1 jyu4 gaan1 gaan1 fong2 dou1 tai4 gung1 Wi-fi fuk6 mou6, jyut6 fai3 hai6 ji6 baak3 ng5 sap6 man1, mou4 haan6 soeng5 mong5.",
+          "meaning": "Our serviced apartments all provide Wi-fi service in every room, the monthly fee is $250, unlimited internet.",
+          "speaker": "詢問處接待員"
+        },
+        {
+          "cantonese": "唔該你，等我哋考慮吓先。",
+          "jyutping": "m4 goi1 nei5, dang2 ngo5 dei6 haau2 leoi6 haa5 sin1.",
+          "meaning": "Thank you, let us think it over first.",
+          "speaker": "琪琪"
+        },
+        {
+          "cantonese": "唔好客氣，呢張係我嘅卡片，我叫 Joanne，呢啲係我哋酒店嘅資料，有咩嘢唔清楚隨時打電話俾我哋啦。",
+          "jyutping": "m4 hou2 haak3 hei3, ni1 zoeng1 hai6 ngo5 ge3 kaat1 pin2, ngo5 giu3 Joanne, ni1 di1 hai6 ngo5 dei6 zau2 dim3 ge3 zi1 liu2, jau5 me1 je5 m4 cing1 co2 ceoi4 si4 daa2 din6 waa2 bei2 ngo5 dei6 laa1.",
+          "meaning": "You're welcome, this is my business card, my name is Joanne, these are our hotel's information materials, if anything is unclear feel free to call us anytime.",
+          "speaker": "詢問處接待員"
+        }
+      ]
+    },
+    {
+      "title": "3.1 補充語彙：常用詞語",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "租",
+          "jyutping": "zou1",
+          "meaning": "rent, hire",
+          "pos": "V"
+        },
+        {
+          "cantonese": "合租",
+          "jyutping": "hap6 zou1",
+          "meaning": "shared accommodation",
+          "pos": "N/V"
+        },
+        {
+          "cantonese": "起租",
+          "jyutping": "hei2 zou1",
+          "meaning": "start of renting period",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "單位",
+          "jyutping": "daan1 wai2",
+          "meaning": "flat, unit",
+          "pos": "N"
+        },
+        {
+          "cantonese": "度",
+          "jyutping": "dou6",
+          "meaning": "approximately; about",
+          "pos": "Adv"
+        },
+        {
+          "cantonese": "成",
+          "jyutping": "seng4",
+          "meaning": "almost, nearly, more or less, about the same",
+          "pos": "Adv"
+        },
+        {
+          "cantonese": "得",
+          "jyutping": "dak1",
+          "meaning": "only; alone",
+          "pos": "Adv"
+        },
+        {
+          "cantonese": "嗌",
+          "jyutping": "ngaai4",
+          "meaning": "bid; ask price",
+          "pos": "V"
+        },
+        {
+          "cantonese": "還價",
+          "jyutping": "waan4 gaa3",
+          "meaning": "counter-offer; counter-bid; bargain",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "價錢",
+          "jyutping": "gaa3 cin2",
+          "meaning": "price",
+          "pos": "N"
+        },
+        {
+          "cantonese": "邊種",
+          "jyutping": "bin1 zung2",
+          "meaning": "which kind; which type",
+          "pos": "QW"
+        },
+        {
+          "cantonese": "包",
+          "jyutping": "baau1",
+          "meaning": "include",
+          "pos": "V"
+        },
+        {
+          "cantonese": "設備",
+          "jyutping": "cit3 bei6",
+          "meaning": "equipment; installation; facilities",
+          "pos": "N"
+        },
+        {
+          "cantonese": "全",
+          "jyutping": "cyun4",
+          "meaning": "whole or entire",
+          "pos": "Att"
+        },
+        {
+          "cantonese": "傢俬",
+          "jyutping": "gaa1 si1",
+          "meaning": "furniture",
+          "pos": "N"
+        },
+        {
+          "cantonese": "電器",
+          "jyutping": "din6 hei3",
+          "meaning": "electrical appliance",
+          "pos": "N"
+        },
+        {
+          "cantonese": "無限",
+          "jyutping": "mou4 haan6",
+          "meaning": "unlimited",
+          "pos": "Adv"
+        },
+        {
+          "cantonese": "考慮",
+          "jyutping": "haau2 leoi6",
+          "meaning": "consider; think over",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "title": "3.2 補充語彙：專有名詞及地方詞",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "瑪麗",
+          "jyutping": "maa5 lai6",
+          "meaning": "Mary",
+          "pos": "PN"
+        },
+        {
+          "cantonese": "琪琪",
+          "jyutping": "kei4 kei4",
+          "meaning": "Kate",
+          "pos": "PN"
+        },
+        {
+          "cantonese": "浴缸",
+          "jyutping": "juk6 gong1",
+          "meaning": "bathtub",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "酒店式公寓",
+          "jyutping": "zau2 dim3 sik1 gung1 jyu4",
+          "meaning": "serviced apartment",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "酒店式住宅",
+          "jyutping": "zau2 dim3 sik1 zyu6 zaak6",
+          "meaning": "serviced apartment",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "書房",
+          "jyutping": "syu1 fong2",
+          "meaning": "study room",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "超級市場",
+          "jyutping": "ciu1 kap1 si5 coeng4",
+          "meaning": "supermarket",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "街市",
+          "jyutping": "gaai1 si5",
+          "meaning": "food market; wet market",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "體育館",
+          "jyutping": "tai2 juk6 gun2",
+          "meaning": "sports centre; gymnasium",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "快餐店",
+          "jyutping": "faai3 caan1 dim3",
+          "meaning": "fast food shop",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "大家樂",
+          "jyutping": "daai6 gaa1 lok6",
+          "meaning": "Cafe De Coral, a famous local fast food shop established in 1968",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "茶餐廳",
+          "jyutping": "caa4 caan1 teng1",
+          "meaning": "tea restaurant; serves fast food from Hong Kong cuisine and Hong Kong-style Western cuisine",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "屋邨",
+          "jyutping": "uk1 cyun1",
+          "meaning": "housing estate",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "市政大樓",
+          "jyutping": "si5 zing3 daai6 lau2",
+          "meaning": "municipal services building",
+          "pos": "N/PW"
+        },
+        {
+          "cantonese": "泳池",
+          "jyutping": "wing6 ci4",
+          "meaning": "swimming pool",
+          "pos": "N/PW"
+        }
+      ]
+    },
+    {
+      "title": "3.3 補充語彙：地產公司",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "經紀",
+          "jyutping": "ging1 gei2",
+          "meaning": "broker, agent, middleman",
+          "pos": "N"
+        },
+        {
+          "cantonese": "業主",
+          "jyutping": "jip6 zyu2",
+          "meaning": "owner (of a house or room); landlord",
+          "pos": "N"
+        },
+        {
+          "cantonese": "卡片",
+          "jyutping": "kaat1 pin2",
+          "meaning": "(business) card",
+          "pos": "N"
+        },
+        {
+          "cantonese": "詢問處接待員",
+          "jyutping": "seon1 man6 cyu5 zip3 doi6 jyun4",
+          "meaning": "receptionist at the information counter",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.4 補充語彙：費用",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "水費",
+          "jyutping": "seoi2 fai3",
+          "meaning": "water bill",
+          "pos": "N"
+        },
+        {
+          "cantonese": "管理費",
+          "jyutping": "gun2 lei5 fai3",
+          "meaning": "management fee",
+          "pos": "N"
+        },
+        {
+          "cantonese": "煤氣費",
+          "jyutping": "mui4 hei3 fai3",
+          "meaning": "gas bill",
+          "pos": "N"
+        },
+        {
+          "cantonese": "電費",
+          "jyutping": "din6 fai3",
+          "meaning": "electricity bill",
+          "pos": "N"
+        },
+        {
+          "cantonese": "按金",
+          "jyutping": "on3 gam1",
+          "meaning": "deposit (money)",
+          "pos": "N"
+        },
+        {
+          "cantonese": "上期",
+          "jyutping": "soeng6 kei4",
+          "meaning": "advance payment (of rent); first month's rent",
+          "pos": "N"
+        },
+        {
+          "cantonese": "月費",
+          "jyutping": "jyut6 fai3",
+          "meaning": "monthly fee or monthly charge",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.5 補充語彙：傢俬及電器",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "微波爐",
+          "jyutping": "mei4 bo1 lou4",
+          "meaning": "microwave oven",
+          "pos": "N"
+        },
+        {
+          "cantonese": "焗爐",
+          "jyutping": "guk6 lou4",
+          "meaning": "oven",
+          "pos": "N"
+        },
+        {
+          "cantonese": "抽油煙機",
+          "jyutping": "cau1 jau4 jin1 gei1",
+          "meaning": "range hood; kitchen exhaust hood",
+          "pos": "N"
+        },
+        {
+          "cantonese": "冷氣機",
+          "jyutping": "laang5 hei3 gei1",
+          "meaning": "air conditioner",
+          "pos": "N"
+        },
+        {
+          "cantonese": "吸塵機",
+          "jyutping": "kap1 can4 gei1",
+          "meaning": "vacuum cleaner",
+          "pos": "N"
+        },
+        {
+          "cantonese": "洗衣機",
+          "jyutping": "sai2 ji1 gei1",
+          "meaning": "washing machine",
+          "pos": "N"
+        },
+        {
+          "cantonese": "抽濕機",
+          "jyutping": "cau1 sap1 gei1",
+          "meaning": "dehumidifier",
+          "pos": "N"
+        },
+        {
+          "cantonese": "梳化",
+          "jyutping": "so1 faa2",
+          "meaning": "sofa",
+          "pos": "N"
+        },
+        {
+          "cantonese": "枱",
+          "jyutping": "toi2",
+          "meaning": "table; desk",
+          "pos": "N"
+        },
+        {
+          "cantonese": "櫈",
+          "jyutping": "dang3",
+          "meaning": "chair; stool or bench",
+          "pos": "N"
+        },
+        {
+          "cantonese": "衣櫃",
+          "jyutping": "ji1 gwai6",
+          "meaning": "wardrobe",
+          "pos": "N"
+        },
+        {
+          "cantonese": "櫥櫃",
+          "jyutping": "ceoi4 gwai6",
+          "meaning": "cupboard",
+          "pos": "N"
+        },
+        {
+          "cantonese": "牀",
+          "jyutping": "cong4",
+          "meaning": "bed",
+          "pos": "N"
+        },
+        {
+          "cantonese": "書架",
+          "jyutping": "syu1 gaa2",
+          "meaning": "bookshelf; bookcase",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.6 補充語彙：食物及物品",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "西多士",
+          "jyutping": "sai1 do1 si2",
+          "meaning": "French toast",
+          "pos": "N"
+        },
+        {
+          "cantonese": "菠蘿包",
+          "jyutping": "bo1 lo4 baau1",
+          "meaning": "sweet bun; pineapple bun",
+          "pos": "N"
+        },
+        {
+          "cantonese": "蛋撻",
+          "jyutping": "daan6 taat1",
+          "meaning": "egg tart",
+          "pos": "N"
+        },
+        {
+          "cantonese": "叉燒意粉",
+          "jyutping": "caa1 siu1 ji3 fan2",
+          "meaning": "barbecued pork with spaghetti in soup",
+          "pos": "N"
+        },
+        {
+          "cantonese": "下午茶",
+          "jyutping": "haa6 ng5 caa4",
+          "meaning": "afternoon tea",
+          "pos": "N"
+        },
+        {
+          "cantonese": "雜物",
+          "jyutping": "zaap6 mat6",
+          "meaning": "junk; various bits and bots; items of no value",
+          "pos": "N"
+        },
+        {
+          "cantonese": "鞋",
+          "jyutping": "haai4",
+          "meaning": "shoes",
+          "pos": "N"
+        },
+        {
+          "cantonese": "化妝品",
+          "jyutping": "faa3 zong1 ban2",
+          "meaning": "cosmetics; makeup product",
+          "pos": "N"
+        },
+        {
+          "cantonese": "日用品",
+          "jyutping": "jat6 jung6 ban2",
+          "meaning": "articles for everyday use",
+          "pos": "N"
+        }
+      ]
+    }
+  ]
+}

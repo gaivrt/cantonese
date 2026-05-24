@@ -1,0 +1,356 @@
+{
+  "title": "試堂",
+  "theme": "trial",
+  "level": "beginner",
+  "sections": [
+    {
+      "title": "一 課文",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "我哋初次見面，認識一下先。",
+          "jyutping": "ngo5 dei6 co1 ci3 gin3 min6, jing6 sik1 jat1 haa5 sin1.",
+          "meaning": "我们初次见面，认识一下先。"
+        },
+        {
+          "cantonese": "你貴姓呀？",
+          "jyutping": "nei5 gwai3 sing3 aa3?",
+          "meaning": "你贵姓呀？"
+        },
+        {
+          "cantonese": "呢位先生貴姓呀？",
+          "jyutping": "ni1 wai2 sin1 saang1 gwai3 sing3 aa3?",
+          "meaning": "这位先生贵姓呀？"
+        },
+        {
+          "cantonese": "嗰位小姐係邊個呀？",
+          "jyutping": "go2 wai2 siu2 ze2 hai6 bin1 go3 aa3?",
+          "meaning": "那位小姐是哪个呀？"
+        },
+        {
+          "cantonese": "佢叫乜嘢名呀？",
+          "jyutping": "keoi5 giu3 mat1 je5 meng2 aa3?",
+          "meaning": "他叫什么名字呀？"
+        },
+        {
+          "cantonese": "我姓王，係三畫王，嗰個「Wong」。",
+          "jyutping": "ngo5 sing3 wong4, hai6 saam1 waak6 wong4, go2 go3 wong4.",
+          "meaning": "我姓王，是三画王，那个「Wong」。"
+        },
+        {
+          "cantonese": "佢姓黃，係黃河嘅「Wong」。",
+          "jyutping": "keoi5 sing3 wong4, hai6 wong4 ho4 ge3 wong4.",
+          "meaning": "他姓黄，是黄河的「黄」。"
+        },
+        {
+          "cantonese": "我嚟自我介紹一下啦。",
+          "jyutping": "ngo5 lai4 zi6 ngo5 gaai3 siu6 jat1 haa5 laa1.",
+          "meaning": "我来自我介绍一下啦。"
+        },
+        {
+          "cantonese": "等我嚟介紹一下，呢位係吳先生。",
+          "jyutping": "dang2 ngo5 lai4 gaai3 siu6 jat1 haa5, ni1 wai2 hai6 ng4 sin1 saang1.",
+          "meaning": "等我来介绍一下，这位是吴先生。"
+        },
+        {
+          "cantonese": "好高興認識你。",
+          "jyutping": "hou2 gou1 hing3 jing6 sik1 nei5.",
+          "meaning": "好高兴认识你。"
+        }
+      ]
+    },
+    {
+      "title": "二 「名」在粵語中的異讀現象",
+      "type": "grammar_note",
+      "units": [
+        {
+          "cantonese": "名 ming4：姓名 sing3 ming4",
+          "jyutping": "ming4",
+          "meaning": "名字（名词义）"
+        },
+        {
+          "cantonese": "名 meng2：叫乜嘢名 giu3 mat1 je5 meng2",
+          "jyutping": "meng2",
+          "meaning": "名字（口语称呼义）"
+        }
+      ]
+    },
+    {
+      "title": "三 結構助詞：「嘅」",
+      "type": "grammar_note",
+      "units": [
+        {
+          "cantonese": "「嘅」相當於普通話中的「的」，一般表示修飾關係及領屬關係。",
+          "jyutping": "ge3",
+          "meaning": "相当于普通话中的「的」"
+        },
+        {
+          "cantonese": "初次嘅見面",
+          "jyutping": "co1 ci3 ge3 gin3 min6",
+          "meaning": "初次的见面（修饰关系）"
+        },
+        {
+          "cantonese": "佢嘅名",
+          "jyutping": "keoi5 ge3 meng2",
+          "meaning": "他的名字（领属关系）"
+        },
+        {
+          "cantonese": "黃河嘅黃",
+          "jyutping": "wong4 ho4 ge3 wong4",
+          "meaning": "黄河的黄（举例用法）"
+        }
+      ]
+    },
+    {
+      "title": "四 副詞：「好」",
+      "type": "grammar_note",
+      "units": [
+        {
+          "cantonese": "「好」表示程度很高，相當於普通話中的「很」、「非常」、「十分」等。",
+          "jyutping": "hou2",
+          "meaning": "很、非常、十分"
+        },
+        {
+          "cantonese": "我好好。",
+          "jyutping": "ngo5 hou2 hou2.",
+          "meaning": "我很好。"
+        },
+        {
+          "cantonese": "啲嘢好貴。",
+          "jyutping": "di1 je5 hou2 gwai3.",
+          "meaning": "东西很贵。"
+        }
+      ]
+    },
+    {
+      "title": "五 否定詞",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "唔",
+          "jyutping": "m4",
+          "meaning": "不",
+          "examples": ["唔知", "唔使（不用）", "好唔好", "係唔係"]
+        },
+        {
+          "cantonese": "冇",
+          "jyutping": "mou5",
+          "meaning": "沒有",
+          "examples": ["有冇", "冇睇過", "冇意見"]
+        },
+        {
+          "cantonese": "未",
+          "jyutping": "mei6",
+          "meaning": "沒（未完成）",
+          "examples": ["得未（好了嗎）", "未睇完", "未去過"]
+        },
+        {
+          "cantonese": "咪",
+          "jyutping": "mai5",
+          "meaning": "別，不是",
+          "examples": ["咪客氣", "咪行咁快（別走這麼快）"]
+        }
+      ]
+    },
+    {
+      "title": "六 動詞",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "係",
+          "jyutping": "hai6",
+          "meaning": "是",
+          "examples": ["係唔係", "係邊個", "定係（還是）"]
+        },
+        {
+          "cantonese": "嚟",
+          "jyutping": "lai4",
+          "meaning": "來",
+          "examples": ["入嚟（進來）", "我嚟先", "佢嚟咗（他來了）"]
+        },
+        {
+          "cantonese": "搵",
+          "jyutping": "wan2",
+          "meaning": "找",
+          "examples": ["搵到", "搵乜嘢", "搵邊個"]
+        },
+        {
+          "cantonese": "畀",
+          "jyutping": "bei2",
+          "meaning": "給",
+          "examples": ["畀我", "畀佢", "畀錢我（給我錢）"]
+        },
+        {
+          "cantonese": "企",
+          "jyutping": "kei5",
+          "meaning": "站",
+          "examples": ["企出啲（往外站）", "企入啲（往裏站）", "企定啲（站穩點）"]
+        },
+        {
+          "cantonese": "睇",
+          "jyutping": "tai2",
+          "meaning": "看",
+          "examples": ["睇一睇", "睇見佢", "睇定啲（看準點）"]
+        },
+        {
+          "cantonese": "諗",
+          "jyutping": "nam2",
+          "meaning": "想",
+          "examples": ["諗計（想辦法）", "諗住（想著）", "諗唔起", "諗清楚"]
+        },
+        {
+          "cantonese": "傾",
+          "jyutping": "king1",
+          "meaning": "談",
+          "examples": ["傾偈（聊天）", "傾（一）傾", "傾咗好耐（談了好久）"]
+        }
+      ]
+    },
+    {
+      "title": "七 形容詞",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "平",
+          "jyutping": "peng4",
+          "meaning": "便宜",
+          "examples": ["好平", "平價（廉價）", "平到死（便宜得很）"]
+        },
+        {
+          "cantonese": "靚",
+          "jyutping": "leng3",
+          "meaning": "漂亮",
+          "examples": ["好靚", "靚湯（好湯）", "靚到死（漂亮得很）"]
+        },
+        {
+          "cantonese": "正",
+          "jyutping": "zeng3",
+          "meaning": "不錯",
+          "examples": ["好正", "平靚正（便宜美觀又好使）"]
+        },
+        {
+          "cantonese": "啱",
+          "jyutping": "ngaam1",
+          "meaning": "適合，正好",
+          "examples": ["唔啱（不對）", "啱啱好（剛剛好）"]
+        },
+        {
+          "cantonese": "掂",
+          "jyutping": "dim6",
+          "meaning": "好，順利，沒問題",
+          "examples": ["唔掂", "搞掂", "實掂（一定行）"]
+        },
+        {
+          "cantonese": "焗",
+          "jyutping": "guk6",
+          "meaning": "悶",
+          "examples": ["好焗", "又逼又焗（又擠又悶）"]
+        }
+      ]
+    },
+    {
+      "title": "八 其他詞類",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "嘅",
+          "jyutping": "ge3",
+          "meaning": "的",
+          "examples": ["我嘅", "你嘅", "邊個嘅"]
+        },
+        {
+          "cantonese": "喺",
+          "jyutping": "hai2",
+          "meaning": "在",
+          "examples": ["喺呢度", "喺個度", "喺邊度"]
+        },
+        {
+          "cantonese": "嚿",
+          "jyutping": "gau6",
+          "meaning": "塊（量詞）",
+          "examples": ["一嚿肉", "一嚿蛋糕", "一嚿石頭"]
+        },
+        {
+          "cantonese": "文/蚊",
+          "jyutping": "man1",
+          "meaning": "元",
+          "examples": ["一文", "一文雞（一塊錢）", "三百文"]
+        }
+      ]
+    },
+    {
+      "title": "九 時間表達",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "今日", "jyutping": "gam1 jat6", "meaning": "今天" },
+        { "cantonese": "聽日", "jyutping": "ting1 jat6", "meaning": "明天" },
+        { "cantonese": "琴日", "jyutping": "kam4 jat6", "meaning": "昨天" },
+        { "cantonese": "朝早", "jyutping": "ziu1 zou2", "meaning": "早上" },
+        { "cantonese": "上晝", "jyutping": "soeng6 zau3", "meaning": "上午" },
+        { "cantonese": "晏晝", "jyutping": "an3 zau3", "meaning": "中午" },
+        { "cantonese": "下晝", "jyutping": "haa6 zau3", "meaning": "下午" },
+        { "cantonese": "晚黑", "jyutping": "maan5 hak1", "meaning": "晚上" },
+        { "cantonese": "而家", "jyutping": "ji4 gaa1", "meaning": "現在" },
+        { "cantonese": "啱啱", "jyutping": "ngaam1 ngaam1", "meaning": "剛剛" },
+        { "cantonese": "啱先", "jyutping": "ngaam1 sin1", "meaning": "剛才" },
+        { "cantonese": "早排", "jyutping": "zou2 paai4", "meaning": "前陣子" },
+        { "cantonese": "呢排/近排", "jyutping": "ni1 paai4 / gan6 paai4", "meaning": "近來" },
+        { "cantonese": "舊時", "jyutping": "gau6 si4", "meaning": "從前" },
+        { "cantonese": "嗰陣", "jyutping": "go2 zan6", "meaning": "那時候" },
+        { "cantonese": "第二日/第二時", "jyutping": "dai6 ji6 jat6 / dai6 ji6 si4", "meaning": "下次，下回，以後" }
+      ]
+    },
+    {
+      "title": "十 方位表達",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "上便", "jyutping": "soeng6 bin6", "meaning": "上邊兒" },
+        { "cantonese": "下便", "jyutping": "haa6 bin6", "meaning": "下邊兒" },
+        { "cantonese": "出便/外便", "jyutping": "ceot1 bin6 / ngoi6 bin6", "meaning": "外邊兒" },
+        { "cantonese": "入便/裏便", "jyutping": "jap6 bin6 / leoi5 bin6", "meaning": "裏邊兒" },
+        { "cantonese": "前便", "jyutping": "cin4 bin6", "meaning": "前邊兒" },
+        { "cantonese": "後便", "jyutping": "hau6 bin6", "meaning": "後邊兒" },
+        { "cantonese": "右（手）便", "jyutping": "jau6 (sau2) bin6", "meaning": "右邊兒" },
+        { "cantonese": "左（手）便", "jyutping": "zo2 (sau2) bin6", "meaning": "左邊兒" }
+      ]
+    },
+    {
+      "title": "十一 常用交際語",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "早晨", "jyutping": "zou2 san4", "meaning": "早安" },
+        { "cantonese": "早啲", "jyutping": "zou2 tau4", "meaning": "晚安" },
+        { "cantonese": "唔該", "jyutping": "m4 goi1", "meaning": "勞駕" },
+        { "cantonese": "唔該晒", "jyutping": "m4 goi1 saai3", "meaning": "勞駕了" },
+        { "cantonese": "唔使客氣", "jyutping": "m4 sai2 haak3 hei3", "meaning": "不用客氣" },
+        { "cantonese": "唔緊要", "jyutping": "m4 gan2 jiu3", "meaning": "不要緊，沒關係" },
+        { "cantonese": "冇問題", "jyutping": "mou5 man6 tai4", "meaning": "沒問題" }
+      ]
+    },
+    {
+      "title": "十二 聲母字例",
+      "type": "phonetics",
+      "units": [
+        { "cantonese": "b：包庇 / 保鏢", "jyutping": "baau1 bei3 / bou2 biu1", "meaning": "b 声母" },
+        { "cantonese": "p：琵琶 / 批評", "jyutping": "pei4 paa4 / pai1 ping4", "meaning": "p 声母" },
+        { "cantonese": "m：文武 / 美滿", "jyutping": "man4 mou5 / mei5 mun5", "meaning": "m 声母" },
+        { "cantonese": "f：分化 / 豐富", "jyutping": "fan1 faa3 / fung1 fu3", "meaning": "f 声母" },
+        { "cantonese": "d：等待 / 打賭", "jyutping": "dang2 doi6 / daa2 dou2", "meaning": "d 声母" },
+        { "cantonese": "t：太太 / 肚痛", "jyutping": "taai3 taai2 / tou5 tung3", "meaning": "t 声母" },
+        { "cantonese": "n：男女 / 鬧你", "jyutping": "naam4 neoi5 / naau6 nei5", "meaning": "n 声母" },
+        { "cantonese": "l：輪流 / 料理", "jyutping": "leon4 lau4 / liu6 lei5", "meaning": "l 声母" },
+        { "cantonese": "g：見解 / 機警", "jyutping": "gin3 gaai2 / gei1 ging2", "meaning": "g 声母" },
+        { "cantonese": "k：求其 / 強權", "jyutping": "kau4 kei4 / koeng4 kyun4", "meaning": "k 声母" },
+        { "cantonese": "ng：礙眼 / 捱餓", "jyutping": "ngoi6 ngaan5 / ngaai4 ngo6", "meaning": "ng 声母" },
+        { "cantonese": "h：稀客 / 喜好", "jyutping": "hei1 haak3 / hei2 hou3", "meaning": "h 声母" },
+        { "cantonese": "z：致謝 / 製造", "jyutping": "zi3 ze6 / zai3 zou6", "meaning": "z 声母 (j)" },
+        { "cantonese": "c：從此 / 親戚", "jyutping": "cung4 ci2 / can1 cik1", "meaning": "c 声母 (q)" },
+        { "cantonese": "s：洗手 / 書信", "jyutping": "sai2 sau2 / syu1 seon3", "meaning": "s 声母 (x)" },
+        { "cantonese": "j：醫院 / 引誘", "jyutping": "ji1 jyun2 / jan5 jau5", "meaning": "j 声母 (y)" },
+        { "cantonese": "gw：光棍 / 過關", "jyutping": "gwong1 gwan3 / gwo3 gwaan1", "meaning": "gw 声母 (gu)" },
+        { "cantonese": "kw：困（難） / 携（帶）", "jyutping": "kwan3 (naam4) / kwai4 (daai3)", "meaning": "kw 声母 (ku)" },
+        { "cantonese": "w：會話 / 維護", "jyutping": "wui6 waa2 / wai4 wu6", "meaning": "w 声母" }
+      ]
+    }
+  ]
+}

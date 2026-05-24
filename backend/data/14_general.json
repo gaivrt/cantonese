@@ -1,0 +1,706 @@
+{
+  "title": "教育與生活",
+  "theme": "education_and_life",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "3.1 Common vocabulary",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "管理",
+          "jyutping": "gun2 lei5",
+          "meaning": "management; to manage"
+        },
+        {
+          "cantonese": "部分",
+          "jyutping": "bou6 fan6",
+          "meaning": "part"
+        },
+        {
+          "cantonese": "通常",
+          "jyutping": "tung1 soeng4",
+          "meaning": "usually, ordinarily"
+        },
+        {
+          "cantonese": "開辦",
+          "jyutping": "hoi1 baan6",
+          "meaning": "set up"
+        },
+        {
+          "cantonese": "課程",
+          "jyutping": "fo1 cing4",
+          "meaning": "course, curriculum"
+        },
+        {
+          "cantonese": "階段",
+          "jyutping": "gaai1 dyun6",
+          "meaning": "stage"
+        },
+        {
+          "cantonese": "象徵",
+          "jyutping": "zoeng6 zing1",
+          "meaning": "symbol; to symbolize"
+        },
+        {
+          "cantonese": "努力",
+          "jyutping": "nou5 lik6",
+          "meaning": "strive, to make an effort"
+        },
+        {
+          "cantonese": "喜愛",
+          "jyutping": "hei2 oi3",
+          "meaning": "be fond of"
+        },
+        {
+          "cantonese": "理想",
+          "jyutping": "lei5 soeng2",
+          "meaning": "ideal"
+        },
+        {
+          "cantonese": "提供",
+          "jyutping": "tai4 gung1",
+          "meaning": "provide"
+        },
+        {
+          "cantonese": "成績",
+          "jyutping": "sing4 zik1",
+          "meaning": "achievement, academic result"
+        },
+        {
+          "cantonese": "深造",
+          "jyutping": "sam1 cau3",
+          "meaning": "pursue advanced studies"
+        },
+        {
+          "cantonese": "優質",
+          "jyutping": "jau1 zat1",
+          "meaning": "high-quality; of high quality"
+        },
+        {
+          "cantonese": "進修",
+          "jyutping": "zeon3 sau1",
+          "meaning": "pursue further studies"
+        },
+        {
+          "cantonese": "資助",
+          "jyutping": "zi1 zo6",
+          "meaning": "subsidy; to subsidize"
+        },
+        {
+          "cantonese": "水平",
+          "jyutping": "seoi2 ping4",
+          "meaning": "level, standard"
+        },
+        {
+          "cantonese": "穩定",
+          "jyutping": "wan5 ding6",
+          "meaning": "stable"
+        },
+        {
+          "cantonese": "畢業生",
+          "jyutping": "bit1 jip6 saang1",
+          "meaning": "graduate"
+        },
+        {
+          "cantonese": "光明",
+          "jyutping": "gwong1 ming4",
+          "meaning": "bright"
+        },
+        {
+          "cantonese": "前途",
+          "jyutping": "cin4 tou4",
+          "meaning": "prospects"
+        },
+        {
+          "cantonese": "匆匆忙忙",
+          "jyutping": "cung1 cung1 mong4 mong4",
+          "meaning": "in a hurry"
+        },
+        {
+          "cantonese": "留學生",
+          "jyutping": "lau4 hok6 saang1",
+          "meaning": "overseas student; student studying abroad"
+        },
+        {
+          "cantonese": "超過",
+          "jyutping": "ciu1 gwo3",
+          "meaning": "to exceed, to surpass"
+        },
+        {
+          "cantonese": "聲譽",
+          "jyutping": "sing1 jyu6",
+          "meaning": "reputation"
+        },
+        {
+          "cantonese": "先進",
+          "jyutping": "sin1 zeon6",
+          "meaning": "advanced (for equipment, technology, etc.)"
+        },
+        {
+          "cantonese": "培養",
+          "jyutping": "pui4 joeng5",
+          "meaning": "to cultivate"
+        },
+        {
+          "cantonese": "國際化",
+          "jyutping": "gwok3 zai1 faa3",
+          "meaning": "internationalization; internationalized"
+        },
+        {
+          "cantonese": "視野",
+          "jyutping": "si6 jit6",
+          "meaning": "field of vision"
+        },
+        {
+          "cantonese": "關係",
+          "jyutping": "gwaan1 hai6",
+          "meaning": "relations; relationship"
+        },
+        {
+          "cantonese": "重視",
+          "jyutping": "zung6 si6",
+          "meaning": "to attach importance to"
+        },
+        {
+          "cantonese": "優秀",
+          "jyutping": "jau1 sau3",
+          "meaning": "outstanding, excellent"
+        },
+        {
+          "cantonese": "一份子",
+          "jyutping": "jat1 fan6 zi2",
+          "meaning": "a member of, a part of"
+        },
+        {
+          "cantonese": "由於",
+          "jyutping": "jau4 jyu1",
+          "meaning": "due to"
+        },
+        {
+          "cantonese": "享受",
+          "jyutping": "hoeng2 sau6",
+          "meaning": "enjoyment; to enjoy"
+        },
+        {
+          "cantonese": "高質素",
+          "jyutping": "gou1 zat6 sou3",
+          "meaning": "high-quality, of high quality"
+        }
+      ]
+    },
+    {
+      "title": "3.2 Proper nouns",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "陸小慧",
+          "jyutping": "luk6 siu2 wai6",
+          "meaning": "Luk Siu-wai"
+        },
+        {
+          "cantonese": "教育局",
+          "jyutping": "gaau3 juk6 guk1",
+          "meaning": "Education Bureau"
+        }
+      ]
+    },
+    {
+      "title": "3.3 About education",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "教育界",
+          "jyutping": "gaau3 juk6 gaai3",
+          "meaning": "education sector"
+        },
+        {
+          "cantonese": "學前教育",
+          "jyutping": "hok6 cin4 gaau3 juk6",
+          "meaning": "pre-primary education"
+        },
+        {
+          "cantonese": "免費教育",
+          "jyutping": "min5 fai3 gaau3 juk6",
+          "meaning": "free education"
+        },
+        {
+          "cantonese": "私人機構",
+          "jyutping": "si1 jan4 gei1 gau3",
+          "meaning": "private organization"
+        },
+        {
+          "cantonese": "非牟利機構",
+          "jyutping": "fei1 mau4 lei6 gei1 gau3",
+          "meaning": "non-profit making"
+        },
+        {
+          "cantonese": "幼兒園",
+          "jyutping": "jau6 ji5 jyun4",
+          "meaning": "kindergarten"
+        },
+        {
+          "cantonese": "幼稚園",
+          "jyutping": "jau6 zi6 jyun4",
+          "meaning": "kindergarten"
+        },
+        {
+          "cantonese": "高中",
+          "jyutping": "gou1 zung1",
+          "meaning": "senior secondary"
+        },
+        {
+          "cantonese": "專上課程",
+          "jyutping": "zyun1 soeng4 fo1 cing4",
+          "meaning": "post-secondary programme"
+        },
+        {
+          "cantonese": "八大",
+          "jyutping": "baat3 daai6",
+          "meaning": "eight universities"
+        },
+        {
+          "cantonese": "學士學位",
+          "jyutping": "hok6 si6 hok6 wai6",
+          "meaning": "bachelor's degree"
+        },
+        {
+          "cantonese": "副學士",
+          "jyutping": "fu6 hok6 si6",
+          "meaning": "associate degree"
+        },
+        {
+          "cantonese": "高級文憑",
+          "jyutping": "gou1 kap1 man4 paang5",
+          "meaning": "higher diploma"
+        },
+        {
+          "cantonese": "研究生課程",
+          "jyutping": "jing6 gau1 saang1 fo1 cing4",
+          "meaning": "postgraduate programme"
+        },
+        {
+          "cantonese": "選讀",
+          "jyutping": "syun2 duk6",
+          "meaning": "elective study (e.g. minor)"
+        },
+        {
+          "cantonese": "識字量",
+          "jyutping": "sik1 zi6 loeng6",
+          "meaning": "number of words (number one knows)"
+        },
+        {
+          "cantonese": "閱讀能力",
+          "jyutping": "jyut6 duk6 nang4 lik6",
+          "meaning": "reading ability"
+        },
+        {
+          "cantonese": "兩文三語",
+          "jyutping": "loeng5 man4 saam1 jyu5",
+          "meaning": "bilingualism and trilingualism"
+        }
+      ]
+    },
+    {
+      "title": "3.4 Other vocabularies",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "投資",
+          "jyutping": "tau4 zi1",
+          "meaning": "invest"
+        },
+        {
+          "cantonese": "環境優美",
+          "jyutping": "waan4 ging6 jau1 mei5",
+          "meaning": "environment is beautiful"
+        },
+        {
+          "cantonese": "公共交通",
+          "jyutping": "gung1 gung6 gaau1 tung1",
+          "meaning": "public transportation"
+        },
+        {
+          "cantonese": "方便",
+          "jyutping": "fong1 bin6",
+          "meaning": "make things easy"
+        }
+      ]
+    },
+    {
+      "title": "3.5 Useful expressions",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "首位",
+          "jyutping": "sau2 wai6",
+          "meaning": "to be in the first place"
+        },
+        {
+          "cantonese": "發展落去",
+          "jyutping": "faat1 zin6 lok6 heoi2",
+          "meaning": "keep on developing"
+        }
+      ]
+    },
+    {
+      "title": "閱讀：香港教育",
+      "type": "reading_passage",
+      "units": [
+        {
+          "cantonese": "我係來自教育界嘅陸小慧。我好榮幸有呢個機會喺呢度介紹一下香港嘅教育。香港嘅教育主要由教育局噉到管理。可以分為幾個部分。第一個部分係學前教育。通常就係三歲至到六歲期間。學前教育有幼兒園同幼稚園，其中有私人機構，其他亦都有一啲非牟利機構噉到去開辦。係私人機構開辦嘅又好，非牟利機構開辦嘅又好，每一個家庭都可以按照自己嘅需要噉到去選擇幼稚園。因住就讀十二年免費教育。小學一年級至到六年級，跟住就係初中，中一至到中三，跟住就係四至到中六高中嘅課程。喺高中階段 DSE 呢個英文字就象徵住高中學生嘅生活。呢個時期就係為咗呢個考試每日噉樣努力，希望可以入到自己所喜愛嘅大學。如果 DSE 嘅成績理想，就可以進入專上課程嘅階段。專上課程當然有香港八大所提供嘅學士學位課程啦。但係如果成績並唔係太好，就要選擇一啲其他嘅課程喇。譬如係副學士或者係高級文憑課程等等。讀完專上學位，如果喺嗰度工作住，想繼續深造，香港嘅大學都提供優質嘅研究生課程俾想繼續進修嘅學生選讀。從學前教育開始，然後到小學教育，跟住就係中學教育，最後到專上教育，政府都提供咗啲少嘅資助。香港嘅教育其實喺世界噉講，水平都係十分之穩定。包括香港大學畢業生嘅英語水平，同埋小學生嘅識字量同閱讀能力，其實都係排喺世界嘅首位。相信香港嘅教育發展落去係有一個光明嘅前途。",
+          "jyutping": "ngo5 hai6 loi4 zi6 gaau3 juk6 gaai3 ge3 luk6 siu2 wai6. ngo5 hou2 wing4 hang6 jau5 ni1 go3 gei1 wui6 hai2 ni1 dou6 gaai3 siu6 jat1 haa5 hoeng1 gong2 ge3 gaau3 juk6. hoeng1 gong2 ge3 gaau3 juk6 zyu2 jiu3 jau4 gaau3 juk6 guk1 lai4 gun2 lei5. ho2 ji5 fan1 wai4 gei2 go3 bou6 fan6. dai6 jat1 go3 bou6 fan6 hai6 hok6 cin4 gaau3 juk6. tung1 soeng4 zau6 hai6 saam1 seoi3 zi3 dou6 luk6 seoi3 kei4 gaan1. hok6 cin4 gaau3 juk6 jau5 jau6 ji5 jyun4 tung4 jau6 zi6 jyun4, kei4 zung1 jau5 si1 jan4 gei1 gau3, kei4 taa1 jik6 dou1 jau5 jat1 di1 fei1 mau4 lei6 gei1 gau3 gam2 dou6 heoi3 hoi1 baan6. hai6 si1 jan4 gei1 gau3 hoi1 baan6 ge3 jau6 hou2, fei1 mau4 lei6 gei1 gau3 hoi1 baan6 ge3 jau6 hou2, mui5 jat1 go3 gaa1 ting4 dou1 ho2 ji5 on3 ziu3 zi6 gei2 ge3 seoi1 jiu3 gam2 dou6 heoi3 syun2 zaak6 jau6 zi6 jyun4. gan1 zyu6 zau6 hai6 gei1 deui3 sap6 ji6 nin4 min5 fai3 gaau3 juk6. siu2 hok6 jat1 nin4 kap1 zi6 dou6 luk6 nin4 kap1, gan2 zyu6 lok6 lai4 zau6 hai6 sap6 ji6 nin4 min5 fai3 gaau3 juk6. siu2 hok6 jat1 nin4 kap1 zi6 dou3 luk6 nin4, gan2 zyu6 zau6 hai6 co1 zung1, zung1 jat1 zi6 dou6 zung1 saam1, gan2 zyu6 zau6 hai6 zung1 sei3 zi6 dou6 zung1 luk6 gou1 zung1 ge3 fo1 cing4. hai2 gou1 zung1 gaai1 dyun6 DSE ni1 go3 jing1 man4 zi6 zau6 zoeng6 zing1 zyu6 gou1 zung1 hok6 saang1 ge3 sang1 wut6. ni1 go3 si4 kei4 zau6 hai6 wai6 zo2 ni1 go3 hau2 si5 mui5 jat6 gam2 joeng2 nou5 lik6, hei1 mong6 ho2 ji5 jap6 dou3 zi6 gei2 so2 hei2 oi3 ge3 daai6 hok6. jyu4 gwo2 DSE ge3 sing4 zik1 lei5 soeng2, zau6 ho2 ji5 zeon3 jap6 zyun1 soeng4 fo1 cing4 ge3 gaai1 dyun6. zyun1 soeng4 fo1 cing4 dong1 jin4 jau5 hoeng1 gong2 baat3 daai6 so2 tai4 gung1 ge3 hok6 si6 hok6 wai6 fo1 cing4 laa1. daan6 hai6 jyu4 gwo2 sing4 zik1 bing6 m4 hai6 taai3 hou2, zau6 jiu3 syun2 zaak6 jat1 di1 kei4 taa1 ge3 fo1 cing4 laa3. pei3 jyu4 hai6 fu6 hok6 si6 waak6 ze2 hai6 gou1 kap1 man4 paang5 fo1 cing4 dang2 dang2. duk6 jyun4 zyun1 soeng4 hok6 wai6, jyu4 gwo2 hai2 go2 dou6 gung1 zok3 zyu6, soeng2 gai3 zuk6 sam1 cau3, hoeng1 gong2 ge3 daai6 hok6 dou1 tai4 gung1 jau1 zat1 ge3 jing6 gau1 saang1 fo1 cing4 bei2 soeng2 gai3 zuk6 zeon3 sau1 ge3 hok6 saang1 syun2 duk6. cung4 hok6 cin4 gaau3 juk6 hoi1 ci2, jin4 hau6 dou3 siu2 hok6 gaau3 juk6, gan1 zyu6 zau6 hai6 zung1 hok6 gaau3 juk6, zeoi3 hau6 dou3 zyun1 soeng4 gaau3 juk6, zing3 fu2 dou1 tai4 gung1 zo2 di1 siu2 ge3 zi1 zo6. hoeng1 gong2 ge3 gaau3 juk6 kei4 sat6 hai2 sai3 gaai3 gam2 gong2, seoi2 ping4 dou1 hai6 sap6 fan1 zi1 wan5 ding6. baau1 kut3 hoeng1 gong2 daai6 hok6 bit1 jip6 saang1 ge3 jing1 jyu5 seoi2 ping4, tung4 maai5 siu2 hok6 saang1 ge3 sik1 zi6 loeng6, tung4 sat6 dou1 hai6 paai4 hai2 sai3 gaai3 ge3 sau2 wai6. seung1 seun6 hoeng1 gong2 ge3 gaau3 juk6 faat1 zin6 lok6 heoi2 hai6 jau5 jat1 go3 gwong1 ming4 ge3 cin4 tou4.",
+          "meaning": "我是来自教育界的陆小慧。我很荣幸有这个机会在这里介绍一下香港的教育。香港的教育主要由教育局来管理。可以分为几个部分。第一个部分是学前教育。通常就是三岁至到六岁期间。学前教育有幼儿园和幼稚园，其中有私人机构，其他也都有一些非牟利机构去开办。是私人机构开办的也好，非牟利机构开办的也好，每一个家庭都可以按照自己的需要去选择幼稚园。接着就读十二年免费教育。小学一年级至到六年级，接着就是初中，中一至到中三，接着就是四至到中六高中的课程。在高中阶段DSE这个英文字就象征着高中学生的生活。这个时期就是为了这个考试每日这样努力，希望可以入到自己所喜爱的大学。如果DSE的成绩理想，就可以进入专上课程的阶段。专上课程当然有香港八大所提供的学士学位课程啦。但是如果成绩并不是太好，就要选择一些其他的课程了。譬如是副学士或者是高级文凭课程等等。读完专上学位，如果在那里工作着，想继续深造，香港的大学都提供优质的研究生课程给想继续进修的学生选读。从学前教育开始，然后到小学教育，接着就是中学教育，最后到专上教育，政府都提供了些少的资助。香港的教育其实在世界来讲，水平都是十分之稳定。包括香港大学毕业生的英语水平，和小学生的识字量和阅读能力，其实都是排在世界的首位。相信香港的教育发展落去是有一个光明的前途。"
+        },
+        {
+          "cantonese": "每日我哋喺街上面行，除咗睇到匆匆忙忙嘅香港人之外，仲有來自唔同國家嘅遊客，但係我哋可能唔係每日都睇到嚟香港讀書嘅留學生。其實每年喺香港留學生有超過三萬，香港嘅學校喺世界上有非常好嘅聲譽。佢哋有先進嘅設備，由於香港好多大學都希望培養學生有國際化嘅視野闊關係，加上政府好重視對教育嘅投資，我哋可以從世界唔同地方請到優秀嘅老師。另外，香港係世界上最安全嘅城市之一，呢度嘅生活質素比較高，大學嘅面環境優美，城市公共交通方便。有啲留學生因為喺呢度讀書而愛上香港，畢業之後仲留喺香港，成為香港社會嘅一份子。",
+          "jyutping": "mui5 jat6 ngo5 dei6 hai2 gaai1 soeng5 min6 haang4, ceoi4 zo2 tai2 dou6 cung1 cung1 mong4 mong4 ge3 hoeng1 gong2 jan4 zi1 ngoi6, zung6 jau5 loi4 zi6 bat1 tung4 gwok3 gaa1 ge3 jau4 haak3, daan6 hai6 ngo5 dei6 ho2 nang4 m4 hai6 mui5 jat6 dou1 tai2 dou3 lai4 hoeng1 gong2 duk6 syu1 ge3 lau4 hok6 saang1. kei4 sat6 mui5 nin4 hai2 hoeng1 gong2 lau4 hok6 saang1 jau5 ciu1 gwo3 saam1 maan6, hoeng1 gong2 ge3 hok6 haau6 hai2 sai3 gaai3 soeng6 jau5 fei1 soeng4 hou2 ge3 sing1 jyu6. keoi5 dei6 jau5 sin1 zeon6 ge3 cit3 bei6, jau4 jyu1 hoeng1 gong2 hou2 do1 daai6 hok6 dou1 hei1 mong6 pui4 joeng5 hok6 saang1 jau5 gwok3 zai1 faa3 ge3 si6 jit6 fut3 gwaan1 hai6, gaa1 soeng6 zing3 fu2 hou2 zung6 si6 deoi3 gaau3 juk6 ge3 tau4 zi1, ngo5 dei6 ho2 ji5 cung4 sai3 gaai3 m4 tung4 dei6 fong1 cing2 dou3 jau1 sau3 ge3 lou5 si1. ling6 ngoi6, hoeng1 gong2 hai6 sai3 gaai3 soeng6 zeoi3 on1 cyun4 ge3 sing4 si5 zi1 jat1, ni1 dou6 ge3 sang1 wut6 zat6 sou3 bei2 gaau3 gou1, daai6 hok6 lei4 min6 waan4 ging6 jau1 mei5, sing4 si5 gung1 gung6 gaau1 tung1 fong1 bin6. jau5 di1 lau4 hok6 saang1 jan1 wai6 hai2 ni1 dou6 duk6 syu1 ji4 oi3 soeng5 hoeng1 gong2, bit1 jip6 zi1 hau6 zung6 lau4 hai2 hoeng1 gong2, sing4 wai4 hoeng1 gong2 se5 wui2 ge3 jat1 fan6 zi2.",
+          "meaning": "每日我们在街上面走，除了看到匆匆忙忙的香港人之外，还有来自不同国家的游客，但是我们可能不是每日都看到来香港读书的留学生。其实每年在香港留学生有超过三万，香港的学校在世界上有非常好的声誉。它们有先进的设备，由于香港好多大学都希望培养学生有国际化的视野宽广关系，加上政府好重视对教育的投资，我们可以从世界不同地方请到优秀的老师。另外，香港是世界上最安全的城市之一，这里的生活质素比较高，大学里面环境优美，城市公共交通方便。有些留学生因为在这里读书而爱上香港，毕业之后还留在香港，成为香港社会的一份子。"
+        },
+        {
+          "cantonese": "由於時間關係，我好快咁介紹咗香港嘅教育。我嘅介紹到此結束。我相信香港作為一個擁有多元文化嘅國際城市，香港嘅教育環境可以培養出兩文三語嘅國際級人才。我哋歡迎所有人士嚟香港享受高質素嘅教育。",
+          "jyutping": "jau4 jyu1 si4 gaan3 gwaan1 hai6, ngo5 hou2 faai3 gam2 gaai3 siu6 zo2 hoeng1 gong2 ge3 gaau3 juk6. ngo5 ge3 gaai3 siu6 dou3 ci2 git3 cuk1. ngo5 seung1 seun6 hoeng1 gong2 zok3 wai4 jat1 go3 jung2 jau5 do1 jyun4 man4 faa3 ge3 gwok3 zai1 sing4 si5, hoeng1 gong2 ge3 gaau3 juk6 waan4 ging6 ho2 ji5 pui4 joeng5 ceot1 loeng5 man4 saam1 jyu5 ge3 gwok3 zai1 kap1 jan4 coi4. ngo5 dei6 fun1 jing4 so2 jau5 jan4 si6 lai4 hoeng1 gong2 hoeng2 sau6 gou1 zat6 sou3 ge3 gaau3 juk6.",
+          "meaning": "由于时间关系，我很快地介绍了香港的教育。我的介绍到此结束。我相信香港作为一个拥有多元文化的国际城市，香港的教育环境可以培养出两文三语的国际级人才。我们欢迎所有人士来香港享受高质素的教育。"
+        },
+        {
+          "cantonese": "多謝各位。",
+          "jyutping": "do1 ze6 gok3 wai6.",
+          "meaning": "多谢各位。"
+        }
+      ]
+    },
+    {
+      "title": "情境一：購物",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "小姐，你有冇帶購物袋／環保袋？",
+          "jyutping": "siu2 ze2, nei5 jau5 mou5 daai3 kau3 mat6 doi2 / waan4 bou2 doi2?",
+          "meaning": "小姐，你有没有带购物袋／环保袋？",
+          "speaker": "店員"
+        },
+        {
+          "cantonese": "弊啦！唔記得咗帶添！",
+          "jyutping": "bai6 laa3! m4 gei3 dak1 zo2 daai3 tim1!",
+          "meaning": "糟糕！忘记带了！",
+          "speaker": "顧客"
+        },
+        {
+          "cantonese": "咁妳駛唔駛要膠袋？每個膠袋要俾多五毫子。",
+          "jyutping": "gam2 nei5 sai2 m4 sai2 jiu3 gaau1 doi2? mui5 go3 gaau1 doi2 jiu3 bei2 do1 ng5 hou4 zi2.",
+          "meaning": "那你需不需要胶袋？每个胶袋要多付五毫子。",
+          "speaker": "店員"
+        },
+        {
+          "cantonese": "哦。好呀！",
+          "jyutping": "o4. hou2 aa3!",
+          "meaning": "哦。好呀！",
+          "speaker": "顧客"
+        },
+        {
+          "cantonese": "多謝妳二百零五個半。",
+          "jyutping": "do1 ze6 nei5 ji6 baak3 ling4 ng5 go3 bun3.",
+          "meaning": "多谢你二百零五个半。",
+          "speaker": "店員"
+        },
+        {
+          "cantonese": "找番四個半比妳，同埋俾四個印花妳。",
+          "jyutping": "zaau2 faan1 sei3 go3 bun3 bei2 nei5, tung4 maai4 bei2 sei3 go3 jan3 faa1 nei5.",
+          "meaning": "找回四个半给你，还有给四个印花你。",
+          "speaker": "店員"
+        },
+        {
+          "cantonese": "啲印花有咩用架？",
+          "jyutping": "di1 jan3 faa1 jau5 me1 jung6 gaa3?",
+          "meaning": "这些印花有什么用的？",
+          "speaker": "顧客"
+        },
+        {
+          "cantonese": "可以換嘢囉！俾張紙妳返去睇啦！",
+          "jyutping": "ho2 ji5 wun6 je5 lo1! bei2 zoeng1 zi2 nei5 faan1 heoi3 tai2 laa1!",
+          "meaning": "可以换东西咯！给张纸你回去看啦！",
+          "speaker": "店員"
+        },
+        {
+          "cantonese": "好呀！唔該晒！",
+          "jyutping": "hou2 aa3! m4 goi1 saai3!",
+          "meaning": "好呀！谢谢！",
+          "speaker": "顧客"
+        }
+      ]
+    },
+    {
+      "title": "情境三：打風",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "我好熱氣啊！個口生晒稀滋（口瘡），好痛呀！",
+          "jyutping": "ngo5 hou2 jit6 hei3 aa1! go3 hau2 saang1 saai3 fai2 zi1 (hau2 cong1), hou2 tung3 aa3!",
+          "meaning": "我好热气啊！嘴里长满口疮，好痛呀！",
+          "speaker": "甲"
+        },
+        {
+          "cantonese": "你去涼茶舖買啲涼茶飲，降吓火啦！",
+          "jyutping": "nei5 heoi3 loeng4 caa4 pou3 maai5 di1 loeng4 caa4 jam2, gong3 haa2 fo2 laa1!",
+          "meaning": "你去凉茶铺买些凉茶喝，降下火啦！",
+          "speaker": "乙"
+        },
+        {
+          "cantonese": "你同我一齊出去買丫！",
+          "jyutping": "nei5 tung4 ngo5 jat1 cai4 ceot1 heoi3 maai5 aa1!",
+          "meaning": "你跟我一起出去买呀！",
+          "speaker": "甲"
+        },
+        {
+          "cantonese": "啱啱天氣預告講今晚可能會掛八號風球噃！",
+          "jyutping": "ngaam1 ngaam1 tin1 hei3 jyu6 gou3 gong2 gam1 maan5 ho2 nang4 wui6 gwaa3 baat3 hou6 fung1 kau4 wo3!",
+          "meaning": "刚刚天气预告讲今晚可能会挂八号风球噃！",
+          "speaker": "乙"
+        },
+        {
+          "cantonese": "哇！如果掛到聽日，咁咪唔使返學囉！太好啦！",
+          "jyutping": "waa1! jyu4 gwo2 gwaa3 dou3 ting1 jat6, gam2 mai6 m4 sai2 faan2 hok6 lo1! taai3 hou2 laa3!",
+          "meaning": "哇！如果挂到明天，那就不用返学咯！太好啦！",
+          "speaker": "甲"
+        },
+        {
+          "cantonese": "等我睇下天氣圖先。",
+          "jyutping": "dang2 ngo5 tai2 haa5 tin1 hei3 tou4 sin1.",
+          "meaning": "等我看下天气图先。",
+          "speaker": "乙"
+        },
+        {
+          "cantonese": "點丫！個風球吹幾耐呀？好想知道聽日駛唔駛返學呢！",
+          "jyutping": "dim2 aa3! go3 fung1 kau4 ceoi1 gei2 noi6 aa3? hou2 soeng2 zi1 dou6 ting1 jat6 sai2 m4 sai2 faan2 hok6 ne1!",
+          "meaning": "怎样呀！个风球吹几耐呀？好想知道明天需不需要返学呢！",
+          "speaker": "甲"
+        },
+        {
+          "cantonese": "你唔駛發夢啦！個風都冇理由吹足成晚啦！聽日掛返三號，你都要返學架！",
+          "jyutping": "nei5 m4 sai2 faat3 mung6 laa1! go3 fung1 dou1 mou5 lei3 jau4 ceoi1 zuk1 sing4 maan5 laa1! ting1 jat6 gwaa3 faan2 saam1 hou6, nei5 dou1 jiu3 faan2 hok6 gaa3!",
+          "meaning": "你不用发梦啦！个风都没理由吹足整晚啦！明天挂回三号，你都要返学架！",
+          "speaker": "乙"
+        },
+        {
+          "cantonese": "唉！仲以為有得休息吓添！除咗八號風球之外，仲有咩情況唔駛返學架？",
+          "jyutping": "aai1! zung6 ji5 wai4 jau5 dak1 jau1 sik1 haa5 tim1! ceoi4 zo2 baat3 hou6 fung1 kau4 zi1 ngoi6, zung6 jau5 me1 cing4 fong3 m4 sai2 faan2 hok6 gaa3?",
+          "meaning": "唉！还以为有得休息下添！除了八号风球之外，还有什么情况不用返学架？",
+          "speaker": "甲"
+        },
+        {
+          "cantonese": "黑色暴雨警告囉！不過你都係疊埋心水等聽日返學吧啦！你話有就有既咩？",
+          "jyutping": "hak1 sik1 bou6 jyu5 ging2 gou3 lo1! bat1 gwo3 nei5 dou1 hai6 dip6 maai4 sam1 seoi2 dang2 ting1 jat6 faan2 hok6 baa6 laa1! nei5 waa6 jau5 zau6 jau5 ge3 me1?",
+          "meaning": "黑色暴雨警告咯！不过你都是死心等明天返学吧啦！你说有就有的吗？",
+          "speaker": "乙"
+        }
+      ]
+    },
+    {
+      "title": "詞彙：情境對話詞語",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "隨便睇／隨便揀",
+          "jyutping": "ceoi4 bin2 tai2 / ceoi4 bin2 gaan2",
+          "meaning": "随便看／随便挑"
+        },
+        {
+          "cantonese": "褸衫",
+          "jyutping": "seot1 saam1",
+          "meaning": "衬衫"
+        },
+        {
+          "cantonese": "嘥士（Size）",
+          "jyutping": "saai1 si2",
+          "meaning": "尺码"
+        },
+        {
+          "cantonese": "啱身",
+          "jyutping": "ngaam1 san1",
+          "meaning": "合身、称身"
+        },
+        {
+          "cantonese": "折頭",
+          "jyutping": "zit3 tau4",
+          "meaning": "折扣"
+        },
+        {
+          "cantonese": "購物袋／環保袋",
+          "jyutping": "kau3 mat6 doi2 / waan4 bou2 doi2",
+          "meaning": "购物袋／环保袋"
+        },
+        {
+          "cantonese": "印花",
+          "jyutping": "jan3 faa1",
+          "meaning": "印花"
+        },
+        {
+          "cantonese": "涼茶",
+          "jyutping": "loeng4 caa4",
+          "meaning": "凉茶"
+        },
+        {
+          "cantonese": "八號風球",
+          "jyutping": "baat3 hou6 fung1 kau4",
+          "meaning": "八号风球"
+        },
+        {
+          "cantonese": "黑色暴雨警告",
+          "jyutping": "hak1 sik1 bou6 jyu5 ging2 gou3",
+          "meaning": "黑色暴雨警告"
+        },
+        {
+          "cantonese": "疊埋心水",
+          "jyutping": "dip6 maai4 sam1 seoi2",
+          "meaning": "心息／死心塌地"
+        }
+      ]
+    },
+    {
+      "title": "詞彙：常用詞彙",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "買嘢",
+          "jyutping": "maai5 je5",
+          "meaning": "购物"
+        },
+        {
+          "cantonese": "做緊大減價（On Sale）",
+          "jyutping": "zou6 gan2 daai6 gaam2 gaa3",
+          "meaning": "正进行大特卖"
+        },
+        {
+          "cantonese": "（計）平啲（啦）",
+          "jyutping": "gai3 peng4 di1 laa1",
+          "meaning": "算便宜点"
+        },
+        {
+          "cantonese": "抵買／好抵",
+          "jyutping": "dai2 maai5 / hou2 dai2",
+          "meaning": "划算"
+        },
+        {
+          "cantonese": "T 恤",
+          "jyutping": "T seot1",
+          "meaning": "汗衣（T恤）"
+        },
+        {
+          "cantonese": "西裝／套裝（Suit）",
+          "jyutping": "sai1 zong1 / tou3 zong1",
+          "meaning": "西服"
+        },
+        {
+          "cantonese": "波鞋",
+          "jyutping": "bo1 haai4",
+          "meaning": "球鞋"
+        },
+        {
+          "cantonese": "平底鞋",
+          "jyutping": "ping4 dai2 haai4",
+          "meaning": "平底鞋"
+        },
+        {
+          "cantonese": "高踭鞋",
+          "jyutping": "gou1 zaang1 haai4",
+          "meaning": "高跟鞋"
+        },
+        {
+          "cantonese": "襪",
+          "jyutping": "mat6",
+          "meaning": "袜子"
+        },
+        {
+          "cantonese": "甩色",
+          "jyutping": "lat1 sik1",
+          "meaning": "褪色"
+        },
+        {
+          "cantonese": "縮水",
+          "jyutping": "suk1 seoi2",
+          "meaning": "缩细（缩水）"
+        },
+        {
+          "cantonese": "質地",
+          "jyutping": "zat1 dei2",
+          "meaning": "质料／面料"
+        },
+        {
+          "cantonese": "褸／風褸",
+          "jyutping": "lau1 / fung1 lau1",
+          "meaning": "大衣／风衣"
+        },
+        {
+          "cantonese": "呔（Tie）",
+          "jyutping": "taai1",
+          "meaning": "领带"
+        },
+        {
+          "cantonese": "銀包",
+          "jyutping": "ngan4 baau1",
+          "meaning": "钱包"
+        },
+        {
+          "cantonese": "行街",
+          "jyutping": "haang4 gaai1",
+          "meaning": "逛街"
+        },
+        {
+          "cantonese": "7仔",
+          "jyutping": "cat1 zai2",
+          "meaning": "7-11便利店"
+        },
+        {
+          "cantonese": "著數",
+          "jyutping": "zoek6 sou3",
+          "meaning": "优惠"
+        },
+        {
+          "cantonese": "長／短／連身裙",
+          "jyutping": "coeng4 / dyun2 / lin4 san1 kwan4",
+          "meaning": "长／短／连身裙"
+        },
+        {
+          "cantonese": "鞋",
+          "jyutping": "haai4",
+          "meaning": "鞋"
+        },
+        {
+          "cantonese": "短褲／褲",
+          "jyutping": "dyun2 fu3 / fu3",
+          "meaning": "短裤／裤"
+        },
+        {
+          "cantonese": "手袋",
+          "jyutping": "sau2 doi2",
+          "meaning": "手袋"
+        },
+        {
+          "cantonese": "膠袋",
+          "jyutping": "gaau1 doi2",
+          "meaning": "胶袋"
+        },
+        {
+          "cantonese": "舒服",
+          "jyutping": "syu1 fuk6",
+          "meaning": "舒服"
+        },
+        {
+          "cantonese": "黃／紅／黑雨",
+          "jyutping": "wong4 / hung4 / haak1 jyu5",
+          "meaning": "黄／红／黑色暴雨"
+        },
+        {
+          "cantonese": "打風",
+          "jyutping": "daa2 fung1",
+          "meaning": "刮台风"
+        },
+        {
+          "cantonese": "落雨",
+          "jyutping": "lok6 jyu5",
+          "meaning": "下雨"
+        }
+      ]
+    }
+  ]
+}

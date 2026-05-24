@@ -1,0 +1,359 @@
+{
+  "title": "GAIVR同學（2）",
+  "theme": "mixed",
+  "level": "beginner",
+  "sections": [
+    {
+      "title": "一 課文（買餸）",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "唔該同我稱半斤瘦肉吖。",
+          "jyutping": "m4 goi1 tung4 ngo5 cing3 bun3 gan1 sau3 juk6 aa1.",
+          "meaning": "麻烦帮我称半斤瘦肉吖。"
+        },
+        {
+          "cantonese": "呢嚿好唔好？",
+          "jyutping": "ni1 gau6 hou2 m4 hou2?",
+          "meaning": "这块好不好？"
+        },
+        {
+          "cantonese": "唔好，唔好，肥腍腍，要嚿瘦啲嘅。",
+          "jyutping": "m4 hou2, m4 hou2, fei4 nam4 nam4, jiu3 gau6 sau3 di1 ge3.",
+          "meaning": "不好，不好，肥腻腻的，要块瘦点的。（肉店职员称了稱）"
+        },
+        {
+          "cantonese": "呢嚿啦，多咗啲啲，廿三文啦。",
+          "jyutping": "ni1 gau6 laa3, do1 zo2 di1 wo3, jaa6 saam1 man1 laa1.",
+          "meaning": "这块啦，多咗啲啲，廿三文啦。"
+        },
+        {
+          "cantonese": "你哋嘅豬膶新唔新鮮呀？",
+          "jyutping": "nei5 dei6 di1 zyu1 jyun2 san1 m4 san1 sin1 aa3?",
+          "meaning": "你们的猪肝新不新鲜呀？"
+        },
+        {
+          "cantonese": "梗係新鮮啦，你自己睇吓啦。",
+          "jyutping": "gang2 hai6 san1 sin1 laa1, nei5 zi6 gei2 tai2 laa3.",
+          "meaning": "当然新鲜啦，你自己睇吓啦。"
+        },
+        {
+          "cantonese": "又係嚟半斤啦，多啲冇所謂。",
+          "jyutping": "jau6 hai6 lai4 bun3 gan1 laa1, do1 di1 mou5 so2 wai6.",
+          "meaning": "又係嚟半斤啦，多啲无所谓。"
+        },
+        {
+          "cantonese": "整幾嚿煲湯骨嘞？搭夠一百文。",
+          "jyutping": "zing2 gei2 gau6 bou1 tong1 gwat1 le4? daap3 gau3 jat1 baak3 man1.",
+          "meaning": "整几块煲汤骨嘞？搭够一百文。"
+        },
+        {
+          "cantonese": "得，就呢幾嚿啦。",
+          "jyutping": "dak1, zau6 ni1 gei2 gau6 laa1.",
+          "meaning": "得，就呢几块啦。"
+        },
+        {
+          "cantonese": "啲提子點賣呀？",
+          "jyutping": "di1 tai4 zi2 dim2 maai6 aa3?",
+          "meaning": "（在水果摊贩面前）啲提子点卖呀？"
+        },
+        {
+          "cantonese": "十八文一磅。",
+          "jyutping": "sap6 baat3 man1 jat1 bong6.",
+          "meaning": "十八文一磅。"
+        },
+        {
+          "cantonese": "甜唔甜噶？",
+          "jyutping": "tim4 m4 tim4 gaa3?",
+          "meaning": "甜唔甜噶？"
+        },
+        {
+          "cantonese": "呢隻酸酸地，好好食噶。",
+          "jyutping": "ni1 zek3 syun1 syun1 dei2, hou2 hou2 sik6 gaa3.",
+          "meaning": "呢只酸酸地，好好食噶。"
+        }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語 — 食材",
+      "type": "vocab_list",
+      "units": [
+        { "cantonese": "斤", "jyutping": "gan1", "meaning": "斤" },
+        { "cantonese": "青菜", "jyutping": "ceng1 coi3", "meaning": "青菜" },
+        { "cantonese": "膠袋", "jyutping": "gaau1 doi2", "meaning": "塑料袋" },
+        { "cantonese": "煮飯", "jyutping": "zyu2 faan6", "meaning": "做饭" },
+        { "cantonese": "魚", "jyutping": "jyu2", "meaning": "鱼" },
+        { "cantonese": "生果", "jyutping": "saang1 gwo2", "meaning": "水果" },
+        { "cantonese": "整餸", "jyutping": "zing2 sung3", "meaning": "做菜" },
+        { "cantonese": "鍾意", "jyutping": "zung1 ji3", "meaning": "喜欢" },
+        { "cantonese": "牛肉", "jyutping": "ngau4 juk6", "meaning": "牛肉" }
+      ]
+    },
+    {
+      "title": "三 補充語彙（二）句子 — 買餸",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "我哋兩個，佢買餸，我煮飯。",
+          "jyutping": "ngo5 dei6 loeng5 go3, keoi5 maai5 sung3, ngo5 zyu2 faan6.",
+          "meaning": "我们俩，他买菜，我做饭。"
+        },
+        {
+          "cantonese": "媽咪整餸好手勢，係我哋嘅偶像。",
+          "jyutping": "maa1 mi4 zing2 sung3 hou2 sau2 sai3, hai6 ngo5 dei6 ge3 ngau5 zoeng6.",
+          "meaning": "老妈烧菜手艺好，是我们的偶像。"
+        },
+        {
+          "cantonese": "男人唔識整番兩味，好難搵老婆。",
+          "jyutping": "naam4 jan2 m4 sik1 zing2 faan1 loeng5 mei2, hou2 naan4 wan2 lou5 po4.",
+          "meaning": "男人不会烧几个拿手菜，很难找老婆。"
+        },
+        {
+          "cantonese": "女人首先要識煲靚湯。",
+          "jyutping": "neoi5 jan2 sau2 sin1 jiu3 sik1 bou1 leng3 tong1.",
+          "meaning": "女人首先要精於煲汤。"
+        },
+        {
+          "cantonese": "識買餸嘅人去街市，唔識嘅去超市。",
+          "jyutping": "sik1 maai5 sung3 ge3 jan4 heoi3 gaai1 si5, m4 sik1 ge3 heoi3 ciu1 si5.",
+          "meaning": "会买菜的人上菜市场，不会的上超市。"
+        }
+      ]
+    },
+    {
+      "title": "一 課文（搭車）",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "嘩嘞，搭錯咗車嘞。",
+          "jyutping": "bei6 laa3, daap3 co3 zo2 ce1 laa3.",
+          "meaning": "嘩嘞，搭错咗车嘞。"
+        },
+        {
+          "cantonese": "快啲撳鐘落車啦。",
+          "jyutping": "faai3 di1 gam6 zung1 lok6 ce1 laa1.",
+          "meaning": "快啲撳钟落车啦。"
+        },
+        {
+          "cantonese": "唔該，借歪，我哋落車。",
+          "jyutping": "m4 goi1, ze3 me2, ngo5 dei6 lok6 ce1.",
+          "meaning": "唔该，借歪，我哋落车。"
+        },
+        {
+          "cantonese": "去赤柱要坐六號車，唔知點解上咗架十五號添。",
+          "jyutping": "heoi3 cek3 cyu5 jiu3 co5 luk6 hou6 ce1, m4 zi1 dim2 gaai2 soeng5 zo2 gaa3 sap6 ng5 hou6 tim1.",
+          "meaning": "去赤柱要坐六号车，不知点解上咗架十五号添。"
+        },
+        {
+          "cantonese": "呢度係邊度嚟噶？行番轉頭啦。",
+          "jyutping": "ni1 dou6 hai6 bin1 dou6 lai4 gaa3? haang4 faan1 zyun3 tau4 laa1.",
+          "meaning": "呢度係邊度嚟噶？行番转头啦。"
+        },
+        {
+          "cantonese": "行乜嘢吖，日頭咁猛，坐的士罷啦。",
+          "jyutping": "haang4 mat1 je5 aa1, jat6 tau4 gam3 maang5, co5 dik1 si2 baa6 laa1.",
+          "meaning": "行乜嘢吖，日头咁猛，坐的士罢啦。"
+        },
+        {
+          "cantonese": "坐的士好重皮嘅喎。",
+          "jyutping": "co5 dik1 si2 hou2 cung5 pei2 ge3 wo3.",
+          "meaning": "坐的士好重皮嘅喎。"
+        },
+        {
+          "cantonese": "吓，有van仔嚟，四個人冚幾文搞掂。",
+          "jyutping": "haa1, jau5 wen1 zai2 lai4, sei3 go3 jan4 gaa2 gei2 man1 gaau2 dim6.",
+          "meaning": "吓，有van仔嚟，四个人共几文搞掂。"
+        },
+        {
+          "cantonese": "唔該前便六號車站有落。",
+          "jyutping": "m4 goi1 cin4 bin6 luk6 hou6 ce1 zaam6 jau5 lok6.",
+          "meaning": "唔该前便六号车站有落。"
+        },
+        {
+          "cantonese": "呢次睇定啲先至好上車喇。",
+          "jyutping": "ni1 ci3 tai2 ding6 di1 sin1 zi3 hou2 soeng5 ce1 laa3.",
+          "meaning": "呢次睇定啲先至好上车喇。"
+        }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語 — 交通",
+      "type": "vocab_list",
+      "units": [
+        { "cantonese": "逼車", "jyutping": "bik1 ce1", "meaning": "擠車/撞車" },
+        { "cantonese": "轉車", "jyutping": "zyun3 ce1", "meaning": "倒車（換乘）" },
+        { "cantonese": "塞車", "jyutping": "sak1 ce1", "meaning": "堵車" },
+        { "cantonese": "電車", "jyutping": "din6 ce1", "meaning": "电车" },
+        { "cantonese": "火車", "jyutping": "fo2 ce1", "meaning": "火车" },
+        { "cantonese": "隧巴", "jyutping": "seoi6 baa1", "meaning": "行走路線通過海底隧道的公共汽車" },
+        { "cantonese": "買飛", "jyutping": "maai5 fei1", "meaning": "買票" },
+        { "cantonese": "儲值飛", "jyutping": "cyu5 zik6 fei1", "meaning": "储值车票" },
+        { "cantonese": "「八達通」", "jyutping": "baat3 daat6 tung1", "meaning": "目前香港通用的智能卡付費系統" },
+        { "cantonese": "排隊上車", "jyutping": "paai4 deoi2 soeng5 ce1", "meaning": "排队上车" },
+        { "cantonese": "繁忙時間", "jyutping": "faan4 mong4 si4 gaan3", "meaning": "（交通）高峰時間" }
+      ]
+    },
+    {
+      "title": "三 補充語彙（二）句子 — 交通",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "我住慣住熟北角。",
+          "jyutping": "ngo5 zyu6 gwaan3 zyu6 suk6 bak1 gok3.",
+          "meaning": "我住惯北角，非常熟悉了。"
+        },
+        {
+          "cantonese": "落樓行幾步就有電車搭。",
+          "jyutping": "lok6 lau2 haang4 gei2 bou6 zau6 jau5 din6 ce1 daap3.",
+          "meaning": "离家走几步就可以乘搭电车。"
+        },
+        {
+          "cantonese": "再行出去有巴士、地鐵同埋van仔。",
+          "jyutping": "zoi3 haang4 ceot1 heoi3 jau5 baa1 si2, dei6 tit3 tung4 maai4 wen1 zai2.",
+          "meaning": "再往前走一点儿，有巴士、地铁和小巴。"
+        },
+        {
+          "cantonese": "夜晚返屋企都冇有怕。",
+          "jyutping": "je6 je6 faan1 uk1 kei2 dou1 mou5 jau5 paa3.",
+          "meaning": "无论多晚回家也用不着担心。"
+        }
+      ]
+    },
+    {
+      "title": "一 課文（買嘢）",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "你件衫咁靚，喺邊度買噶？",
+          "jyutping": "nei5 gin6 saam1 gam3 leng3, hai2 bin1 dou6 maai5 gaa3?",
+          "meaning": "你件衫咁靓，喺边度买噶？"
+        },
+        {
+          "cantonese": "喺銅鑼灣廣場，撞啱大減價。",
+          "jyutping": "hai2 tung4 lo4 waan1 gwong2 coeng4, zong6 ngaam1 daai6 gaam2 gaa3.",
+          "meaning": "喺铜锣湾广场，撞啱大减价。"
+        },
+        {
+          "cantonese": "幾多錢呀？",
+          "jyutping": "gei2 do1 cin2 aa3?",
+          "meaning": "几多钱呀？"
+        },
+        {
+          "cantonese": "原價成兩千文，打咗八八折仲要千七。",
+          "jyutping": "jyun4 gaa3 seng4 loeng5 cin1 man1, daa2 zo2 baat3 baat3 zit3 zung6 jiu3 cin1 cat1.",
+          "meaning": "原价成两千文，打咗八八折仲要千七。"
+        },
+        {
+          "cantonese": "好抵喎。",
+          "jyutping": "hou2 dai2 wo3.",
+          "meaning": "好抵喎（很划算）。"
+        },
+        {
+          "cantonese": "不如放咗工，我哋一齊去睇下吖。",
+          "jyutping": "bat1 jyu4 fong3 zo2 gung1, ngo5 dei6 jat1 cai4 heoi3 tai2 haa5 aa1.",
+          "meaning": "不如放咗工，我哋一齐去睇下吖。"
+        },
+        {
+          "cantonese": "我冇乜錢喺身。",
+          "jyutping": "ngo5 mou5 mat1 cin2 hai2 san1.",
+          "meaning": "我冇乜钱喺身（我身上没什么钱）。"
+        },
+        {
+          "cantonese": "等我過就近嗰間恒生攞啲錢至得。",
+          "jyutping": "dang2 ngo5 gwo3 zau6 gan6 go2 gaan1 hang4 sang1 gam6 di1 cin1 zi3 dak1.",
+          "meaning": "等我过就近嗰间恒生攞啲钱至得。"
+        },
+        {
+          "cantonese": "使乜特登行走一趟嘅，碌咭都得㗎。",
+          "jyutping": "sai2 mat1 dak6 dang1 haang4 jat1 tong3 ze1, luk1 kaat1 dou1 dak1 gaa3.",
+          "meaning": "使乜特登行走一趟嘅，刷卡都得㗎。"
+        },
+        {
+          "cantonese": "係就係，之不過碌咗就冇折頭㗎喇。",
+          "jyutping": "hai6 zau6 hai6, zi1 bat1 gwo3 luk1 gwo3 zau6 mou5 zit3 tau4 gaa3 laa3.",
+          "meaning": "係就係，之不过刷咗就冇折头㗎喇。"
+        }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語 — 購物",
+      "type": "vocab_list",
+      "units": [
+        { "cantonese": "港幣", "jyutping": "gong2 bei6", "meaning": "港币" },
+        { "cantonese": "港紙", "jyutping": "gong2 zi2", "meaning": "港币（口语）" },
+        { "cantonese": "人民幣", "jyutping": "jan4 man4 bei6", "meaning": "人民币" },
+        { "cantonese": "美金", "jyutping": "mei5 gam1", "meaning": "美金" },
+        { "cantonese": "毫子", "jyutping": "hou4 zi2", "meaning": "角（硬币）" },
+        { "cantonese": "大減價", "jyutping": "daai6 gaam2 gaa3", "meaning": "大减价" },
+        { "cantonese": "銀行", "jyutping": "ngan4 hong4", "meaning": "银行" },
+        { "cantonese": "存摺", "jyutping": "cyun4 zip3", "meaning": "存折" },
+        { "cantonese": "平", "jyutping": "peng4", "meaning": "便宜" },
+        { "cantonese": "生意", "jyutping": "saang1 ji3", "meaning": "生意" },
+        { "cantonese": "舖頭", "jyutping": "pou3 tau2", "meaning": "商店" }
+      ]
+    },
+    {
+      "title": "三 補充語彙（二）句子 — 購物",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "我個妹至鍾意行街買嘢。",
+          "jyutping": "ngo5 go3 mui5 zi3 zung1 ji3 haang4 gaai1 maai5 je5.",
+          "meaning": "我妹妹最喜欢逛街买东西。"
+        },
+        {
+          "cantonese": "佢係逢商場必入。",
+          "jyutping": "keoi5 hai6 fung4 soeng1 coeng4 bit1 jap6.",
+          "meaning": "她什么商场都要进去。"
+        },
+        {
+          "cantonese": "撞啱大減價，就去掃貨。",
+          "jyutping": "zong6 ngaam1 daai6 gaam2 gaa3, zau6 heoi3 sou3 fo3.",
+          "meaning": "碰上大甩卖，就使劲买。"
+        }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語 — 量詞",
+      "type": "vocab_list",
+      "units": [
+        { "cantonese": "個", "jyutping": "go3", "meaning": "個（個天＝個天好番＝天又轉晴了）" },
+        { "cantonese": "支", "jyutping": "zi1", "meaning": "一支啤酒（一瓶啤酒）" },
+        { "cantonese": "間", "jyutping": "gaan1", "meaning": "一間學校（一所學校）" },
+        { "cantonese": "架", "jyutping": "gaa3", "meaning": "一架巴士（一輛公共汽車）" },
+        { "cantonese": "隻", "jyutping": "zek3", "meaning": "一隻船（搭邊隻船上廣州＝坐什麼船上廣州去）" },
+        { "cantonese": "條", "jyutping": "tiu4", "meaning": "一條鎖匙（一把鑰匙）" },
+        { "cantonese": "張", "jyutping": "zoeng1", "meaning": "一張櫈（一把椅子）" },
+        { "cantonese": "棵", "jyutping": "po1", "meaning": "一棵樹（一棵樹）" },
+        { "cantonese": "嚿", "jyutping": "gau6", "meaning": "一嚿磚頭（一塊磚頭）" },
+        { "cantonese": "枝", "jyutping": "zi1", "meaning": "一枝竹（一根竹子）" }
+      ]
+    },
+    {
+      "title": "三 補充語彙（二）句子 — 天氣",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "今日天陰陰，涼浸浸。",
+          "jyutping": "gam1 jat6 tin1 jam1 jam1, loeng4 zam3 zam3.",
+          "meaning": "今天大阴天，凉飕飕的。"
+        },
+        {
+          "cantonese": "今日出熱頭，記住戴番頂帽。",
+          "jyutping": "gam1 jat6 ceot1 jit6 tau2, gei3 zyu6 daai3 faan1 deng2 mou2.",
+          "meaning": "今天大太阳，别忘了戴顶帽子。"
+        },
+        {
+          "cantonese": "呢排回南天，成日開住抽濕機。",
+          "jyutping": "ni1 paai2 wui4 naam4, sing4 jat6 hoi1 zyu6 cau1 sap1 gei1.",
+          "meaning": "近来返潮，抽湿机整天都开着。"
+        },
+        {
+          "cantonese": "呢排翻風落雨，着番件風褸啦。",
+          "jyutping": "ni1 paai2 faan1 fung1 lok6 jyu5, zoek3 faan1 gin6 fung1 lau1 laa1.",
+          "meaning": "这阵子刮风下雨，穿上件风衣吧。"
+        }
+      ]
+    }
+  ]
+}

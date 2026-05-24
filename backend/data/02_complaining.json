@@ -1,0 +1,740 @@
+{
+  "title": "Lesson 8: Complaining about the services provided",
+  "theme": "投訴公司嘅服務",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "Contexts and linguistic functions 語境特徵與語言功能",
+      "type": "grammar_note",
+      "units": [
+        {
+          "cantonese": "語境特徵（人地時）",
+          "jyutping": "jyu5 ging2 dak6 zing1 (jan4 dei6 si4)",
+          "meaning": "Contexts (who, where, when)"
+        },
+        {
+          "cantonese": "Who: Hair stylist, airlines staff, customers, new acquaintance; Where: hair salon, airport, on the phone, etc.; When: first encounter",
+          "meaning": "Context details"
+        },
+        {
+          "cantonese": "投訴",
+          "jyutping": "tau4 sou3",
+          "meaning": "Core function: complaining"
+        },
+        {
+          "cantonese": "勸朋友打風時不要外出",
+          "jyutping": "hyun3 pang4 jau5 daa2 fung1 si4 bat1 jiu3 ngoi6 ceot1",
+          "meaning": "Supplementary function: Persuading a friend not to come out tonight because of typhoon"
+        },
+        {
+          "cantonese": "勸孩子少玩電子遊戲",
+          "jyutping": "hyun3 haai4 zi2 siu2 waan2 din6 zi2 jau4 hei3",
+          "meaning": "Supplementary function: Persuading a child to stop addicting to video games"
+        },
+        {
+          "cantonese": "Notes on pragmatic knowledge: I. Interjection to express disapproval or objection; II. Expressing unfriendly tone even calling someone \"daaihlóu\"; III. A casual way to call someone",
+          "meaning": "Pragmatic notes"
+        },
+        {
+          "cantonese": "Notes on language structure: Rhetorical \"bindouh…?\"; Indicating warning, suggestion, or eagerness: a lah; \"Béi\" serving as \"let\" or \"allow\"; Comparison of adjective: VOVdik Adj gwo",
+          "meaning": "Language structure notes"
+        }
+      ]
+    },
+    {
+      "title": "2.1 At the departure hall of an airport, Michelle complains to the airlines for sudden flight cancellation",
+      "type": "dialogue",
+      "units": [
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "先生嗱，請問去東京嘅班機上得機未呀？",
+          "jyutping": "sin1 saang1 aa4, cing2 man6 heoi3 dung1 ging1 ge3 baan1 gei1 soeng5 dak1 gei1 mei6 aa3?",
+          "meaning": "Excuse me sir, may I ask if the flight to Tokyo is ready for boarding yet?"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "小姐，唔好意思呀，呢個航班我哋啱啱取消咗。",
+          "jyutping": "siu2 ze2, m4 hou2 ji3 si1 aa3, ni1 go3 hong4 baan1 ngo5 dei6 ngaam1 ngaam1 ceoi2 siu1 zo2.",
+          "meaning": "Miss, I'm sorry, this flight has just been cancelled."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "吓，取消咗？幾時講嘅？",
+          "jyutping": "haa2, ceoi2 siu1 zo2? gei2 si4 gong2 gaa3?",
+          "meaning": "What, cancelled? When was this announced?"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "其實我哋啱啱嘅十五分鐘前已經有呢個廣播嘅。",
+          "jyutping": "kei4 sat6 ngo5 dei6 ngaam1 ngaam1 ge3 sap6 ng5 fan1 zung1 cin4 ji5 ging1 jau5 ni1 go3 gwong2 bo3 ge3.",
+          "meaning": "Actually we already made the broadcast about fifteen minutes ago."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "吓，點解要取消呢？",
+          "jyutping": "haa2, dim2 gaai2 jiu3 ceoi2 siu1 ne1?",
+          "meaning": "What, why was it cancelled?"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "因為……",
+          "jyutping": "jan1 wai6...",
+          "meaning": "Because..."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "我哋已經喺度等咗咁耐嘞噃。",
+          "jyutping": "ngo5 dei6 ji5 ging1 hai2 dou6 hai2 dou6 dang2 zo2 gam3 noi6 laa1 bo3.",
+          "meaning": "We've already been waiting here for so long."
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "係呀，真係好唔好意思，我哋呢……",
+          "jyutping": "hai6 aa3, zan1 hai6 hou2 m4 hou2 ji3 si1, ngo5 dei6 ne1...",
+          "meaning": "Yes, we're really sorry, we..."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "都入咗閘啦。",
+          "jyutping": "dou1 jap6 zo2 zaap6 laa3.",
+          "meaning": "We've already gone through the gate."
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "係呀，我哋都明白，真係抱歉。十五分鐘前呢啱啱宣佈咗因為天氣嘅關係，我哋取消今次嘅航班嘞。",
+          "jyutping": "hai6 aa3, ngo5 dei6 dou1 ming4 baak6, zan1 hai6 pou5 hip3. sap6 ng5 fan1 zung1 cin4 ne1 ngaam1 ngaam1 syun1 bou3 zo2 jan1 wai6 tin1 hei3 ge3 gwaan1 hai6, ngo5 dei6 ceoi2 siu1 gam1 ci3 ge3 hong4 baan1 laa3.",
+          "meaning": "Yes, we understand, we're really sorry. Fifteen minutes ago we just announced that due to weather conditions, we've cancelled this flight."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "天氣嘅關係？我認你吔講大話嘞，香港嘅天氣咁好，有理由嗎飛得㗎嘛？嗱……嗱你打算點樣安排我哋去東京呀？",
+          "jyutping": "tin1 hei3 ge3 gwaan1 hai6? ngo5 jing6 nei5 dei6 gong2 daai6 waa6 lo3, hoeng1 gong2 ge3 tin1 hei3 gam3 hou2, mou5 lei5 jau4 m4 fei1 dak1 gaa3 ze1? gam2... gam2 nei5 daa2 syun3 dim2 joeng2 on1 paai4 ngo5 dei6 heoi3 dung1 ging1 aa3?",
+          "meaning": "Weather conditions? I think you're lying. Hong Kong's weather is so good, there's no reason not to fly! So... how do you plan to arrange for us to go to Tokyo?"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "小姐，真係唔好意思呀，雖然外面天氣好好，但係我哋航班都要照顧唔同城市嘅天氣，譬如由香港去東京我哋都會經過唔同嘅城市，所以我哋都要睇吓唔同地方嘅天氣，先至決定我哋航班嘅情況。",
+          "jyutping": "siu2 ze2, zan1 hai6 m4 hou2 ji3 si1 aa3, seoi1 jin4 ngoi6 bin6 tin1 hei3 hou2 hou2, daan6 hai6 ngo5 dei6 hong4 baan1 dou1 jiu3 ziu3 gu3 m4 tung4 sing4 si5 ge3 tin1 hei3, pei4 jyu4 jau4 hoeng1 gong2 heoi3 dung1 ging1 ngo5 dei6 dou1 wui5 ging1 gwo3 m4 tung4 ge3 sing4 si5, so2 ji5 ngo5 dei6 dou1 jiu3 tai2 haa5 m4 tung4 dei6 fong1 ge3 tin1 hei3, sin1 zi3 kyut3 ding6 ngo5 dei6 hong4 baan1 ge3 cing4 fong3.",
+          "meaning": "Miss, I'm really sorry. Although the weather outside is fine, our flights need to take into account the weather in different cities. For example, from Hong Kong to Tokyo we pass through different cities, so we need to check the weather in different places before deciding on the flight status."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "我唔理呀，你哋要喺聽日妥書之前送我去到東京時，因為我嗱個度已經訂咗酒店嘅嘛。如果我取消嘅話，人哋可能即刻加我入黑名單㗎嘛。",
+          "jyutping": "ngo5 m4 lei5 aa3, nei5 dei6 jiu3 hai2 ting1 jat6 jyu5 gaat3 aat3 cin4 sung3 ngo5 heoi3 dou3 dung1 ging1 si4, jan1 wai6 ngo5 naa4 go3 dou6 ji5 ging1 deng6 zo2 zau2 dim3 ge3 maa3. jyu4 gwo2 ngo5 ceoi2 siu1 ge3 waa2, jan4 dei6 ho2 nang4 zik1 hak1 gaa1 ngo5 jap6 hak1 ming4 daan1 gaa3 maa3.",
+          "meaning": "I don't care. You need to get me to Tokyo before the deadline tomorrow, because I've already booked a hotel there. If I cancel, they might immediately put me on a blacklist."
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "明白。",
+          "jyutping": "ming4 baak6.",
+          "meaning": "Understood."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "你哋點樣負責先？",
+          "jyutping": "nei5 dei6 dim2 joeng2 fu6 zaak3 sin1?",
+          "meaning": "How are you going to take responsibility?"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "小姐，唔好意思呀，我認我哋都明白，每一位旅客呢，都有佢哋嘅安排，但係我哋真係唔可以喺一個唔安全嘅情況底下俾乘客上機。",
+          "jyutping": "siu2 ze2, m4 hou2 ji3 si1 aa3, ngo5 jing6 ngo5 dei6 dou1 ming4 baak6, mui5 jat1 wai2 leoi5 haak3 ne1, dou1 jau5 keoi5 dei6 ge3 on1 paai4, daan6 hai6 ngo5 dei6 zan1 hai6 m4 ho2 ji5 hai2 jat1 go3 m4 on1 cyun4 ge3 cing4 fong3 dai2 haa5 bei2 sing4 haak3 soeng5 gei1.",
+          "meaning": "Miss, I'm sorry. I acknowledge we understand that every passenger has their own plans, but we really cannot allow passengers to board under unsafe conditions."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "我喺香港又有屋企又有親戚。嗱我今晚點算呀？你哋可唔可以負責呀？",
+          "jyutping": "ngo5 hai2 hoeng1 gong2 jau6 mou5 uk1 kei2 jau6 mou5 can1 cik1. gam2 ngo5 gam1 maan5 dim2 syun3 aa3? nei5 dei6 ho2 m4 ho2 ji5 fu6 zaak3 aa3?",
+          "meaning": "I don't have a home or relatives in Hong Kong. So what about tonight? Can you take responsibility?"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "有問題嘅小姐，等我同我哋經理商量吓先，之後我會儘快回覆你嘅。",
+          "jyutping": "mou5 man6 tai4 ge3 siu2 ze2, dang2 ngo5 tung4 ngo5 ge3 ging1 lei5 soeng1 loeng4 haa5 sin1, zi1 hau6 ngo5 wui5 zeon6 faai3 wui4 fuk1 nei5 ge3.",
+          "meaning": "No problem, miss. Let me discuss with my manager first, and then I'll get back to you as soon as possible."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "噉即係等幾耐呀？",
+          "jyutping": "gam2 zik1 hai6 dang2 gei2 noi6 aa3?",
+          "meaning": "So how long do I have to wait?"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "小姐，不如十五分鐘之後，你再返嚟我哋呢度，我再話俾你聽丫。",
+          "jyutping": "siu2 ze2, bat1 jyu4 sap6 ng5 fan1 zung1 zi1 hau6, nei5 zoi3 faan1 lai4 ngo5 dei6 ni1 dou6, ngo5 zoi3 waa6 bei2 nei5 teng1 aa1.",
+          "meaning": "Miss, how about in fifteen minutes, you come back here and I'll let you know."
+        },
+        {
+          "cantonese": "（十五分鐘之後）",
+          "jyutping": "(sap6 ng5 fan1 zung1 zi1 hau6)",
+          "meaning": "(Fifteen minutes later)"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "小姐，我已經同我經理傾咗嘞。",
+          "jyutping": "siu2 ze2, ngo5 ji5 ging1 tung4 ngo5 ging1 lei5 king1 zo2 laa3.",
+          "meaning": "Miss, I've already discussed it with my manager."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "你哋有乜嘢安排呀？",
+          "jyutping": "nei5 dei6 jau5 mat1 je5 on1 paai4 aa3?",
+          "meaning": "What arrangements do you have?"
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "唔好意思，我哋會幫你安排住嘅地方嘅，但係我哋會俾返一張五百蚊嘅現金券你，歡迎你下次再嚟享用我哋嘅百八萬面嘅服務。",
+          "jyutping": "m4 hou2 ji3 si1, ngo5 dei6 wui5 bong1 nei5 on1 paai4 zyu6 ge3 dei6 fong1 ge3, daan6 hai6 ngo5 dei6 wui5 bei2 faan1 jat1 zoeng1 ng5 baak3 man1 ge3 jin6 gam1 hyun3 nei5, fun1 jing4 nei5 haa6 ci3 zoi3 lai4 hoeng2 jung6 ngo5 dei6 ge3 fuk6 mou6.",
+          "meaning": "Sorry, we will help arrange accommodation for you, and we will give you a $500 cash coupon. We welcome you to enjoy our services again next time."
+        },
+        {
+          "speaker": "米雪 Máihsyut",
+          "cantonese": "噉算啦，下次我都唔會再搭你哋航空公司嘅飛機㗎啦嗱。",
+          "jyutping": "gam2 syun3 laa1, haa6 ci3 ngo5 dou1 m4 wui5 zoi3 daap3 nei5 dei6 hong4 hung1 gung1 si1 ge3 fei1 gei1 gaa3 laa3.",
+          "meaning": "Forget it then. Next time I won't fly with your airline anymore."
+        },
+        {
+          "speaker": "職員 zik1 jyun4",
+          "cantonese": "小姐，真係唔好意思呀，呢度係五百蚊嘅現金券，希望下次仲可以見到你嘅，拜拜。",
+          "jyutping": "siu2 ze2, zan1 hai6 m4 hou2 ji3 si1 aa3, ni1 dou6 hai6 ng5 baak3 man1 ge3 jin6 gam1 hyun3, hei1 mong6 haa6 ci3 zung6 ho2 ji5 gin3 dou2 nei5 ge3, baai1 baai3.",
+          "meaning": "Miss, I'm really sorry. Here's the $500 cash coupon. I hope we can see you again next time. Goodbye."
+        }
+      ]
+    },
+    {
+      "title": "2.2 In a hair salon, a customer complains about his haircut",
+      "type": "dialogue",
+      "units": [
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "喂，老細，見到你就嘞啫，喂，我想同你講嘢先。",
+          "jyutping": "wai3, lou5 sai3, gin3 dou2 nei5 zau6 aam1 laa3, wai3, ngo5 soeng2 tung4 nei5 gong2 je5 sin1.",
+          "meaning": "Hey boss, great to see you. Hey, I want to talk to you first."
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "係，咩事呀先生？",
+          "jyutping": "hai6, me1 si6 aa3 sin1 saang1?",
+          "meaning": "Yes, what is it, sir?"
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "喂，上次我搵你哋阿Ken幫我剪頭髮呀。",
+          "jyutping": "wai3, soeng6 ci3 ngo5 wan2 nei5 dei6 aa3 Ken bong1 ngo5 zin2 tau4 faat3 aa3.",
+          "meaning": "Hey, last time I had your Ken cut my hair."
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "係。",
+          "jyutping": "hai6.",
+          "meaning": "Yes."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "喂，我話要做負離子直髮嘅，你哋話負離子可以keep一個月㗎嘛。",
+          "jyutping": "wai3, ngo5 waa6 jiu3 zou6 fu6 lei4 zi2 zik6 faat3 ge3, nei5 dei6 waa6 fu6 lei4 zi2 ho2 ji5 keep jat1 go3 jyut6 gaa3 maa3.",
+          "meaning": "Hey, I said I wanted a straight perm treatment. You said it could keep for a month."
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "係呀。",
+          "jyutping": "hai6 aa1.",
+          "meaning": "Yes."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "喂，大佬，我前後都唔夠一個禮拜，又開始鬈嘞。喂，你哋搞乜鬼嘢呀嗰陣度？",
+          "jyutping": "wai3, daai6 lou2, ngo5 cin4 hau6 dou1 m4 gau3 jat1 go3 lai5 baai3, jau6 hoi1 ci2 lyun4 laa3. wai3, nei5 dei6 gaau2 mat1 gwai2 je5 aa3 go2 zan6 dou6?",
+          "meaning": "Hey man, it hasn't even been a full week and it's started curling again. Hey, what were you guys doing?"
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "淡……",
+          "jyutping": "eh...",
+          "meaning": "Eh..."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "跟住我同阿Ken講，我叫佢：「喂，同我搞返好佢啦！」佢又話要收我錢。嘢，有冇搞錯呀，呢啲係你哋嘅責任叮噃，係咪先？",
+          "jyutping": "gan1 zyu6 ngo5 tung4 aa3 Ken gong2, ngo5 giu3 keoi5: \"wai3, tung4 ngo5 gaau2 faan1 hou2 keoi5 laa1!\" keoi5 jau6 waa6 jiu3 sau1 ngo5 cin2. waa2, jau5 mou5 gaau2 co3 aa3, ni1 di1 hai6 nei5 dei6 ge3 zaak3 jam6 aa3 maa3, hai6 mai6 sin1?",
+          "meaning": "Then I told Ken, I said: \"Hey, fix it for me!\" But he said he wanted to charge me. What, are you kidding me? This is your responsibility, right?"
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "會唔會有啲誤會呢？",
+          "jyutping": "wui5 m4 wui5 jau5 di1 ng6 wui6 ne1?",
+          "meaning": "Could there be some misunderstanding?"
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "吓，有咩誤會呀？喂大佬，我嚟呢度，我話要做負離子直髮，你哋又話，可以keep三四個月都得。喂，而家三四日就已經鬈嘞。",
+          "jyutping": "haa2, jau5 me1 ng6 wui6 aa3? wai3 daai6 lou2, ngo5 lai4 ni1 dou6, ngo5 waa6 jiu3 zou6 fu6 lei4 zi2 zik6 faat3, nei5 dei6 jau6 waa6, ho2 ji5 keep saam1 sei3 go3 jyut6 dou1 dak1. wai3, ji4 gaa1 saam1 sei3 jat6 zau6 ji5 ging1 lyun4 laa3.",
+          "meaning": "What, what misunderstanding? Hey man, I came here and said I wanted straight perm, and you said it could keep for three or four months. But now after three or four days it's already curly."
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "可能係先生你嘅髮質嘅問題呀，同埋可能染髮嘅時間，都可能會影響出嚟嘅效果嘅嘛。",
+          "jyutping": "ho2 nang4 hai6 sin1 saang1 nei5 ge3 faat3 zat1 ge3 man6 tai4 aa3, tung4 maai4 ho2 nang4 jim5 faat3 ge3 si4 gaan3, dou1 ho2 nang4 wui5 jing2 hoeng2 ceot1 lai4 ge3 haau6 gwo2 ge3 maa3.",
+          "meaning": "It might be an issue with your hair texture, sir. And the timing of hair dyeing might also affect the result."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "吓，要啲咩髮質呀？鐵線唔？鐵線先至會直㗎？",
+          "jyutping": "haa2? jiu3 di1 me1 faat3 zat1 aa3? tit3 sin3 aa4? tit3 sin3 sin1 zi3 wui5 zik6 aa4?",
+          "meaning": "What, what kind of hair texture? Iron wire? Only iron wire would stay straight?"
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "唔係唔係，或者我可唔可以同我嘅嘢了解吓，儘快回覆你？",
+          "jyutping": "m4 hai6 m4 hai6, waak6 ze2 ngo5 ho2 m4 ho2 ji5 tung4 ngo5 ge3 je5 liu5 gaai2 haa5, zeon6 faai3 wui4 fuk1 nei5?",
+          "meaning": "No no, perhaps I could look into it and get back to you as soon as possible?"
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "而家點樣先？喂，大佬，我下個月要出去拍戲嘛，而家頭都搞到嘅樣，噉點算呀？我一陣間仲要去見吓老細，噉點算呀？話俾佢聽，個主角係嗰嘅樣㗎嘛？大佬，你見倒嘅樣，你都唔請啦，係咪呀？",
+          "jyutping": "ji4 gaa1 dim2 joeng2 sin1? wai3, daai6 lou2, ngo5 haa6 go3 jyut6 jiu3 ceot1 heoi3 paak3 hei3 laa3, ji4 gaa1 go3 tau4 dou1 gaau2 dou3 gam2 ge3 joeng2, gam2 dim2 syun3 aa3? ngo5 jat1 zan6 gaan1 zung6 jiu3 heoi3 gin3 haa5 ngo5 ge3 lou5 sai3, gam2 dim2 syun3 aa3? waa6 bei2 keoi5 teng1, go3 zyu2 gok3 hai6 gam2 ge3 joeng2 gaa3 maa3? daai6 lou2, nei5 gin3 dou2 gam2 ge3 joeng2, nei5 dou1 m4 cing2 laa1, hai6 mai6 aa3?",
+          "meaning": "What now? Hey man, next month I need to go out and film. My head looks like this now, what am I supposed to do? I still need to go see the boss later, what then? Tell him the lead actor looks like this? Man, if you saw someone looking like this, you wouldn't hire them either, right?"
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "你唔使咁緊張。",
+          "jyutping": "nei5 m4 sai2 gam3 gan2 zoeng1.",
+          "meaning": "You don't need to be so nervous."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "你快啲同我……",
+          "jyutping": "nei5 faai3 di1 tung4 ngo5...",
+          "meaning": "Hurry up and..."
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "先生唔使咁緊張先，不如嗰樣啦，如果唔介意，我同你寫低啲聯絡資料先丫，等我同阿Ken溝通咗之後，我哋儘快回覆你，睇吓有啲咩服務，譬如啲treatment可以俾返你丫。",
+          "jyutping": "sin1 saang1 m4 sai2 gam3 gan2 zoeng1 sin1, bat1 jyu4 gam2 joeng2 laa1, jyu4 gwo2 m4 gaai3 ji3, ngo5 tung4 nei5 se2 dai1 di1 lyun4 lok6 zi1 liu2 sin1 aa1, dang2 ngo5 tung4 aa3 Ken kau1 tung1 zo2 zi1 hau6, ngo5 dei6 zeon6 faai3 wui4 fuk1 nei5, tai2 haa5 jau5 di1 me1 fuk6 mou6, pei4 jyu4 di1 treatment ho2 ji5 bei2 faan1 nei5 aa1.",
+          "meaning": "Sir, don't be so nervous. How about this — if you don't mind, let me take down your contact details first. After I communicate with Ken, we'll get back to you as soon as possible and see what services, such as a treatment, we can offer you."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "唔係，老老實實，搞幾耐先？喂，我真係唔係有好多時間咧，你今日覆唔覆到我先？",
+          "jyutping": "m4 hai6, lou5 lou5 sat6 sat6, gaau2 gei2 noi6 sin1? wai3, ngo5 zan1 hai6 m4 hai6 jau5 hou2 do1 si4 gaan3 aa3, nei5 gam1 jat6 fuk1 m4 fuk1 dou2 ngo5 sin1?",
+          "meaning": "No, honestly, how long will it take? Hey, I really don't have much time. Can you get back to me today?"
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "我哋會嘅，我哋儘快，可能個幾兩個鐘丫，阿Ken呢，佢食完飯會返嚟㗎嘞。",
+          "jyutping": "ngo5 dei6 wui5 gaa3, ngo5 dei6 zeon6 faai3, ho2 nang4 go3 gei2 loeng5 go3 zung1 aa1, aa3 Ken ne1, keoi5 sik6 jyun4 faan6 wui5 faan1 lai4 gaa3 laa3.",
+          "meaning": "We will. We'll be as quick as possible, maybe a couple of hours. Ken will come back after his meal."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "係咪呀？你唔好又呃我呀。大佬，我上次搵阿Ken搞咗差唔多半日，佢都未覆倒我。",
+          "jyutping": "hai6 mai6 aa3? nei5 m4 hou2 jau6 aak1 ngo5 aa3. daai6 lou2, ngo5 soeng6 ci3 wan2 aa3 Ken gaau2 zo2 caa1 m4 do1 bun3 jat6, keoi5 dou1 mei6 fuk1 dou2 ngo5.",
+          "meaning": "Really? Don't lie to me again. Man, last time I asked Ken, it took almost half a day, and he still didn't get back to me."
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "你放心啦先生，我哋一定會儘快同你搞返好佢嘅。",
+          "jyutping": "nei5 fong3 sam1 laa1 sin1 saang1, ngo5 dei6 jat1 ding6 wui5 zeon6 faai3 tung4 nei5 gaau2 faan1 hou2 keoi5 ge3.",
+          "meaning": "Don't worry, sir. We will definitely fix it for you as soon as possible."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "係咪嘢？",
+          "jyutping": "hai6 mai6 gaa3?",
+          "meaning": "Really?"
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "係，係。",
+          "jyutping": "hai6, hai6.",
+          "meaning": "Yes, yes."
+        },
+        {
+          "speaker": "客人 haakyahn",
+          "cantonese": "快啲嘞，一陣間覆我呀。",
+          "jyutping": "faai3 di1 laa1, jat1 zan6 gaan1 fuk1 ngo5 aa3.",
+          "meaning": "Hurry up, get back to me soon."
+        },
+        {
+          "speaker": "髮型屋老闆 faat3 jing4 uk1 lou5 baan2",
+          "cantonese": "唔好意思唔好意思呀。",
+          "jyutping": "m4 hou2 ji3 si1, m4 hou2 ji3 si1 aa3.",
+          "meaning": "Sorry, sorry."
+        }
+      ]
+    },
+    {
+      "title": "3.1 Common vocabulary",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "啱啱",
+          "jyutping": "ngaam1 ngaam1",
+          "meaning": "just now; just recently; just a moment ago",
+          "pos": "Adv"
+        },
+        {
+          "cantonese": "上機",
+          "jyutping": "soeng5 gei1",
+          "meaning": "board a flight",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "取消",
+          "jyutping": "ceoi2 siu1",
+          "meaning": "cancel; call off",
+          "pos": "V"
+        },
+        {
+          "cantonese": "抱歉",
+          "jyutping": "pou5 hip3",
+          "meaning": "feel apologetic; regret, sorry (formal)",
+          "pos": "Adj"
+        },
+        {
+          "cantonese": "宣佈",
+          "jyutping": "syun1 bou3",
+          "meaning": "declare; announce",
+          "pos": "V"
+        },
+        {
+          "cantonese": "講大話",
+          "jyutping": "gong2 daai6 waa6",
+          "meaning": "tell a lie",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "有理由",
+          "jyutping": "mou5 lei5 jau4",
+          "meaning": "no reason; does not make sense; unreasonable",
+          "pos": "PH"
+        },
+        {
+          "cantonese": "照顧",
+          "jyutping": "ziu3 gu3",
+          "meaning": "give consideration; care for",
+          "pos": "V"
+        },
+        {
+          "cantonese": "經過",
+          "jyutping": "ging1 gwo3",
+          "meaning": "go through; pass; process",
+          "pos": "V/N"
+        },
+        {
+          "cantonese": "加",
+          "jyutping": "gaa1",
+          "meaning": "add; put in",
+          "pos": "V"
+        },
+        {
+          "cantonese": "黑名單",
+          "jyutping": "hak1 ming4 daan1",
+          "meaning": "blacklist",
+          "pos": "N"
+        },
+        {
+          "cantonese": "安排",
+          "jyutping": "on1 paai4",
+          "meaning": "arrange (matters); arrangements; plan in detail; plans",
+          "pos": "V/N"
+        },
+        {
+          "cantonese": "俾",
+          "jyutping": "bei2",
+          "meaning": "allow",
+          "pos": "V"
+        },
+        {
+          "cantonese": "親戚",
+          "jyutping": "can1 cik1",
+          "meaning": "relative (family relation)",
+          "pos": "N"
+        },
+        {
+          "cantonese": "商量",
+          "jyutping": "soeng1 loeng4",
+          "meaning": "consult; discuss; talk over",
+          "pos": "V"
+        },
+        {
+          "cantonese": "傾",
+          "jyutping": "king1",
+          "meaning": "talk; chat; discuss",
+          "pos": "V"
+        },
+        {
+          "cantonese": "現金券",
+          "jyutping": "jin6 gam1 hyun3",
+          "meaning": "cash coupon",
+          "pos": "N"
+        },
+        {
+          "cantonese": "享用",
+          "jyutping": "hoeng2 jung6",
+          "meaning": "enjoy the use of",
+          "pos": "V"
+        },
+        {
+          "cantonese": "前後",
+          "jyutping": "cin4 hau6",
+          "meaning": "from beginning to end",
+          "pos": "TW"
+        },
+        {
+          "cantonese": "誤會",
+          "jyutping": "ng6 wui6",
+          "meaning": "misunderstanding; misunderstand",
+          "pos": "N/V"
+        },
+        {
+          "cantonese": "效果",
+          "jyutping": "haau6 gwo2",
+          "meaning": "effect; result",
+          "pos": "N"
+        },
+        {
+          "cantonese": "了解",
+          "jyutping": "liu5 gaai2",
+          "meaning": "find out; acquaint oneself with; comprehend; realize",
+          "pos": "V"
+        },
+        {
+          "cantonese": "請",
+          "jyutping": "cing2",
+          "meaning": "employ; hire (a lawyer, etc.), recruit, appoint to a position",
+          "pos": "V"
+        },
+        {
+          "cantonese": "緊張",
+          "jyutping": "gan2 zoeng1",
+          "meaning": "nervous; stressed; tense",
+          "pos": "Adj"
+        },
+        {
+          "cantonese": "介意",
+          "jyutping": "gaai3 ji3",
+          "meaning": "take offence; mind",
+          "pos": "V"
+        },
+        {
+          "cantonese": "溝通",
+          "jyutping": "kau1 tung1",
+          "meaning": "communicate",
+          "pos": "V"
+        },
+        {
+          "cantonese": "覆",
+          "jyutping": "fuk1",
+          "meaning": "reply; give a reply",
+          "pos": "V"
+        }
+      ]
+    },
+    {
+      "title": "3.2 People, proper nouns or place words",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "米雪",
+          "jyutping": "mai5 syut3",
+          "meaning": "Michelle",
+          "pos": "PN"
+        },
+        {
+          "cantonese": "東京",
+          "jyutping": "dung1 ging1",
+          "meaning": "Tokyo",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "對象",
+          "jyutping": "deoi3 zoeng6",
+          "meaning": "target; boy or girlfriend",
+          "pos": "N"
+        },
+        {
+          "cantonese": "香港天文台 / 天文台",
+          "jyutping": "hoeng1 gong2 tin1 man4 toi4 / tin1 man4 toi4",
+          "meaning": "Hong Kong Observatory",
+          "pos": "PN"
+        }
+      ]
+    },
+    {
+      "title": "3.3 In an airport",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "航班",
+          "jyutping": "hong4 baan1",
+          "meaning": "scheduled flight; flight number",
+          "pos": "N"
+        },
+        {
+          "cantonese": "廣播",
+          "jyutping": "gwong2 bo3",
+          "meaning": "broadcast; broadcasting",
+          "pos": "V/N"
+        },
+        {
+          "cantonese": "入閘",
+          "jyutping": "jap6 zaap6",
+          "meaning": "enter the gate or restricted area",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "旅客",
+          "jyutping": "leoi5 haak3",
+          "meaning": "traveler; passenger; guest",
+          "pos": "N"
+        },
+        {
+          "cantonese": "航空公司",
+          "jyutping": "hong4 hung1 gung1 si1",
+          "meaning": "airline company",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.4 In a hair salon",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "老細",
+          "jyutping": "lou5 sai3",
+          "meaning": "boss",
+          "pos": "N"
+        },
+        {
+          "cantonese": "髮型屋老闆",
+          "jyutping": "faat3 jing4 uk1 lou5 baan2",
+          "meaning": "owner of a hair salon",
+          "pos": "N"
+        },
+        {
+          "cantonese": "剪頭髮",
+          "jyutping": "zin2 tau4 faat3",
+          "meaning": "get a hair cut",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "負離子直髮",
+          "jyutping": "fu6 lei4 zi2 zik6 faat3",
+          "meaning": "straight perm; thermal reconditioning",
+          "pos": "PH"
+        },
+        {
+          "cantonese": "鬈",
+          "jyutping": "lyun4",
+          "meaning": "curly",
+          "pos": "Adj"
+        },
+        {
+          "cantonese": "髮質",
+          "jyutping": "faat3 zat1",
+          "meaning": "hair nature or texture",
+          "pos": "N"
+        },
+        {
+          "cantonese": "染髮",
+          "jyutping": "jim5 faat3",
+          "meaning": "dye the hair",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "鐵線",
+          "jyutping": "tit3 sin3",
+          "meaning": "iron wire",
+          "pos": "N"
+        },
+        {
+          "cantonese": "頭",
+          "jyutping": "tau4",
+          "meaning": "head; hair",
+          "pos": "N"
+        },
+        {
+          "cantonese": "樣",
+          "jyutping": "joeng2",
+          "meaning": "look; face",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.5 Marriage",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "請飲",
+          "jyutping": "cing2 jam2",
+          "meaning": "invite to a wedding or banquet",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "（請）帖",
+          "jyutping": "(cing2) tip1",
+          "meaning": "invitation card",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.6 Weather",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "掛",
+          "jyutping": "gwaa3",
+          "meaning": "hoist (typhoon signal)",
+          "pos": "V"
+        },
+        {
+          "cantonese": "八號風球",
+          "jyutping": "baat3 hou6 fung1 kau4",
+          "meaning": "No. 8 signal (the wind speed range is 63-117 km/h)",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.7 Other vocabularies",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "打機",
+          "jyutping": "daa2 gei1",
+          "meaning": "play video games",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "細",
+          "jyutping": "sai3",
+          "meaning": "small",
+          "pos": "Adj"
+        },
+        {
+          "cantonese": "細個",
+          "jyutping": "sai3 go3",
+          "meaning": "when one was young",
+          "pos": "TW"
+        },
+        {
+          "cantonese": "歲",
+          "jyutping": "seoi3",
+          "meaning": "year (of age)",
+          "pos": "N"
+        },
+        {
+          "cantonese": "攞住",
+          "jyutping": "lo2 zyu6",
+          "meaning": "hold firmly",
+          "pos": "RVE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "title": "學校（一）",
+  "theme": "school",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "第10課 暢談教育制度 — 課文",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "教育系嘅張老師同一班同學計論緊香港現時嘅教育制度。大家發表意見之前，佢請一個同學簡單嘅總結吓香港嘅教育制度係點嘅先。",
+          "jyutping": "gaau3 juk6 hai6 ge3 zoeng1 lou5 si1 tung4 jat1 baan1 tung4 hok6 gai2 leon6 gan2 hoeng1 gong2 jin6 si4 ge3 gaau3 juk6 zai3 dou6. daai6 gaa1 faat3 biu2 ji3 gin3 zi1 cin4, keoi5 cing2 jat1 go3 tung4 hok6 gaan2 daan1 ge3 zung2 git3 haa5 hoeng1 gong2 ge3 gaau3 juk6 zai3 dou6 hai6 dim2 ge3 sin1.",
+          "meaning": "教育系的张老师同一班同学讨论紧香港现时的教育制度。大家发表意见之前，他请一个同学简单的总结下香港的教育制度是怎样的先。",
+          "speaker": "旁白"
+        },
+        {
+          "cantonese": "噉我嚟講吓啦。香港而家實行九年免費嘅強迫教育，所有六至十五歲嘅學童都必須入學讀書。強迫教育階段包括小學同初中。所有公營小學同大部分嘅資助小學都完全免費，只有小部分私立小學仍然收費。",
+          "jyutping": "gam2 ngo5 lai4 gong2 haa5 laa1. hoeng1 gong2 ji4 gaa1 sat6 hang4 gau2 nin4 ge3 min5 fai3 ge3 koeng4 bik1 gaau3 juk6, so2 jau5 luk6 zi3 sap6 ng5 seoi3 ge3 hok6 tung4 dou1 bit1 seoi1 jap6 hok6 duk6 syu1. koeng4 bik1 gaau3 juk6 gaai1 dyun6 baau1 kut3 siu2 hok6 tung4 co1 zung1. so2 jau5 gung1 jing4 siu2 hok6 tung4 daai6 bou6 fan6 ge3 zi1 zo6 siu2 hok6 dou1 jyun4 cyun4 min5 fai3, zi2 jau5 siu2 bou6 fan6 si1 laap6 siu2 hok6 jing4 jin4 sau1 fai3.",
+          "meaning": "那我来讲下啦。香港而家实行九年免费的强迫教育，所有六至十五岁的学童都必须入学读书。强迫教育阶段包括小学同初中。所有公营小学同大部分的资助小学都完全免费，只有小部分私立小学仍然收费。",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "中學分為初中同高中。中一至中三係初中，初中同小學一樣係免費嘅。以前，高中係指中四至中五。學生讀完中五會參加中學會考。成績好嘅就可以繼續讀兩年大學預科，即係中六同中七。讀完中七，可以參加高級程度會考。如果成績標青，就可以入大學。",
+          "jyutping": "zung1 hok6 fan1 wai4 co1 zung1 tung4 gou1 zung1. zung1 jat1 zi3 zung1 saam1 hai6 co1 zung1, co1 zung1 tung4 siu2 hok6 jat1 joeng6 hai6 min5 fai3 ge3. ji5 cin4, gou1 zung1 hai6 zi2 zung1 sei3 zi3 zung1 ng5. hok6 saang1 duk6 jyun4 zung1 ng5 wui5 caam1 gaa1 zung1 hok6 wui2 haau2. sing4 zik1 hou2 ge3 zau6 ho2 ji5 gai3 zuk6 duk6 loeng5 nin4 daai6 hok6 jyu6 fo1, zik1 hai6 zung1 luk6 tung4 zung1 cat1. duk6 jyun4 zung1 cat1, ho2 ji5 caam1 gaa1 gou1 kap1 cing4 dou6 wui2 haau2. jyu4 gwo2 sing4 zik1 biu1 cing1, zau6 ho2 ji5 jap6 daai6 hok6.",
+          "meaning": "中学分为初中同高中。中一至中三是初中，初中同小学一样是免费的。以前，高中是指中四至中五。学生读完中五会参加中学会考。成绩好的就可以继续读两年大学预科，即是中六同中七。读完中七，可以参加高级程度会考。如果成绩标青，就可以入大学。",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "2009年全面推行新學制。大學預科取消咗，原來嘅兩次會考變成一個公開試。",
+          "jyutping": "ji6 ling4 ling4 gau2 nin4 cyun4 min6 teoi1 hang4 san1 hok6 zai3. daai6 hok6 jyu6 fo1 ceoi2 siu1 zo2, jyun4 loi4 ge3 loeng5 ci3 wui2 haau2 bin3 sing4 jat1 go3 gung1 hoi1 si5.",
+          "meaning": "2009年全面推行新学制。大学预科取消了，原来的两次会考变成一个公开试。",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "香港而家有香港大學、香港中文大學等八間由大學教育資助委員會資助嘅院校，三間財政自給嘅院校，即係公開大學、香港樹仁大學同珠海學院，仲有由公帑資助嘅香港演藝學院。",
+          "jyutping": "hoeng1 gong2 ji4 gaa1 jau5 hoeng1 gong2 daai6 hok6, hoeng1 gong2 zung1 man4 daai6 hok6 dang2 baat3 gaan1 jau4 daai6 hok6 gaau3 juk6 zi1 zo6 wai2 jyun4 wui2 zi1 zo6 ge3 jyun2 haau6, saam1 gaan1 coi4 zing3 zi6 kap1 ge3 jyun2 haau6, zik1 hai6 gung1 hoi1 daai6 hok6, hoeng1 gong2 syu6 jan4 daai6 hok6 tung4 zyu1 hoi2 hok6 jyun2, zung6 jau5 jau4 gung1 tong2 zi1 zo6 ge3 hoeng1 gong2 jin2 ngai6 hok6 jyun2.",
+          "meaning": "香港而家有香港大学、香港中文大学等八间由大学教育资助委员会资助的院校，三间财政自给的院校，即是公开大学、香港树仁大学同珠海学院，仲有由公帑资助的香港演艺学院。",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "至於嗰啲想繼續深造嘅成人，就可以選擇請公開大學嘅課程。近年香港政府都有資助一啲機構開辦職業訓練課程同文憑課程，等各類人士都有持續進修嘅機會。",
+          "jyutping": "zi3 jyu1 go2 di1 soeng2 gai3 zuk6 sam1 zou6 ge3 sing4 jan4, zau6 ho2 ji5 syun2 zaak6 duk6 gung1 hoi1 daai6 hok6 ge3 fo3 cing4. gan6 nin4 hoeng1 gong2 zing3 fu2 dou1 jau5 zi1 zo6 jat1 di1 gei1 kau3 hoi1 baan6 zik1 jip6 fan1 lin6 fo3 cing4 tung4 man4 ping4 fo3 cing4, dang2 gok3 leoi6 jan4 si6 dou1 jau5 ci4 zuk6 zeon3 sau1 ge3 gei1 wui6.",
+          "meaning": "至于那些想继续深造的成人，就可以选择读公开大学的课程。近年香港政府都有资助一些机构开办职业训练课程同文凭课程，等各类人士都有持续进修的机会。",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "香港教育制度嘅情況大致上就係噉樣。",
+          "jyutping": "hoeng1 gong2 gaau3 juk6 zai3 dou6 ge3 cing4 fong3 daai6 zi3 soeng6 zau6 hai6 gam2 joeng2.",
+          "meaning": "香港教育制度的情况大致上就是这样。",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "非常好！噉你哋話目前香港嘅教育制度面對啲乜嘢問題同困難呢？",
+          "jyutping": "fei1 soeng4 hou2! gam2 nei5 dei6 waa6 muk6 cin4 hoeng1 gong2 ge3 gaau3 juk6 zai3 dou6 min6 deoi3 di1 mat1 je5 man6 tai4 tung4 kwan3 naan4 ne1?",
+          "meaning": "非常好！那你们说目前香港的教育制度面对些什么问题同困难呢？",
+          "speaker": "張老師"
+        },
+        {
+          "cantonese": "我覺得香港社會太重視考試成績同學位。學生驚住成績差過人，就要搏命創書。我記得中六會考之前，功課多到極都做唔完，我哋時時都要挨更抵夜。如果張沙紙唔夠硬，畢業出嚟邊度都唔要你。乜嘢「全人教育」，都係得個「講」字。",
+          "jyutping": "ngo5 gok3 dak1 hoeng1 gong2 se5 wui2 taai3 zung6 si6 haau2 si5 sing4 zik1 tung4 hok6 wai2. hok6 saang1 geng1 zyu6 sing4 zik1 caa1 gwo3 jan4, zau6 jiu3 bok3 meng6 paau1 syu1. ngo5 gei3 dak1 zung1 luk6 wui2 haau2 zi1 cin4, gung1 fo1 do1 dou3 gik6 dou1 zou6 m4 jyun4, ngo5 dei6 si4 si4 dou1 jiu3 ngaai4 gaang1 dai2 je6. jyu4 gwo2 zoeng1 saa1 zi2 m4 gau3 ngaang6, bat1 jip6 ceot1 lai4 bin1 dou6 dou1 m4 jiu3 nei5. mat1 je5 cyun4 jan4 gaau3 juk6, dou1 hai6 dak1 go3 gong2 zi6.",
+          "meaning": "我觉得香港社会太重视考试成绩同学位。学生驚住成绩差过人，就要搏命创书。我记得中六会考之前，功课多到极都做唔完，我们时时都要挨更抵夜。如果张沙纸唔够硬，毕业出来边度都唔要你。乜野「全人教育」，都系得个「讲」字。",
+          "speaker": "黃友中"
+        },
+        {
+          "cantonese": "香港嘅中小學生真係好似大人咁忙。我小學嗰陣屋企就有常我請補習先生。除咗返學同做功課，就係溫書、補習、學琴，根本冇玩嘅時間。中學就去補習社。不過講返轉頭，補習都有用嘅。啲先生教嘅應試技巧，幫你揸資料，俾理「貼士」你。會考競爭咁激烈，如果唔補習，我唔知會唔會讀倒大學。",
+          "jyutping": "hoeng1 gong2 ge3 zung1 siu2 hok6 saang1 zan1 hai6 hou2 ci5 daai6 jan4 gam2 mong4. ngo5 siu2 hok6 go2 zan6 uk1 kei2 zau6 jau5 soeng4 ngo5 cing2 bou2 zaap6 sin1 saang1. ceoi4 zo2 faan1 hok6 tung4 zou6 gung1 fo1, zau6 hai6 wan1 syu1, bou2 zaap6, hok6 kam4, gan1 bun2 mou5 waan2 ge3 si4 gaan3. zung1 hok6 zau6 heoi3 bou2 zaap6 se5. bat1 gwo3 gong2 faan1 zyun3 tau4, bou2 zaap6 dou1 jau5 jung6 ge3. di1 sin1 saang1 gaau3 ge3 jing3 si5 gei6 haau2, bong1 nei5 zap1 zi1 liu2, bei2 lei5 tip3 si6 nei5. wui2 haau2 ging6 zang1 gam3 gik1 lit6, jyu4 gwo2 m4 bou2 zaap6, ngo5 m4 zi1 wui5 m4 wui5 duk6 dou2 daai6 hok6.",
+          "meaning": "香港的中小学生真是好似大人那么忙。我小学那时候屋企就有常我请补习先生。除了返学同做功课，就是温书、补习、学琴，根本没有玩的时间。中学就去补习社。不过讲返转头，补习都有用的。些先生教的应试技巧，帮你执资料，俾理「贴士」你。会考竞争那么激烈，如果唔补习，我唔知会唔会读到大学。",
+          "speaker": "區家明"
+        },
+        {
+          "cantonese": "噉即係填鴨式教育味！唔單止補習社，學校都係噉。先生派筆記，學生只要背筆記，就可以考倒高分，都唔使自己諗嘢嘅。而家香港講培養本地人才，講發展創意產業，噉嘅教育方法睇怕都幾難滿足倒呢啲需要。學校同學生真係唔應該下下睇成績，「求學不是求分數」吖嘛。",
+          "jyutping": "gam2 zik1 hai6 tin4 aap3 sik1 gaau3 juk6 mei6! m4 daan1 zi2 bou2 zaap6 se5, hok6 haau6 dou1 hai6 gam2. sin1 saang1 paai1 bat1 gei3, hok6 saang1 zi2 jiu3 bui6 bat1 gei3, zau6 ho2 ji5 haau2 dou2 gou1 fan1, dou1 m4 sai2 zi6 gei2 nam2 je5 ge3. ji4 gaa1 hoeng1 gong2 gong2 pui4 joeng5 bun2 dei6 jan4 coi4, gong2 faat3 zin2 cong3 ji3 caan2 jip6, gam2 ge3 gaau3 juk6 fong1 faat3 tai2 paa3 dou1 gei2 naan4 mun5 zuk1 dou2 ni1 di1 seoi1 jiu3. hok6 haau6 tung4 hok6 saang1 zan1 hai6 m4 jing1 goi1 haa5 haa5 tai2 sing4 zik1, kau4 hok6 bat1 si6 kau4 fan1 sou3 aa1 maa3.",
+          "meaning": "那即是填鸭式教育味！唔单止补习社，学校都是这样。先生派笔记，学生只要背笔记，就可以考到高分，都唔使自己想东西的。而家香港讲培养本地人才，讲发展创意产业，这样的教育方法睇怕都几难满足到这些需要。学校同学生真是唔应该下下睇成绩，「求学不是求分数」吖嘛。",
+          "speaker": "周美英"
+        },
+        {
+          "cantonese": "幾個同學發頭贊成。",
+          "jyutping": "gei2 go3 tung4 hok6 ngaap6 tau4 zaan3 sing4.",
+          "meaning": "几个同学点头赞成。",
+          "speaker": "旁白"
+        },
+        {
+          "cantonese": "其實近年香港政府為咗減低升學壓力，已經撥多咗經費發展大學教育，逐年增加大學學位，令多啲高中畢業生有機會讀大學。香港學生仲有一個選擇係去海外升學。",
+          "jyutping": "kei4 sat6 gan6 nin4 hoeng1 gong2 zing3 fu2 wai6 zo2 gaam2 dai1 sing1 hok6 aat3 lik6, ji5 ging1 but6 do1 zo2 ging1 fai3 faat3 zin2 daai6 hok6 gaau3 juk6, zuk6 nin4 zang1 gaa1 daai6 hok6 hok6 wai2, ling6 do1 di1 gou1 zung1 bat1 jip6 saang1 jau5 gei1 wui6 duk6 daai6 hok6. hoeng1 gong2 hok6 saang1 zung6 jau5 jat1 go3 syun2 zaak6 hai6 heoi3 hoi2 ngoi6 sing1 hok6.",
+          "meaning": "其实近年香港政府为了减低升学压力，已经拨多了经费发展大学教育，逐年增加大学学位，令多些高中毕业生有机会读大学。香港学生仲有一个选择是去海外升学。",
+          "speaker": "劉巧雲"
+        },
+        {
+          "cantonese": "唔係個個都去到外國升學嘅噃，要靠屋企嘅經濟支援先至有呢個條件。",
+          "jyutping": "m4 hai6 go3 go3 dou1 heoi3 dou2 ngoi6 gwok3 sing1 hok6 ge3 bo3, jiu3 kaau3 uk1 kei2 ge3 ging1 zai3 zi1 wun4 sin1 zi3 jau5 ni1 go3 tiu4 gin2.",
+          "meaning": "唔系个个都去到外国升学的啵，要靠屋企的经济支援先至有呢个条件。",
+          "speaker": "周美英"
+        },
+        {
+          "cantonese": "噉就小少咗啲人爭學位啦。中學畢業之後，除咗讀大學之外，其實仲有第二啲選擇嘅嘛。譬如話參加職業訓練，或者學院開設嘅持續進修課程，合資格嘅人仲可以享受政府資助。而家只要想讀書，機會都唔少，最緊要自己有上進心。",
+          "jyutping": "gam2 zau6 siu2 siu2 zo2 di1 jan4 zaang1 hok6 wai2 laa1. zung1 hok6 bat1 jip6 zi1 hau6, ceoi4 zo2 duk6 daai6 hok6 zi1 ngoi6, kei4 sat6 zung6 jau5 dai6 ji6 di1 syun2 zaak6 ge3 maa3. pei3 jyu4 waa6 caam1 gaa1 zik1 jip6 fan1 lin6, waak6 ze2 hok6 jyun2 hoi1 cit3 ge3 ci4 zuk6 zeon3 sau1 fo3 cing4, hap6 zi1 gaak3 ge3 jan4 zung6 ho2 ji5 hoeng2 sau6 zing3 fu2 zi1 zo6. ji4 gaa1 zi2 jiu3 soeng2 duk6 syu1, gei1 wui6 dou1 m4 siu2, zeoi3 gan2 jiu3 zi6 gei2 jau5 soeng6 zeon3 sam1.",
+          "meaning": "那就少少了些人争学位啦。中学毕业之后，除了读大学之外，其实仲有第二些选择的嘛。譬如话参加职业训练，或者学院开设的持续进修课程，合资格的人仲可以享受政府资助。而家只要想读书，机会都唔少，最紧要自己有上进心。",
+          "speaker": "劉巧雲"
+        },
+        {
+          "cantonese": "我話香港嘅教育仲有一個好大嘅障礙，就係教學語言唔統一。多數中小學校用廣東話教學，少數全用英文教學，嗰大學就只有中文、中史呢啲科目用中文教，其他嘅科目都係用英文教。轉嚟轉去嘅，學生或者追唔倒。",
+          "jyutping": "ngo5 waa6 hoeng1 gong2 ge3 gaau3 juk6 zung6 jau5 jat1 go3 hou2 daai6 ge3 zoeng3 ngoi6, zau6 hai6 gaau3 hok6 jyu5 jin4 m4 tung2 jat1. do1 sou3 zung1 siu2 hok6 haau6 jung6 gwong2 dung1 waa2 gaau3 hok6, siu2 sou3 cyun4 jung6 jing1 man2 gaau3 hok6, go2 daai6 hok6 zau6 zi2 jau5 zung1 man2, zung1 si2 ni1 di1 fo1 muk6 jung6 zung1 man2 gaau3, kei4 taa1 ge3 fo1 muk6 dou1 hai6 jung6 jing1 man2 gaau3. zyun3 lai4 zyun3 heoi3 ge3, hok6 saang1 waak6 ze2 zeoi1 m4 dou2.",
+          "meaning": "我话香港的教育仲有一个好大的障碍，就是教学语言唔统一。多数中小学校用广东话教学，少数全用英文教学，那大学就只有中文、中史这些科目用中文教，其他的科目都是用英文教。转来转去的，学生或者追唔到。",
+          "speaker": "周美英"
+        },
+        {
+          "cantonese": "講起母語教學呢個問題真係好矛盾。雖然政府推行母語教學，不過人人都知道英文喺香港幾咁重要。如果一個人英文好，好容易搵倒一份人工又好、職位又高嘅工，唔怪得咁多家長幾大都要送啲仔女去英文學校讀書啦。",
+          "jyutping": "gong2 hei2 mou5 jyu5 gaau3 hok6 ni1 go3 man6 tai4 zan1 hai6 hou2 maau4 teon4. seoi1 jin4 zing3 fu2 teoi1 hang4 mou5 jyu5 gaau3 hok6, bat1 gwo3 jan4 jan4 dou1 zi1 dou6 jing1 man2 hai2 hoeng1 gong2 gei2 gam3 zung6 jiu3. jyu4 gwo2 jat1 go3 jan4 jing1 man2 hou2, hou2 jung4 ji6 wan2 dou2 jat1 fan6 jan4 gung1 jau6 hou2, zik1 wai2 jau6 gou1 ge3 gung1, m4 gwaai3 dak1 gam3 do1 gaa1 zoeng2 gei2 daai6 dou1 jiu3 sung3 di1 zai2 neoi5 heoi3 jing1 man2 hok6 haau6 duk6 syu1 laa1.",
+          "meaning": "讲起母语教学这个问题真是好矛盾。虽然政府推行母语教学，不过人人都知道英文在香港几咁重要。如果一个人英文好，好容易搵到一份人工又好、职位又高的工，唔怪得这么多家长几大都要送些仔女去英文学校读书啦。",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "另一方面，而家香港嘅語言環境，兩文三語並存，學生要識中英文、廣東話同普通話，本來已經用好多時間喺學習語言上便。太早用英文教科目，小朋友嘅英文都未學好，先生講啲嘢佢都聽唔明。所以我個人係支持母語教學嘅。",
+          "jyutping": "ling6 jat1 fong1 min6, ji4 gaa1 hoeng1 gong2 ge3 jyu5 jin4 waan4 ging2, loeng5 man4 saam1 jyu5 bing6 cyun4, hok6 saang1 jiu3 sik1 zung1 jing1 man2, gwong2 dung1 waa2 tung4 pou2 tung1 waa2, bun2 loi4 ji5 ging1 jung6 hou2 do1 si4 gaan3 hai2 hok6 zaap6 jyu5 jin4 soeng6 bin6. taai3 zou2 jung6 jing1 man2 gaau3 fo1 muk6, siu2 pang4 jau5 ge3 jing1 man2 dou1 mei6 hok6 hou2, sin1 saang1 gong2 di1 je5 keoi5 dou1 teng1 m4 ming4. so2 ji5 ngo5 go3 jan4 hai6 zi1 ci4 mou5 jyu5 gaau3 hok6 ge3.",
+          "meaning": "另一方面，而家香港的语言环境，两文三语并存，学生要识中英文、广东话同普通话，本来已经用好多时间在学习语言上便。太早用英文教科目，小朋友的英文都未学好，先生讲些东西他都听唔明。所以我个人是支持母语教学的。",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "我哋將近畢業嘅學生而家就覺得好迷惘，因為就算大學畢業都好難搵倒嘢做。萬零蚊寫字樓工都爭崩頭。政府工更加唔使諗，連回流返嚟嘅人都噉住政府工，噉人哋梗係請浸過鹹水嗰啲啦。",
+          "jyutping": "ngo5 dei6 zoeng1 gan6 bat1 jip6 ge3 hok6 saang1 ji4 gaa1 zau6 gok3 dak1 hou2 mai4 mong4, jan1 wai6 zau6 syun3 daai6 hok6 bat1 jip6 dou1 hou2 naan4 wan2 dou2 je5 zou6. maan6 ling4 man1 se2 zi6 lau4 gung1 dou1 zaang1 bang1 tau4. zing3 fu2 gung1 gang3 gaa1 m4 sai2 nam2, lin4 wui4 lau4 faan1 lai4 ge3 jan4 dou1 gam2 zyu6 zing3 fu2 gung1, gam2 jan4 dei6 gang2 hai6 cing2 zam3 gwo3 haam4 seoi2 go2 di1 laa1.",
+          "meaning": "我们将近毕业的学生而家就觉得好迷惘，因为就算大学毕业都好难搵到嘢做。万零蚊写字楼工都争崩头。政府工更加唔使谂，连回流返来的人都盯住政府工，那人地梗系请浸过咸水那些啦。",
+          "speaker": "黃友中"
+        },
+        {
+          "cantonese": "噉你係咪一定有做返本行，所以先至搵唔倒呀？",
+          "jyutping": "gam2 nei5 hai6 mai6 jat1 ding6 jiu3 zou6 faan1 bun2 hong4, so2 ji5 sin1 zi3 wan2 m4 dou2 aa3?",
+          "meaning": "那你是不是一定要做返本行，所以先至搵唔到呀？",
+          "speaker": "羅文輝"
+        },
+        {
+          "cantonese": "做唔返本行就預咗嘅嘞。而家問題係根本冇工俾你做。就算做地盤工人，人哋都嫌你經驗唔夠。如果貸款讀書仲死，未搵錢就爭落成身債，都唔知讀咁多書為乜。",
+          "jyutping": "zou6 m4 faan1 bun2 hong4 zau6 jyu6 zo2 ge3 laak3. ji4 gaa1 man6 tai4 hai6 gan1 bun2 mou5 gung1 bei2 nei5 zou6. zau6 syun3 zou6 dei6 pun4 gung1 jan4, jan4 dei6 dou1 jim4 nei5 ging1 jim6 m4 gau3. jyu4 gwo2 taai3 fun2 duk6 syu1 zung6 sei2, mei6 wan2 cin2 zau6 zaang1 lok6 sing4 san1 zaai3, dou1 m4 zi1 duk6 gam3 do1 syu1 wai6 mat1.",
+          "meaning": "做唔返本行就预咗的了。而家问题是根本没工俾你做。就算做地盘工人，人地都嫌你经验唔够。如果贷款读书仲死，未搵钱就争落成身债，都唔知读咁多书为乜。",
+          "speaker": "黃友中"
+        },
+        {
+          "cantonese": "又唔可以咁講。讀書都係為咗提升自己嘅，我哋要長遠啲睇吖嘛。",
+          "jyutping": "jau6 m4 ho2 ji5 gam2 gong2. duk6 syu1 dou1 hai6 wai6 zo2 tai4 sing1 zi6 gei2 ge3, ngo5 dei6 jiu3 coeng4 jyun5 di1 tai2 aa1 maa3.",
+          "meaning": "又唔可以咁讲。读书都是为了提升自己的，我们要长远些睇吖嘛。",
+          "speaker": "周美英"
+        }
+      ]
+    },
+    {
+      "title": "二 詞語 — 2.1 生詞",
+      "type": "vocab_list",
+      "units": [
+        { "cantonese": "學童", "jyutping": "hok6 tung4", "meaning": "學齡兒童" },
+        { "cantonese": "標青", "jyutping": "biu1 cing1", "meaning": "出色" },
+        { "cantonese": "公帑", "jyutping": "gung1 tong2", "meaning": "政府的資金" },
+        { "cantonese": "驚住", "jyutping": "geng1 zyu6", "meaning": "生怕" },
+        { "cantonese": "創書", "jyutping": "paau1 syu1", "meaning": "唸書" },
+        { "cantonese": "搏命", "jyutping": "bok3 meng6", "meaning": "拼命" },
+        { "cantonese": "挨更抵夜", "jyutping": "ngaai4 gaang1 dai2 je6", "meaning": "開夜車，熬夜" },
+        { "cantonese": "抵", "jyutping": "dai2", "meaning": "忍受" },
+        { "cantonese": "沙紙", "jyutping": "saa1 zi2", "meaning": "文憑，證書" },
+        { "cantonese": "得個「講」字", "jyutping": "dak1 go3 gong2 zi6", "meaning": "光說不做" },
+        { "cantonese": "補習先生", "jyutping": "bou2 zaap6 sin1 saang1", "meaning": "家教" },
+        { "cantonese": "講返轉頭", "jyutping": "gong2 faan1 zyun3 tau4", "meaning": "話說回來" },
+        { "cantonese": "貼士", "jyutping": "tip1 si6", "meaning": "提示；小費" },
+        { "cantonese": "唔單止", "jyutping": "m4 daan1 zi2", "meaning": "不但，不只" },
+        { "cantonese": "派", "jyutping": "paai1", "meaning": "分發" },
+        { "cantonese": "睇怕", "jyutping": "tai2 paa3", "meaning": "恐怕" },
+        { "cantonese": "岌頭", "jyutping": "ngaap6 tau4", "meaning": "點頭" },
+        { "cantonese": "減低", "jyutping": "gaam2 dai1", "meaning": "減少，減小，減輕" },
+        { "cantonese": "追唔倒", "jyutping": "zeoi1 m4 dou2", "meaning": "跟不上" },
+        { "cantonese": "唔怪得", "jyutping": "m4 gwaai3 dak1", "meaning": "怪不得" },
+        { "cantonese": "幾大", "jyutping": "gei2 daai6", "meaning": "無論如何" },
+        { "cantonese": "寫字樓工", "jyutping": "se2 zi6 lau4 gung1", "meaning": "文職工作" },
+        { "cantonese": "爭崩頭", "jyutping": "zaang1 bang1 tau4", "meaning": "擠破頭" },
+        { "cantonese": "崩", "jyutping": "bang1", "meaning": "缺，破" },
+        { "cantonese": "回流", "jyutping": "wui4 lau4", "meaning": "外出求學或謀生的人回來定居" },
+        { "cantonese": "吽", "jyutping": "hau1", "meaning": "盯着；虎視眈眈" },
+        { "cantonese": "浸鹹水", "jyutping": "zam3 haam4 seoi2", "meaning": "去海外鍍金" },
+        { "cantonese": "預咗", "jyutping": "jyu6 zo2", "meaning": "有思想準備" },
+        { "cantonese": "地盤", "jyutping": "dei6 pun4", "meaning": "建築工地" },
+        { "cantonese": "死", "jyutping": "sei2", "meaning": "慘，糟" },
+        { "cantonese": "爭落成身債", "jyutping": "zaang1 lok6 sing4 san1 zaai3", "meaning": "欠下一屁股債" }
+      ]
+    },
+    {
+      "title": "二 詞語 — 2.2 難讀字詞",
+      "type": "vocab_list",
+      "units": [
+        { "cantonese": "強迫教育", "jyutping": "koeng4 bik1 gaau3 juk6", "meaning": "強迫教育" },
+        { "cantonese": "深造", "jyutping": "sam1 zou6", "meaning": "深造" },
+        { "cantonese": "文憑", "jyutping": "man4 ping4", "meaning": "文憑" },
+        { "cantonese": "撥款", "jyutping": "but6 fun2", "meaning": "撥款" },
+        { "cantonese": "自給", "jyutping": "zi6 kap1", "meaning": "自給" },
+        { "cantonese": "矛盾", "jyutping": "maau4 teon4", "meaning": "矛盾" },
+        { "cantonese": "競爭", "jyutping": "ging6 zaang1", "meaning": "競爭" },
+        { "cantonese": "填鴨式", "jyutping": "tin4 aap3 sik1", "meaning": "填鴨式" },
+        { "cantonese": "迷惘", "jyutping": "mai4 mong5", "meaning": "迷惘" },
+        { "cantonese": "貸款", "jyutping": "taai3 fun2", "meaning": "貸款" }
+      ]
+    },
+    {
+      "title": "三 重點理解 — 3.2 與學校生活相關的用語",
+      "type": "vocab_table",
+      "units": [
+        { "cantonese": "升學", "jyutping": "sing1 hok6", "meaning": "升學" },
+        { "cantonese": "升中", "jyutping": "sing1 zung1", "meaning": "升中" },
+        { "cantonese": "報讀", "jyutping": "bou3 duk6", "meaning": "報讀" },
+        { "cantonese": "派位", "jyutping": "paai1 wai2", "meaning": "分配學位" },
+        { "cantonese": "升班", "jyutping": "sing1 baan1", "meaning": "升級" },
+        { "cantonese": "跳班", "jyutping": "tiu3 baan1", "meaning": "跳級" },
+        { "cantonese": "留班", "jyutping": "lau4 baan1", "meaning": "留級" },
+        { "cantonese": "揀班", "jyutping": "laam4 baan1", "meaning": "重讀" },
+        { "cantonese": "上堂", "jyutping": "soeng5 tong4", "meaning": "上課" },
+        { "cantonese": "小息", "jyutping": "siu2 sik1", "meaning": "課間休息" },
+        { "cantonese": "轉堂", "jyutping": "zyun3 tong4", "meaning": "換課" },
+        { "cantonese": "落堂", "jyutping": "lok6 tong4", "meaning": "下課" },
+        { "cantonese": "備課", "jyutping": "bei6 fo3", "meaning": "（教師）備課；（學生）預習" },
+        { "cantonese": "聽書", "jyutping": "teng1 syu1", "meaning": "聽課" },
+        { "cantonese": "溫書", "jyutping": "wan1 syu1", "meaning": "溫習，複習" },
+        { "cantonese": "講書", "jyutping": "gong2 syu1", "meaning": "講課" },
+        { "cantonese": "改簿", "jyutping": "goi2 bou2", "meaning": "改作業" },
+        { "cantonese": "改文", "jyutping": "goi2 man4", "meaning": "改作文" },
+        { "cantonese": "抄筆記", "jyutping": "caau1 bat1 gei3", "meaning": "抄筆記" },
+        { "cantonese": "默書", "jyutping": "mak6 syu1", "meaning": "默寫；聽寫" },
+        { "cantonese": "背書", "jyutping": "bui6 syu1", "meaning": "背書" },
+        { "cantonese": "貼堂", "jyutping": "tip3 tong4", "meaning": "優秀作業貼在課堂上展覽" },
+        { "cantonese": "作弊", "jyutping": "zok3 bai6", "meaning": "作弊" },
+        { "cantonese": "通水", "jyutping": "tung1 seoi2", "meaning": "泄露考題或答案" },
+        { "cantonese": "出貓", "jyutping": "ceot1 maau1", "meaning": "作弊" },
+        { "cantonese": "請槍", "jyutping": "cing2 coeng1", "meaning": "請槍手" },
+        { "cantonese": "訓導", "jyutping": "fan3 dou6", "meaning": "批評教育" },
+        { "cantonese": "罰抄書", "jyutping": "fat6 caau1 syu1", "meaning": "罰抄書" },
+        { "cantonese": "留堂", "jyutping": "lau4 tong4", "meaning": "留堂" },
+        { "cantonese": "記過", "jyutping": "gei3 gwo3", "meaning": "記過" },
+        { "cantonese": "開除", "jyutping": "hoi1 ceoi4", "meaning": "開除" }
+      ]
+    },
+    {
+      "title": "三 重點理解 — 3.3 文具及辦公用品",
+      "type": "vocab_table",
+      "units": [
+        { "cantonese": "墨水筆", "jyutping": "mak6 seoi2 bat1", "meaning": "鋼筆" },
+        { "cantonese": "原子筆", "jyutping": "jyun4 zi2 bat1", "meaning": "圓珠筆" },
+        { "cantonese": "鉛筆", "jyutping": "jyun4 bat1", "meaning": "鉛筆" },
+        { "cantonese": "擦紙膠", "jyutping": "caat3 zi2 gaau1", "meaning": "橡皮" },
+        { "cantonese": "間尺", "jyutping": "gaan1 cek3", "meaning": "尺子" },
+        { "cantonese": "筆刨", "jyutping": "bat1 paau4", "meaning": "削筆刀，捲筆刀" },
+        { "cantonese": "書釘", "jyutping": "syu1 cim1", "meaning": "書釘" },
+        { "cantonese": "文件袋", "jyutping": "man4 gin2 doi2", "meaning": "文件袋" },
+        { "cantonese": "快勞夾", "jyutping": "faai3 lou4 gaap3", "meaning": "文件夾" },
+        { "cantonese": "界紙刀", "jyutping": "gaai3 zi2 dou1", "meaning": "裁紙刀" },
+        { "cantonese": "絞剪", "jyutping": "gaau2 zin2", "meaning": "剪刀" },
+        { "cantonese": "塗改液", "jyutping": "tou4 goi2 jik6", "meaning": "塗改液" },
+        { "cantonese": "改正帶", "jyutping": "goi2 zing3 daai3", "meaning": "改正帶" },
+        { "cantonese": "膠紙", "jyutping": "gaau1 zi2", "meaning": "透明膠" },
+        { "cantonese": "膠水", "jyutping": "gaau1 seoi2", "meaning": "膠水" },
+        { "cantonese": "萬字夾", "jyutping": "maan6 zi6 gaap3", "meaning": "迴形針" },
+        { "cantonese": "釘書機", "jyutping": "deng1 syu1 gei1", "meaning": "釘書機" },
+        { "cantonese": "計數機", "jyutping": "gai3 sou3 gei1", "meaning": "計算器" },
+        { "cantonese": "影印機", "jyutping": "jing2 jan3 gei1", "meaning": "複印機" }
+      ]
+    },
+    {
+      "title": "附加詞彙粵普對照表",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "派位", "jyutping": "paai1 wai2", "meaning": "分配學位" },
+        { "cantonese": "升班", "jyutping": "sing1 baan1", "meaning": "升級" },
+        { "cantonese": "跳班", "jyutping": "tiu3 baan1", "meaning": "跳級" },
+        { "cantonese": "留班", "jyutping": "lau4 baan1", "meaning": "留級" },
+        { "cantonese": "揀班", "jyutping": "laam4 baan1", "meaning": "重讀" },
+        { "cantonese": "備課", "jyutping": "bei6 fo3", "meaning": "（教師）備課；（學生）預習" },
+        { "cantonese": "聽書", "jyutping": "teng1 syu1", "meaning": "聽課" }
+      ]
+    }
+  ]
+}

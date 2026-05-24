@@ -1,0 +1,586 @@
+{
+  "title": "飲食",
+  "theme": "dining",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "一 情境對話：進餐廳",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "歡迎光臨！請問你哋幾位啊？",
+          "jyutping": "fun1 jing4 gwong1 lam4! cing2 man6 nei5 dei6 gei2 wai2 aa3?",
+          "meaning": "欢迎光临！请问你们几位啊？",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "三位，唔該！",
+          "jyutping": "saam1 wai2, m4 goi1!",
+          "meaning": "三位，谢谢！",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "請問你哋有冇訂位啊？",
+          "jyutping": "cing2 man6 nei5 dei6 jau5 mou5 deng6 wai2 aa3?",
+          "meaning": "请问你们有没有订位啊？",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "我哋尋日下晝就 book 咗位啦，留咗姓李嘅三位。",
+          "jyutping": "ngo5 dei6 cam4 jat6 haa6 zau3 zau6 book zo2 wai6 laa1, lau4 zo2 sing3 lei5 ge3 saam1 wai2.",
+          "meaning": "我们昨天下午就订了位了，留了姓李的三位。",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "好，請過嚟呢邊啦！",
+          "jyutping": "hou2, cing2 gwo3 lei4 nei4 bin1 laa1!",
+          "meaning": "好，请过来这边啦！",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "唔該攞個餐牌嚟睇睇吓。",
+          "jyutping": "m4 goi1 lo2 go3 caan1 paai2 lei4 tai2 haa5.",
+          "meaning": "麻烦拿个菜单来看看。",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "好。請問你哋係唔係而家點埋餐啊？",
+          "jyutping": "hou2. cing2 man6 nei5 dei6 hai6 m4 hai6 ji4 gaa1 dim2 maai4 sung3 aa3?",
+          "meaning": "好。请问你们是不是现在就点餐啊？",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "等陣先！等我諗諗／睇睇個餐牌先！",
+          "jyutping": "dang2 zan6 sin1! dang2 ngo5 nam2 nam2 / tai2 tai2 go3 caan1 paai2 sin1!",
+          "meaning": "等一下先！等我想想／看看菜单先！",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "好。",
+          "jyutping": "hou2.",
+          "meaning": "好。",
+          "speaker": "侍應"
+        }
+      ]
+    },
+    {
+      "title": "一 情境對話：點餐",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "請問你想食啲咩啊？",
+          "jyutping": "cing2 man6 nei5 soeng2 sik6 di1 me1 aa1?",
+          "meaning": "请问你想吃点什么啊？",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "要一個叉油雞飯走色，一個乾炒牛河，再加一個咖哩牛腩飯丫唔該。",
+          "jyutping": "jiu3 jat1 go3 caa1 jau4 gai1 faan6 zau2 sik1, jat1 go3 gon1 caau2 ngau4 ho4, zoi3 gaa1 jat1 go3 gaa3 lei1 ngau4 naam5 faan6 aa1 m4 goi1.",
+          "meaning": "要一个叉油鸡饭走色，一个干炒牛河，再加一个咖喱牛腩饭，谢谢。",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "好。仲有冇其他嘢啊？要唔要加碟油菜？",
+          "jyutping": "hou2. zung6 jau5 mou5 kei4 taa1 je5 aa1? jiu3 m4 jiu3 gaa1 dip6 jau4 coi3?",
+          "meaning": "好。还有没有其他的啊？要不要加碟油菜？",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "要碟芥蘭同埋菜心全走。",
+          "jyutping": "jiu3 dip6 gaai3 laan2 tung4 maai4 coi3 sam1 cyun4 zau2.",
+          "meaning": "要碟芥兰和菜心全走。",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "飲乜嘢？",
+          "jyutping": "jam2 mat1 je5?",
+          "meaning": "喝什么？",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "一杯凍奶茶少甜少冰，一杯熱鴛鴦，同埋一杯熱檸蜜。",
+          "jyutping": "jat1 bui1 dung3 naai5 caa4 siu2 tim4 siu2 bing1, jat1 bui1 jit6 jyun1 joeng1, tung4 maai4 jat1 bui1 jit6 ning4 mat6.",
+          "meaning": "一杯冻奶茶少甜少冰，一杯热鸳鸯，还有一杯热柠蜜。",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "冇問題。",
+          "jyutping": "mou5 man6 tai4.",
+          "meaning": "没问题。",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "係咁多，唔該你。",
+          "jyutping": "hai6 gam2 do1, m4 goi1 nei5.",
+          "meaning": "就这么多，谢谢你。",
+          "speaker": "客人"
+        }
+      ]
+    },
+    {
+      "title": "一 情境對話：結帳",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "伙記，唔該埋單。",
+          "jyutping": "fo2 gei3, m4 goi1 maai4 daan1.",
+          "meaning": "服务员，请结账。",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "係。多謝二百二十蚊。",
+          "jyutping": "hai6. do1 ze6 ji6 baak3 ji6 sap6 man1.",
+          "meaning": "好的。多谢二百二十块。",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "可唔可以碌卡呀？",
+          "jyutping": "ho2 m4 ho2 ji5 luk1 kaa1 aa3?",
+          "meaning": "可不可以刷卡呀？",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "畀現金同信用卡都得。",
+          "jyutping": "bei2 jin6 gam1 tung4 seon3 jung6 kaa1 dou1 dak1.",
+          "meaning": "付现金和信用卡都可以。",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "咁我碌卡啦！",
+          "jyutping": "gam2 ngo5 luk1 kaa1 laa1!",
+          "meaning": "那我刷卡啦！",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "好嘅。",
+          "jyutping": "hou2 ge3.",
+          "meaning": "好的。",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "麻煩你係呢張單度簽名。",
+          "jyutping": "maa4 faan4 nei5 hai6 nei4 zoeng1 daan1 dou6 cim1 meng2.",
+          "meaning": "麻烦你在这张单上签名。",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "嗯。",
+          "jyutping": "ng6.",
+          "meaning": "嗯。",
+          "speaker": "客人"
+        },
+        {
+          "cantonese": "多謝晒，歡迎下次再嚟幫襯！",
+          "jyutping": "do1 ze6 saai3, fun1 jing4 haa6 ci3 zoi3 lei4 bong1 can3!",
+          "meaning": "多谢，欢迎下次再来光顾！",
+          "speaker": "侍應"
+        },
+        {
+          "cantonese": "拜拜！",
+          "jyutping": "baai1 baai3!",
+          "meaning": "拜拜！",
+          "speaker": "客人"
+        }
+      ]
+    },
+    {
+      "title": "二 詞彙：情境對話詞語",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "歡迎光臨",
+          "jyutping": "fun1 jing4 gwong1 lam4",
+          "meaning": "欢迎光临"
+        },
+        {
+          "cantonese": "訂位（Book 位）",
+          "jyutping": "deng6 wai2",
+          "meaning": "订位"
+        },
+        {
+          "cantonese": "點餸",
+          "jyutping": "dim2 sung3",
+          "meaning": "点菜"
+        },
+        {
+          "cantonese": "餐／菜牌（Menu）",
+          "jyutping": "caan1 / coi3 paai2",
+          "meaning": "菜单"
+        },
+        {
+          "cantonese": "油雞飯",
+          "jyutping": "jau4 gai1 faan6",
+          "meaning": "油鸡饭"
+        },
+        {
+          "cantonese": "乾炒牛河",
+          "jyutping": "gon1 caau2 ngau4 ho2",
+          "meaning": "干炒牛河"
+        },
+        {
+          "cantonese": "咖哩牛腩飯",
+          "jyutping": "gaa3 lei1 ngau4 naam5 faan6",
+          "meaning": "咖喱牛腩饭"
+        },
+        {
+          "cantonese": "油菜",
+          "jyutping": "jau4 coi3",
+          "meaning": "油菜"
+        },
+        {
+          "cantonese": "芥蘭",
+          "jyutping": "gaai3 laan2",
+          "meaning": "芥兰"
+        },
+        {
+          "cantonese": "菜心",
+          "jyutping": "coi3 sam1",
+          "meaning": "菜心"
+        },
+        {
+          "cantonese": "走色／走青／全走",
+          "jyutping": "zau2 sik1 / zau2 ceng1 / cyun4 zau2",
+          "meaning": "不加酱油／葱和香菜／不加蚝油和油"
+        },
+        {
+          "cantonese": "凍奶茶",
+          "jyutping": "dung3 naai5 caa4",
+          "meaning": "冻奶茶"
+        },
+        {
+          "cantonese": "熱檸蜜",
+          "jyutping": "jit6 ning4 mat6",
+          "meaning": "热柠蜜"
+        },
+        {
+          "cantonese": "鴛鴦",
+          "jyutping": "jyun1 joeng1",
+          "meaning": "鸳鸯（咖啡加奶茶）"
+        },
+        {
+          "cantonese": "伙記",
+          "jyutping": "fo2 gei3",
+          "meaning": "服务员"
+        },
+        {
+          "cantonese": "埋單",
+          "jyutping": "maai4 daan1",
+          "meaning": "结账"
+        }
+      ]
+    },
+    {
+      "title": "二 詞彙：常用詞彙",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "嗌嘢食",
+          "jyutping": "aai3 je5 sik6",
+          "meaning": "叫东西吃"
+        },
+        {
+          "cantonese": "例牌",
+          "jyutping": "lai6 paai2",
+          "meaning": "一般的平常的份量"
+        },
+        {
+          "cantonese": "麻麻哋",
+          "jyutping": "maa4 maa2 dei2",
+          "meaning": "一般般"
+        },
+        {
+          "cantonese": "第二度",
+          "jyutping": "dai6 ji6 dou6",
+          "meaning": "别的地方"
+        },
+        {
+          "cantonese": "拎走／行街",
+          "jyutping": "ling1 zau2 / haang4 gaai1",
+          "meaning": "外卖、外带"
+        },
+        {
+          "cantonese": "係度食",
+          "jyutping": "hai2 dou6 sik6",
+          "meaning": "堂食"
+        },
+        {
+          "cantonese": "打邊爐",
+          "jyutping": "daa2 bin1 lou4",
+          "meaning": "火锅"
+        },
+        {
+          "cantonese": "加一服務費",
+          "jyutping": "gaa1 jat1 fuk6 mou6 fai3",
+          "meaning": "加十分之一服务费"
+        },
+        {
+          "cantonese": "小費（Tips）",
+          "jyutping": "siu2 fai3",
+          "meaning": "打赏"
+        },
+        {
+          "cantonese": "飲茶",
+          "jyutping": "jam2 caa4",
+          "meaning": "饮茶"
+        },
+        {
+          "cantonese": "招牌菜",
+          "jyutping": "ziu1 paai4 coi3",
+          "meaning": "招牌菜"
+        },
+        {
+          "cantonese": "例湯",
+          "jyutping": "lai6 tong1",
+          "meaning": "例汤"
+        },
+        {
+          "cantonese": "小／中／大辣",
+          "jyutping": "siu2 / zung1 / daai6 laat6",
+          "meaning": "小／中／大辣"
+        },
+        {
+          "cantonese": "加位",
+          "jyutping": "gaa1 wai2",
+          "meaning": "加位"
+        },
+        {
+          "cantonese": "筷子",
+          "jyutping": "faai3 zi2",
+          "meaning": "筷子"
+        },
+        {
+          "cantonese": "匙羹",
+          "jyutping": "ci4 gang1",
+          "meaning": "汤匙"
+        },
+        {
+          "cantonese": "碗仔",
+          "jyutping": "wun2 zai2",
+          "meaning": "小碗"
+        },
+        {
+          "cantonese": "碟",
+          "jyutping": "dip2",
+          "meaning": "碟子"
+        },
+        {
+          "cantonese": "打包",
+          "jyutping": "daa2 baau1",
+          "meaning": "打包"
+        },
+        {
+          "cantonese": "麥當勞（麥記）",
+          "jyutping": "mak6 dong1 lou4 (mak6 gei6)",
+          "meaning": "麦当劳"
+        },
+        {
+          "cantonese": "燒烤",
+          "jyutping": "siu1 haau1",
+          "meaning": "烧烤"
+        }
+      ]
+    },
+    {
+      "title": "四 附加材料詞彙",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "椒鹽排骨",
+          "jyutping": "ziu1 jim4 paai4 gwat1",
+          "meaning": "椒盐排骨"
+        },
+        {
+          "cantonese": "咕嚕肉",
+          "jyutping": "gu1 lou1 juk6",
+          "meaning": "咕噜肉"
+        },
+        {
+          "cantonese": "多士",
+          "jyutping": "do1 si2",
+          "meaning": "吐司片"
+        },
+        {
+          "cantonese": "燒賣",
+          "jyutping": "siu1 maai2",
+          "meaning": "烧卖"
+        },
+        {
+          "cantonese": "蘿蔔糕",
+          "jyutping": "lo4 baak6 gou1",
+          "meaning": "萝卜糕"
+        },
+        {
+          "cantonese": "叉燒包",
+          "jyutping": "caa1 siu1 baau1",
+          "meaning": "叉烧包"
+        },
+        {
+          "cantonese": "油炸鬼",
+          "jyutping": "jau4 zaa3 gwai2",
+          "meaning": "油条"
+        },
+        {
+          "cantonese": "春卷",
+          "jyutping": "ceon1 gyun2",
+          "meaning": "春卷"
+        },
+        {
+          "cantonese": "揚州炒飯",
+          "jyutping": "joeng4 zau1 caau2 faan6",
+          "meaning": "扬州炒饭"
+        },
+        {
+          "cantonese": "腸粉",
+          "jyutping": "coeng2 fan2",
+          "meaning": "肠粉"
+        },
+        {
+          "cantonese": "星洲炒米",
+          "jyutping": "sing1 zau1 caau2 mai5",
+          "meaning": "星洲炒米"
+        },
+        {
+          "cantonese": "啤酒",
+          "jyutping": "be1 zau2",
+          "meaning": "啤酒"
+        },
+        {
+          "cantonese": "咖啡",
+          "jyutping": "gaa3 fe1",
+          "meaning": "咖啡"
+        },
+        {
+          "cantonese": "鐵觀音",
+          "jyutping": "tit3 gun1 jam1",
+          "meaning": "铁观音"
+        },
+        {
+          "cantonese": "香片",
+          "jyutping": "hoeng1 pin2",
+          "meaning": "香片"
+        },
+        {
+          "cantonese": "普洱",
+          "jyutping": "pou2 nei2",
+          "meaning": "普洱"
+        },
+        {
+          "cantonese": "紅酒",
+          "jyutping": "hung4 zau2",
+          "meaning": "红酒"
+        },
+        {
+          "cantonese": "水餃",
+          "jyutping": "seoi2 gaau2",
+          "meaning": "水饺"
+        },
+        {
+          "cantonese": "雲吞麵",
+          "jyutping": "wan4 tan1 min6",
+          "meaning": "云吞面"
+        },
+        {
+          "cantonese": "沙律",
+          "jyutping": "saa1 leot2",
+          "meaning": "沙拉"
+        },
+        {
+          "cantonese": "兩餸飯",
+          "jyutping": "loeng5 sung3 faan6",
+          "meaning": "双餸饭"
+        },
+        {
+          "cantonese": "三文治",
+          "jyutping": "saam1 man4 zi6",
+          "meaning": "三明治"
+        },
+        {
+          "cantonese": "漢堡包",
+          "jyutping": "hon3 bou2 baau1",
+          "meaning": "汉堡包"
+        }
+      ]
+    },
+    {
+      "title": "數字參考",
+      "type": "reference_table",
+      "units": [
+        {
+          "cantonese": "一",
+          "jyutping": "jat1",
+          "meaning": "1"
+        },
+        {
+          "cantonese": "二",
+          "jyutping": "ji6",
+          "meaning": "2"
+        },
+        {
+          "cantonese": "三",
+          "jyutping": "saam1",
+          "meaning": "3"
+        },
+        {
+          "cantonese": "四",
+          "jyutping": "sei3",
+          "meaning": "4"
+        },
+        {
+          "cantonese": "五",
+          "jyutping": "ng5",
+          "meaning": "5"
+        },
+        {
+          "cantonese": "六",
+          "jyutping": "luk6",
+          "meaning": "6"
+        },
+        {
+          "cantonese": "七",
+          "jyutping": "cat1",
+          "meaning": "7"
+        },
+        {
+          "cantonese": "八",
+          "jyutping": "baat3",
+          "meaning": "8"
+        },
+        {
+          "cantonese": "九",
+          "jyutping": "gau2",
+          "meaning": "9"
+        },
+        {
+          "cantonese": "十",
+          "jyutping": "sap6",
+          "meaning": "10"
+        },
+        {
+          "cantonese": "零",
+          "jyutping": "ling4",
+          "meaning": "0"
+        },
+        {
+          "cantonese": "十二",
+          "jyutping": "sap6 ji6",
+          "meaning": "12"
+        },
+        {
+          "cantonese": "廿四",
+          "jyutping": "jaa6 sei3",
+          "meaning": "24"
+        },
+        {
+          "cantonese": "四十七",
+          "jyutping": "sei3 sap6 cat1",
+          "meaning": "47"
+        },
+        {
+          "cantonese": "三條九",
+          "jyutping": "saam1 tiu4 gau2",
+          "meaning": "999"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "title": "生活一",
+  "theme": "daily_life",
+  "level": "beginner",
+  "sections": [
+    {
+      "title": "一 課文",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "呢個禮拜日得唔得閒呀？",
+          "jyutping": "ni1 go3 lai5 baai3 jat6 dak1 m4 dak1 haan4 aa3?",
+          "meaning": "这个礼拜日得不得闲呀？"
+        },
+        {
+          "cantonese": "冇乜嘢，想約你一齊去會展中心睇車展嘅。",
+          "jyutping": "mou5 mat1 je5, soeng2 joek3 nei5 jat1 cai4 heoi3 wui6 zin2 zung1 sam1 tai2 ce1 zin2 ze1.",
+          "meaning": "没什么，想约你一齐去会展中心睇车展嘅。"
+        },
+        {
+          "cantonese": "唔好意思，我有約喇。第二時先啦。",
+          "jyutping": "m4 hou2 ji3 si3, ngo5 jau5 joek3 wo3. dai6 ji6 si4 sin1 laa1.",
+          "meaning": "不好意思，我有约了。第二时先啦。"
+        },
+        {
+          "cantonese": "第二時即係幾時呀？",
+          "jyutping": "dai6 ji6 si4 zik1 hai6 gei2 si4 aa3?",
+          "meaning": "第二时即系几时呀？"
+        },
+        {
+          "cantonese": "等我睇下個記事簿先。",
+          "jyutping": "dang2 ngo5 tai2 haa5 go3 gei3 si6 bou2 sin1.",
+          "meaning": "等我睇下个记事簿先。"
+        },
+        {
+          "cantonese": "下個禮拜日九月廿五號，你得唔得？",
+          "jyutping": "haa6 go3 lai5 baai3 jat6 gau2 jyut6 jaa6 ng5 hou6, nei5 dak1 m4 dak1?",
+          "meaning": "下个礼拜日九月廿五号，你得唔得？"
+        },
+        {
+          "cantonese": "得，不過你咪話嚟又唔嚟噃。",
+          "jyutping": "dak1, bat1 gwo3 nei5 mai5 waa6 lai4 jau6 m4 lai4 bo3.",
+          "meaning": "得，不过你咪话嚟又唔嚟噃。"
+        },
+        {
+          "cantonese": "車展到月底咋，去唔到就要等出年。",
+          "jyutping": "ce1 zin2 dou3 jyut6 dai2 zaa3, heoi3 m4 dou2 zau6 jiu3 dang2 ceot1 nin2.",
+          "meaning": "车展到月底咋，去唔到就要等出年。"
+        },
+        {
+          "cantonese": "應承得你，我實會到。噉，幾點鐘喺邊度等？",
+          "jyutping": "jing1 sing4 dak1 nei5, ngo5 sat6 wui5 dou3. gam2, gei2 dim2 zung1 hai2 bin1 dou6 dang2?",
+          "meaning": "应承得你，我实会到。噉，几点�的喺边度等？"
+        },
+        {
+          "cantonese": "下晝三點，灣仔地鐵站A出口，如何？",
+          "jyutping": "haa6 zau3 saam1 dim2, waan1 zai2 dei6 tit3 zaam6 ei1 ceot1 heo2, jyu4 ho4?",
+          "meaning": "下昼三点，湾仔地铁站A出口，如何？"
+        }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語 — 1. 月份",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "月", "jyutping": "jyut6", "meaning": "月" },
+        { "cantonese": "一月", "jyutping": "jat1 jyut6", "meaning": "一月" },
+        { "cantonese": "二月", "jyutping": "ji6 jyut6", "meaning": "二月" },
+        { "cantonese": "三月", "jyutping": "saam1 jyut6", "meaning": "三月" },
+        { "cantonese": "四月", "jyutping": "sei3 jyut6", "meaning": "四月" },
+        { "cantonese": "五月", "jyutping": "ng5 jyut6", "meaning": "五月" },
+        { "cantonese": "六月", "jyutping": "luk6 jyut6", "meaning": "六月" },
+        { "cantonese": "七月", "jyutping": "cat1 jyut6", "meaning": "七月" },
+        { "cantonese": "八月", "jyutping": "baat3 jyut6", "meaning": "八月" },
+        { "cantonese": "九月", "jyutping": "gau2 jyut6", "meaning": "九月" },
+        { "cantonese": "十月", "jyutping": "sap6 jyut6", "meaning": "十月" },
+        { "cantonese": "十一月", "jyutping": "sap6 jat1 jyut6", "meaning": "十一月" },
+        { "cantonese": "十二月", "jyutping": "sap6 ji6 jyut6", "meaning": "十二月" }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語 — 2. 周日",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "禮拜", "jyutping": "lai5 baai3", "meaning": "星期" },
+        { "cantonese": "禮拜日", "jyutping": "lai5 baai3 jat6", "meaning": "星期日" },
+        { "cantonese": "禮拜一", "jyutping": "lai5 baai3 jat1", "meaning": "星期一" },
+        { "cantonese": "禮拜二", "jyutping": "lai5 baai3 ji6", "meaning": "星期二" },
+        { "cantonese": "禮拜三", "jyutping": "lai5 baai3 saam1", "meaning": "星期三" },
+        { "cantonese": "禮拜四", "jyutping": "lai5 baai3 sei3", "meaning": "星期四" },
+        { "cantonese": "禮拜五", "jyutping": "lai5 baai3 ng5", "meaning": "星期五" },
+        { "cantonese": "禮拜六", "jyutping": "lai5 baai3 luk6", "meaning": "星期六" }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語 — 3. 鐘點",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "點（鐘）", "jyutping": "dim2 (zung1)", "meaning": "点（钟）" },
+        { "cantonese": "一點（鐘）", "jyutping": "jat1 dim2 (zung1)", "meaning": "一点（钟）" },
+        { "cantonese": "兩點（鐘）", "jyutping": "loeng5 dim2 (zung1)", "meaning": "两点（钟）" },
+        { "cantonese": "三點（鐘）", "jyutping": "saam1 dim2 (zung1)", "meaning": "三点（钟）" },
+        { "cantonese": "四點（鐘）", "jyutping": "sei3 dim2 (zung1)", "meaning": "四点（钟）" },
+        { "cantonese": "五點（鐘）", "jyutping": "ng5 dim2 (zung1)", "meaning": "五点（钟）" },
+        { "cantonese": "六點（鐘）", "jyutping": "luk6 dim2 (zung1)", "meaning": "六点（钟）" },
+        { "cantonese": "七點（鐘）", "jyutping": "cat1 dim2 (zung1)", "meaning": "七点（钟）" },
+        { "cantonese": "八點（鐘）", "jyutping": "baat3 dim2 (zung1)", "meaning": "八点（钟）" },
+        { "cantonese": "九點（鐘）", "jyutping": "gau2 dim2 (zung1)", "meaning": "九点（钟）" },
+        { "cantonese": "十點（鐘）", "jyutping": "sap6 dim2 (zung1)", "meaning": "十点（钟）" },
+        { "cantonese": "十一點（鐘）", "jyutping": "sap6 jat1 dim2 (zung1)", "meaning": "十一点（钟）" },
+        { "cantonese": "十二點（鐘）", "jyutping": "sap6 ji6 dim2 (zung1)", "meaning": "十二点（钟）" }
+      ]
+    },
+    {
+      "title": "三 補充語彙（二）句子",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "我係舊年三月頭到香港嘅。",
+          "jyutping": "ngo5 hai6 gau6 nin2 saam1 jyut6 tau4 dou3 hoeng1 gong2 ge3.",
+          "meaning": "我是去年三月初到香港的。"
+        },
+        {
+          "cantonese": "今日係禮拜二定係禮拜三呀？",
+          "jyutping": "gam1 jat6 hai6 lai5 baai3 ji6 ding6 hai6 lai5 baai3 saam1 aa3?",
+          "meaning": "今天是星期二还是星期三？"
+        },
+        {
+          "cantonese": "我下晝一點半到你嗰度，得唔得？",
+          "jyutping": "ngo5 haa6 zau3 dim2 bun3 dou3 nei5 go2 dou6, dak1 m4 dak1?",
+          "meaning": "我下午一点半到你那里，行不行？"
+        },
+        {
+          "cantonese": "挨晚放咗工嚟接你。",
+          "jyutping": "ngaai1 maan1 fong3 zo2 gung1 lai4 zip3 nei5.",
+          "meaning": "傍晚下了班来接你。"
+        },
+        {
+          "cantonese": "我而家好忙，呢件事遲啲先傾。",
+          "jyutping": "ngo5 ji4 gaa1 hou2 mong4, ni1 gin3 si6 ci4 di1 sin1 king1.",
+          "meaning": "我现在很忙，这件事往后再谈。"
+        }
+      ]
+    },
+    {
+      "title": "四 重點理解（一）「會」的音調變化",
+      "type": "grammar_note",
+      "units": [
+        {
+          "cantonese": "會 wui6：大會堂、會議、會客、會所",
+          "jyutping": "wui6",
+          "meaning": "会（名词义：集会、机构、场所）"
+        },
+        {
+          "cantonese": "會 wui2：開大會、音樂會",
+          "jyutping": "wui2",
+          "meaning": "会（名词义：活动、聚会）"
+        },
+        {
+          "cantonese": "會 wui5：會唔會、我會去",
+          "jyutping": "wui5",
+          "meaning": "会（能愿动词义：能、将要）"
+        }
+      ]
+    },
+    {
+      "title": "四 重點理解（二）粵語的忌諱詞",
+      "type": "grammar_note",
+      "units": [
+        {
+          "cantonese": "在粵語中有少量常用的詞語是由於忌諱、迷信心理而產生的。如：「豬膶」指的是「豬肝」。粵語中「肝」、「乾」同音，「乾」有「窮」的意思，而「膶」與「潤」是諧音；因此，取「家肥屋潤」的「潤」字代替。",
+          "jyutping": "",
+          "meaning": "粤语忌讳词的由来解释"
+        },
+        {
+          "cantonese": "豬脷 — 豬舌頭（「舌」跟「蝕」有諧音，避而改用跟「利」同音的「脷」）",
+          "jyutping": "zyu1 lei6",
+          "meaning": "猪舌头（避讳「蝕」，取「利」的谐音）"
+        },
+        {
+          "cantonese": "豬紅 — 豬血（見「血」不祥）",
+          "jyutping": "zyu1 hung4",
+          "meaning": "猪血（避讳「血」字不祥）"
+        },
+        {
+          "cantonese": "通勝 — 通書（「書」跟「輸」同音）",
+          "jyutping": "tung1 sing1",
+          "meaning": "通书/黄历（避讳「輸」）"
+        },
+        {
+          "cantonese": "吉屋 — 空屋子（「空」跟「凶」同音）",
+          "jyutping": "gat1 uk1",
+          "meaning": "空屋子（避讳「凶」）"
+        }
+      ]
+    },
+    {
+      "title": "四 重點理解（三）「梗係（……）啦」",
+      "type": "grammar_note",
+      "units": [
+        {
+          "cantonese": "「梗係啦」相當於普通話的「當然囉」。",
+          "jyutping": "gang2 hai6 laa1",
+          "meaning": "当然囉"
+        },
+        {
+          "cantonese": "梗係新鮮啦。",
+          "jyutping": "gang2 hai6 san1 sin1 laa1.",
+          "meaning": "当然新鲜（嘞）。"
+        },
+        {
+          "cantonese": "呢味餸係佢整嘅，梗係好食啦。",
+          "jyutping": "ni1 mei6 sung3 hai6 keoi5 zing2 ge3, gang2 hai6 hou2 sik6 laa1.",
+          "meaning": "这道菜是他做的，当然好吃嘞。"
+        },
+        {
+          "cantonese": "你有冇打電話畀佢呀？——梗係有啦。",
+          "jyutping": "nei5 jau5 mou5 daa2 din6 waa2 bei2 keoi5 aa3? —— gang2 hai6 jau5 laa1.",
+          "meaning": "你有没有给他打电话？——当然有嘞。"
+        }
+      ]
+    },
+    {
+      "title": "四 重點理解（四）數量詞 +「鬆啲」",
+      "type": "grammar_note",
+      "units": [
+        {
+          "cantonese": "「……鬆啲」表示數量上稍微超過一點。",
+          "jyutping": "sung1 di1",
+          "meaning": "表示数量上稍微超过一点"
+        },
+        {
+          "cantonese": "而家七點鬆啲。",
+          "jyutping": "ji4 gaa1 cat1 dim2 sung1 di1.",
+          "meaning": "现在七点多一点儿。"
+        }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語 — 字例（疊字韻尾）",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "垃圾", "jyutping": "laap6 saap3", "meaning": "垃圾" },
+        { "cantonese": "英雜", "jyutping": "aap3 zaap6", "meaning": "英雜" },
+        { "cantonese": "發達", "jyutping": "faat3 daat6", "meaning": "发达" },
+        { "cantonese": "紮紮（跳）", "jyutping": "zaat3 zaat3 (tiu3)", "meaning": "紮紮跳" },
+        { "cantonese": "伯伯", "jyutping": "baak3 baak3", "meaning": "伯伯" },
+        { "cantonese": "策劃", "jyutping": "caak3 waak6", "meaning": "策划" },
+        { "cantonese": "十粒", "jyutping": "sap6 nap1", "meaning": "十粒" },
+        { "cantonese": "執拾", "jyutping": "zap1 sap6", "meaning": "收拾" },
+        { "cantonese": "七日", "jyutping": "cat1 jat6", "meaning": "七日" },
+        { "cantonese": "實質", "jyutping": "sat6 zat1", "meaning": "实质" },
+        { "cantonese": "默默", "jyutping": "mak6 mak6", "meaning": "默默" },
+        { "cantonese": "得（到）", "jyutping": "dak1 (dou3)", "meaning": "得（到）" },
+        {
+          "cantonese": "（一）尺",
+          "jyutping": "(jat1) cek3",
+          "meaning": "（一）尺"
+        },
+        {
+          "cantonese": "（一）隻",
+          "jyutping": "(jat1) zek3",
+          "meaning": "（一）只"
+        },
+        {
+          "cantonese": "貼（服）",
+          "jyutping": "tip3 (fuk6)",
+          "meaning": "贴（服）"
+        },
+        {
+          "cantonese": "（重）疊",
+          "jyutping": "(cung4) dip6",
+          "meaning": "（重）叠"
+        },
+        {
+          "cantonese": "熱烈",
+          "jyutping": "jit6 lit6",
+          "meaning": "热烈"
+        },
+        {
+          "cantonese": "節節（勝利）",
+          "jyutping": "zit3 zit3 (sing3 lei6)",
+          "meaning": "节节（胜利）"
+        },
+        {
+          "cantonese": "極力",
+          "jyutping": "gik6 lik6",
+          "meaning": "极力"
+        },
+        {
+          "cantonese": "息息（相關）",
+          "jyutping": "sik1 sik1 (soeng1 gwaan1)",
+          "meaning": "息息（相关）"
+        },
+        {
+          "cantonese": "割（裂）",
+          "jyutping": "got3 (lit6)",
+          "meaning": "割（裂）"
+        },
+        {
+          "cantonese": "頸渴",
+          "jyutping": "geng2 hot3",
+          "meaning": "颈渴（口渴）"
+        },
+        {
+          "cantonese": "角落",
+          "jyutping": "gok3 lok3",
+          "meaning": "角落"
+        },
+        {
+          "cantonese": "博學",
+          "jyutping": "bok3 hok6",
+          "meaning": "博学"
+        },
+        {
+          "cantonese": "活潑",
+          "jyutping": "wut6 put3",
+          "meaning": "活泼"
+        },
+        {
+          "cantonese": "（興致）勃勃",
+          "jyutping": "(hing3 zi3) but6 but6",
+          "meaning": "（兴致）勃勃"
+        },
+        {
+          "cantonese": "目錄",
+          "jyutping": "muk6 luk6",
+          "meaning": "目录"
+        },
+        {
+          "cantonese": "局促",
+          "jyutping": "guk6 cuk1",
+          "meaning": "局促"
+        },
+        {
+          "cantonese": "抽劣",
+          "jyutping": "jyut6 lyut6",
+          "meaning": "抽劣"
+        },
+        {
+          "cantonese": "（風花）雪月",
+          "jyutping": "(fung1 faa1) syut3 jyut6",
+          "meaning": "（风花）雪月"
+        },
+        {
+          "cantonese": "出術",
+          "jyutping": "ceot1 seot6",
+          "meaning": "出术"
+        },
+        {
+          "cantonese": "（法）律",
+          "jyutping": "(faat3) leot6",
+          "meaning": "（法）律"
+        },
+        {
+          "cantonese": "約略",
+          "jyutping": "joek3 loek6",
+          "meaning": "约略"
+        },
+        {
+          "cantonese": "削弱",
+          "jyutping": "soek3 joek6",
+          "meaning": "削弱"
+        }
+      ]
+    }
+  ]
+}

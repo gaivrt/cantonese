@@ -1,0 +1,907 @@
+{
+  "title": "電影",
+  "theme": "movie",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "3.1 Common vocabulary",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "以前",
+          "jyutping": "ji5 cin4",
+          "meaning": "in the past; formerly; previously",
+          "pos": "TW"
+        },
+        {
+          "cantonese": "簡直",
+          "jyutping": "gaan2 zik6",
+          "meaning": "simply; at all",
+          "pos": "Adv"
+        },
+        {
+          "cantonese": "喊",
+          "jyutping": "haam3",
+          "meaning": "cry; weep",
+          "pos": "V"
+        },
+        {
+          "cantonese": "感動",
+          "jyutping": "gam2 dung6",
+          "meaning": "heart-moving; heartening",
+          "pos": "Adj"
+        },
+        {
+          "cantonese": "撞倒",
+          "jyutping": "zong6 dou2",
+          "meaning": "bump into; bump against",
+          "pos": "RVE"
+        },
+        {
+          "cantonese": "跟住",
+          "jyutping": "gan1 zyu6",
+          "meaning": "and then; and after; next",
+          "pos": "Adv"
+        },
+        {
+          "cantonese": "收尾",
+          "jyutping": "sau1 mei5",
+          "meaning": "finally; as a result",
+          "pos": "TW"
+        },
+        {
+          "cantonese": "死",
+          "jyutping": "sei2",
+          "meaning": "die, be dead",
+          "pos": "V"
+        },
+        {
+          "cantonese": "悶",
+          "jyutping": "mun6",
+          "meaning": "bored; boring",
+          "pos": "Adj"
+        },
+        {
+          "cantonese": "窮",
+          "jyutping": "kung4",
+          "meaning": "poor; poverty-stricken",
+          "pos": "Adj"
+        },
+        {
+          "cantonese": "結婚",
+          "jyutping": "git3 fan1",
+          "meaning": "marry; get married",
+          "pos": "V"
+        },
+        {
+          "cantonese": "怕",
+          "jyutping": "paa3",
+          "meaning": "fear; dread; be afraid of",
+          "pos": "V/Adj"
+        },
+        {
+          "cantonese": "繼續",
+          "jyutping": "gai3 zuk6",
+          "meaning": "continue; go on",
+          "pos": "V"
+        },
+        {
+          "cantonese": "放棄",
+          "jyutping": "fong3 hei3",
+          "meaning": "give up",
+          "pos": "V"
+        },
+        {
+          "cantonese": "夢想",
+          "jyutping": "mung6 soeng2",
+          "meaning": "wishful thinking; dream of",
+          "pos": "N/V"
+        },
+        {
+          "cantonese": "老人家",
+          "jyutping": "lou5 jan4 gaa1",
+          "meaning": "a respectful form of address to an old person; a polite term for old woman or man",
+          "pos": "N"
+        },
+        {
+          "cantonese": "決定",
+          "jyutping": "kyut3 ding6",
+          "meaning": "decide; determine; make up one's mind; decision",
+          "pos": "V/N"
+        },
+        {
+          "cantonese": "同……見面",
+          "jyutping": "tung4 ... gin3 min6",
+          "meaning": "meet someone; see each other",
+          "pos": "Patt"
+        },
+        {
+          "cantonese": "天氣",
+          "jyutping": "tin1 hei3",
+          "meaning": "weather",
+          "pos": "N"
+        },
+        {
+          "cantonese": "對",
+          "jyutping": "deoi3",
+          "meaning": "with regard to; concerning; to",
+          "pos": "CV"
+        },
+        {
+          "cantonese": "印象",
+          "jyutping": "jan3 zoeng6",
+          "meaning": "impression",
+          "pos": "N"
+        },
+        {
+          "cantonese": "值得",
+          "jyutping": "zik6 dak1",
+          "meaning": "worth; deserve",
+          "pos": "Adj/V"
+        },
+        {
+          "cantonese": "借",
+          "jyutping": "ze3",
+          "meaning": "lend; borrow",
+          "pos": "V"
+        },
+        {
+          "cantonese": "放假",
+          "jyutping": "fong3 gaa3",
+          "meaning": "have a holiday or vacation; have a day off",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "訪問",
+          "jyutping": "fong2 man6",
+          "meaning": "interview; call on; visit",
+          "pos": "V/N"
+        },
+        {
+          "cantonese": "呃",
+          "jyutping": "aak1",
+          "meaning": "deceive; cheat",
+          "pos": "V"
+        },
+        {
+          "cantonese": "人哋",
+          "jyutping": "jan4 dei6",
+          "meaning": "other people",
+          "pos": "N"
+        },
+        {
+          "cantonese": "嘥",
+          "jyutping": "saai1",
+          "meaning": "waste; miss",
+          "pos": "V"
+        },
+        {
+          "cantonese": "機會",
+          "jyutping": "gei1 wui6",
+          "meaning": "chance; opportunity",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.2 Proper nouns or place words",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "鐵達尼號",
+          "jyutping": "tit3 daat6 nei4 hou6",
+          "meaning": "A Hollywood movie \"Titanic\" in 1997",
+          "pos": "N"
+        },
+        {
+          "cantonese": "世界",
+          "jyutping": "sai3 gaai3",
+          "meaning": "world",
+          "pos": "N"
+        },
+        {
+          "cantonese": "大西洋",
+          "jyutping": "daai6 sai1 joeng4",
+          "meaning": "the Atlantic Ocean",
+          "pos": "N"
+        },
+        {
+          "cantonese": "冰山",
+          "jyutping": "bing1 saan1",
+          "meaning": "iceberg",
+          "pos": "N"
+        },
+        {
+          "cantonese": "吳宇森",
+          "jyutping": "ng4 jyu5 sam1",
+          "meaning": "John Woo",
+          "pos": "PN"
+        },
+        {
+          "cantonese": "周潤發",
+          "jyutping": "zau1 jeon6 faat3",
+          "meaning": "Chow Yun Fat",
+          "pos": "PN"
+        },
+        {
+          "cantonese": "荷里活",
+          "jyutping": "ho4 lei5 wut6",
+          "meaning": "Hollywood",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "英雄本色",
+          "jyutping": "jing1 hung4 bun2 sik1",
+          "meaning": "A Hong Kong movie \"A Better Tomorrow\" in 1986",
+          "pos": "PN"
+        },
+        {
+          "cantonese": "喋血雙雄",
+          "jyutping": "dip6 hyut3 soeng1 hung4",
+          "meaning": "A Hong Kong movie \"The Killer\" in 1989",
+          "pos": "PN"
+        },
+        {
+          "cantonese": "柯士甸站",
+          "jyutping": "o1 si6 din6 zaam6",
+          "meaning": "Austin Road station, MTR",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "圓方商場",
+          "jyutping": "jyun4 fong1 soeng1 coeng4",
+          "meaning": "the shopping mall at Elements, Kowloon",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "科學館",
+          "jyutping": "fo1 hok6 gun2",
+          "meaning": "Science Museum",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "機場快綫",
+          "jyutping": "gei1 coeng4 faai3 sin3",
+          "meaning": "Airport Express",
+          "pos": "PN"
+        },
+        {
+          "cantonese": "泰國",
+          "jyutping": "taai3 gwok3",
+          "meaning": "Thailand",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "菲律賓",
+          "jyutping": "fei1 leot6 ban1",
+          "meaning": "Philippines",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "長灘島",
+          "jyutping": "coeng4 taan1 dou2",
+          "meaning": "Boracay",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "馬尼拉",
+          "jyutping": "maa5 nei4 laai1",
+          "meaning": "Manila",
+          "pos": "PW"
+        }
+      ]
+    },
+    {
+      "title": "3.3 About movie and movie story",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "經典",
+          "jyutping": "ging1 din2",
+          "meaning": "classic; classical; classics",
+          "pos": "Adj/N"
+        },
+        {
+          "cantonese": "戲院",
+          "jyutping": "hei3 jyun2",
+          "meaning": "cinema",
+          "pos": "PW"
+        },
+        {
+          "cantonese": "沉船",
+          "jyutping": "cam4 syun4",
+          "meaning": "the boat sinks",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "歷史",
+          "jyutping": "lik6 si2",
+          "meaning": "history; historical",
+          "pos": "N/Adj"
+        },
+        {
+          "cantonese": "主角",
+          "jyutping": "zyu2 gok3",
+          "meaning": "leading role; lead",
+          "pos": "N"
+        },
+        {
+          "cantonese": "愛情",
+          "jyutping": "oi3 cing4",
+          "meaning": "love",
+          "pos": "N"
+        },
+        {
+          "cantonese": "故事",
+          "jyutping": "gu3 si6",
+          "meaning": "story",
+          "pos": "N"
+        },
+        {
+          "cantonese": "跳海",
+          "jyutping": "tiu3 hoi2",
+          "meaning": "jump into the sea",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "唱歌",
+          "jyutping": "coeng3 go1",
+          "meaning": "sing (a song)",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "跳舞",
+          "jyutping": "tiu3 mou5",
+          "meaning": "dance",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "自殺",
+          "jyutping": "zi6 saat3",
+          "meaning": "commit suicide; take one's own life",
+          "pos": "V"
+        },
+        {
+          "cantonese": "畫畫",
+          "jyutping": "waak6 waa2",
+          "meaning": "paint a painting; draw a picture",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "著衫",
+          "jyutping": "zoek3 saam1",
+          "meaning": "wear clothes",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "導演",
+          "jyutping": "dou6 jin2",
+          "meaning": "film director",
+          "pos": "N"
+        },
+        {
+          "cantonese": "拍戲",
+          "jyutping": "paak3 hei3",
+          "meaning": "make a film; shoot a scene",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "鏡頭",
+          "jyutping": "geng3 tau4",
+          "meaning": "shot; scene; camera lens",
+          "pos": "N"
+        },
+        {
+          "cantonese": "（有）型",
+          "jyutping": "(jau5) jing4",
+          "meaning": "stylish; cool; handsome",
+          "pos": "Adj"
+        },
+        {
+          "cantonese": "出場",
+          "jyutping": "ceot1 coeng4",
+          "meaning": "come on the stage; appear on the scene",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "白鴿",
+          "jyutping": "baak6 gap3",
+          "meaning": "pigeon",
+          "pos": "N"
+        },
+        {
+          "cantonese": "拍攝手法",
+          "jyutping": "paak3 sip3 sau2 faat3",
+          "meaning": "skill of shooting (a film or picture)",
+          "pos": "N"
+        },
+        {
+          "cantonese": "定格",
+          "jyutping": "ding6 gaak3",
+          "meaning": "stop motion (filmmaking)",
+          "pos": "N"
+        },
+        {
+          "cantonese": "慢鏡",
+          "jyutping": "maan6 geng3",
+          "meaning": "slow motion (filmmaking)",
+          "pos": "N"
+        }
+      ]
+    },
+    {
+      "title": "3.4 Going from one place to another",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "塞車",
+          "jyutping": "sak1 ce1",
+          "meaning": "traffic jam",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "出發",
+          "jyutping": "ceot1 faat3",
+          "meaning": "depart; set off",
+          "pos": "V"
+        },
+        {
+          "cantonese": "電梯",
+          "jyutping": "din6 tai1",
+          "meaning": "escalator",
+          "pos": "N"
+        },
+        {
+          "cantonese": "天橋",
+          "jyutping": "tin1 kiu4",
+          "meaning": "overline bridge",
+          "pos": "N"
+        },
+        {
+          "cantonese": "班",
+          "jyutping": "baan1",
+          "meaning": "a measure word for number of flights, or number of runs of buses, boats, trains, MTR, etc.",
+          "pos": "M"
+        },
+        {
+          "cantonese": "趕時間",
+          "jyutping": "gon2 si4 gaan3",
+          "meaning": "in a hurry",
+          "pos": "PH"
+        },
+        {
+          "cantonese": "轉機",
+          "jyutping": "zyun3 gei1",
+          "meaning": "change planes",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "直航（機）",
+          "jyutping": "zik6 hong4 (gei1)",
+          "meaning": "direct flight",
+          "pos": "N"
+        },
+        {
+          "cantonese": "落機",
+          "jyutping": "lok6 gei1",
+          "meaning": "disembark a plane",
+          "pos": "VO"
+        },
+        {
+          "cantonese": "暈車浪",
+          "jyutping": "wan4 ce1 long6",
+          "meaning": "carsick",
+          "pos": "PH"
+        }
+      ]
+    },
+    {
+      "title": "3.5 Useful expressions",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "呢齣／呢套電影係真人真事改編嘅。",
+          "jyutping": "ni1 ceot1 / ni1 tou3 din6 jing2 hai6 zan1 jan4 zan1 si6 goi2 bin1 ge3.",
+          "meaning": "This film is a story of real people and real events; this film is based on a true story.",
+          "pos": "PH"
+        },
+        {
+          "cantonese": "拒絕咗個合作機會嘅",
+          "jyutping": "keoi5 zyut6 zo2 go3 hap6 zok3 gei1 wui6 ge3",
+          "meaning": "refused a good chance of cooperation",
+          "pos": "PH"
+        },
+        {
+          "cantonese": "享受吓陽光與海灘",
+          "jyutping": "hoeng2 sau6 haa5 joeng4 gwong1 jyu5 hoi2 taan1",
+          "meaning": "enjoy the sunshine and beach",
+          "pos": "PH"
+        }
+      ]
+    },
+    {
+      "title": "7.1 對話：朱太問去機場的路",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "阿朱嗱，要喺尖沙咀去機場呢，噉應該點去呀？",
+          "jyutping": "aa3 zyu1 naa4, jiu3 hai2 zim1 saa1 zeoi2 heoi3 gei1 coeng4 ne1, gam2 jing1 goi1 dim2 heoi3 aa3?",
+          "meaning": "阿朱啊，要从尖沙咀去机场呢，那应该怎么去呀？",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "吖，你會嚟邊度，係咪嚟我哋屋企，尖沙咀嗰度出發先？",
+          "jyutping": "aa1, nei5 wui5 lai4 bin1 dou6, hai6 mai6 lai4 ngo5 dei6 uk1 kei2, zim1 saa1 zeoi2 go2 dou6 ceot1 faat3 sin1?",
+          "meaning": "啊，你会来哪里，是不是来我们家，从尖沙咀那里出发先？",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "噉梗係啦。",
+          "jyutping": "gam2 gang2 hai6 laa1.",
+          "meaning": "那当然啦。",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "哦，okay。如果係噉話呢，噉其實我哋嗰呢度去好方便啦。我哋喺尖沙咀嗰度就搭返去柯士甸站啦，噉最近呢，柯士甸站嗰度 Boy 出口，一出返去呢就可以上到去九龍站，喺九龍站嗰度就有條機場快綫，嗰度就可以去到機場囉。",
+          "jyutping": "o4, okay. jyu4 gwo2 hai6 gam2 waa6 ne1, gam2 kei4 sat6 ngo5 dei6 go2 ni1 dou6 heoi3 hou2 fong1 bin6 laa1. ngo5 dei6 hai2 zim1 saa1 zeoi2 go2 dou6 zau6 daap3 faan1 heoi3 o1 si6 din6 zaam6 laa1, gam2 zeoi3 kan5 ne1, o1 si6 din6 zaam6 go2 dou6 B ceot1 hau2, jat1 ceot1 faan1 heoi3 ne1 zau6 ho2 ji5 soeng5 dou3 heoi3 gau2 lung4 zaam6, hai2 gau2 lung4 zaam6 go2 dou6 zau6 jau5 tiu4 gei1 coeng4 faai3 sin3, go2 dou6 zau6 ho2 ji5 heoi3 dou3 gei1 coeng4 lo1.",
+          "meaning": "哦，okay。如果是这样的话呢，那其实我们这里去很方便啦。我们在尖沙咀那里就搭回去柯士甸站啦，那最近呢，柯士甸站那里B出口，一出去呢就可以上到去九龙站，在九龙站那里就有条机场快线，那里就可以去到机场咯。",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "呀，即係點行……嗰個咩……咩嘢？",
+          "jyutping": "aa4, zik1 hai6 dim2 haang4 ... go2 go3 me1 ... me1 je5?",
+          "meaning": "呀，即是怎么走……那个什么……什么？",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "有，咪嗰度呢，B出口嗰度，噉就會有條電梯上去嘅。噉經過條天橋，經過圓方商場，噉圓方商場入面嗰就係九龍站嘞。噉，但係如果你覺得麻煩嘅話呢，又可以喺科學館搭車嗱。你知唔知邊度科學館先？",
+          "jyutping": "jau5, mai6 go2 dou6 ne1, B ceot1 hau2 go2 dou6, gam2 zau6 wui5 jau5 tiu4 din6 tai1 soeng5 heoi3 ge3. gam2 ging1 gwo3 tiu4 tin1 kiu4, ging1 gwo3 jyun4 fong1 soeng1 coeng4, gam2 jyun4 fong1 soeng1 coeng4 jap6 min6 go2 zau6 hai6 gau2 lung4 zaam6 le1. gam2, daan6 hai6 jyu4 gwo2 nei5 gok3 dak1 maa4 faan4 ge3 waa6 ne1, jau6 ho2 ji5 hai2 fo1 hok6 gun2 daap3 ce1 naa4. nei5 zi1 m4 zi1 bin1 dou6 fo1 hok6 gun2 sin1?",
+          "meaning": "有，就那里呢，B出口那里，那就会有条电梯上去的。那经过条天桥，经过圆方商场，那圆方商场里面那就是九龙站了。那，但是如果你觉得麻烦的话呢，又可以在科学馆搭车呢。你知不知道哪里科学馆先？",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "梗係知啦。",
+          "jyutping": "gang2 hai6 zi1 laa1.",
+          "meaning": "当然知道啦。",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "喺科學館嗰度有架巴士，係 A21 嘅嘢，四十分鐘可以去到機場，都幾快嘅。",
+          "jyutping": "hai2 fo1 hok6 gun2 go2 dou6 jau5 gaa3 baa1 si2, hai6 A21 ge3 je5, sei3 sap6 fan1 zung1 ho2 ji5 heoi3 dou3 gei1 coeng4, dou1 gei2 faai3 ge3.",
+          "meaning": "在科学馆那里有架巴士，是A21的，四十分钟可以去到机场，都挺快的。",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "要等幾耐一班呀？",
+          "jyutping": "jiu3 dang2 gei2 noi6 jat1 baan1 aa3?",
+          "meaning": "要等多久一班呀？",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "我諗十至十五分鐘嘞，唔會好耐嘅。",
+          "jyutping": "ngo5 nam2 sap6 zi3 sap6 ng5 fan1 zung1 le1, m4 wui5 hou2 noi6 ge3.",
+          "meaning": "我想十至十五分钟吧，不会很久的。",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "噉要坐幾耐呀？",
+          "jyutping": "gam2 jiu3 co5 gei2 noi6 aa3?",
+          "meaning": "那要坐多久呀？",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "搭機鐵快好多，半個鐘就到，但係如果搭巴士唔塞車，都係一個鐘三個字左右啦。",
+          "jyutping": "daap3 gei1 tit3 faai3 hou2 do1, bun3 go3 zung1 zau6 dou3, daan6 hai6 jyu4 gwo2 daap3 baa1 si2 m4 sak1 ce1, dou1 hai6 jat1 go3 zung1 saam1 go3 zi6 zo2 jau6 laa1.",
+          "meaning": "搭机铁快好多，半个钟就到，但是如果搭巴士不塞车，都是一个钟三个字左右啦。",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "係咪呀？",
+          "jyutping": "hai6 mai6 aa3?",
+          "meaning": "是吗？",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "噉即係你覺得我應該搭巴士好啲嘛？",
+          "jyutping": "gam2 zik1 hai6 nei5 gok3 dak1 ngo5 jing1 goi1 daap3 baa1 si2 hou2 di1 maa3?",
+          "meaning": "那即是你觉得我应该搭巴士好些吗？",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "如果你覺得去機鐵站好麻煩，噉梗係搭巴士啦。",
+          "jyutping": "jyu4 gwo2 nei5 gok3 dak1 heoi3 gei1 tit3 zaam6 hou2 maa4 faan4, gam2 gang2 hai6 daap3 baa1 si2 laa1.",
+          "meaning": "如果你觉得去机铁站好麻烦，那当然搭巴士啦。",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "噉又係。",
+          "jyutping": "gam2 jau6 hai6.",
+          "meaning": "那也是。",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "你會唔會好趕時間先？同埋要睇吓你咩時間出發嗱。如果你打算半夜出發，噉你就……",
+          "jyutping": "nei5 wui5 m4 wui5 hou2 gon2 si4 gaan3 sin1? tung4 maai4 jiu3 tai2 haa5 nei5 me1 si4 gaan3 ceot1 faat3 naa4. jyu4 gwo2 nei5 daa2 syun3 bun3 je6 ceot1 faat3, gam2 nei5 zau6 ...",
+          "meaning": "你会不会很赶时间先？还有要看看你什么时间出发呢。如果你打算半夜出发，那你就……",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "半夜出發就要你送我嗱。",
+          "jyutping": "bun3 je6 ceot1 faat3 zau6 jiu3 nei5 sung3 ngo5 naa4.",
+          "meaning": "半夜出发就要你送我呢。",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "如果嗰嗰時間嘅話就要搭嘅士嗱。",
+          "jyutping": "jyu4 gwo2 go2 go2 si4 gaan3 ge3 waa6 zau6 jiu3 daap3 dik1 si2 naa4.",
+          "meaning": "如果那个时间的话就要搭的士呢。",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "我打算下晝去驱，我諗唔使搭嘅士嘞。",
+          "jyutping": "ngo5 daa2 syun3 haa6 zau3 heoi3 kei4, ngo5 nam2 m4 sai2 daap3 dik1 si2 le1.",
+          "meaning": "我打算下午去，我想不用搭的士了。",
+          "speaker": "朱太"
+        },
+        {
+          "cantonese": "噉你去科學館嗰度坐巴士啦。",
+          "jyutping": "gam2 nei5 heoi3 fo1 hok6 gun2 go2 dou6 co5 baa1 si2 laa1.",
+          "meaning": "那你去科学馆那里坐巴士啦。",
+          "speaker": "阿朱"
+        },
+        {
+          "cantonese": "嗯……好啦。",
+          "jyutping": "ng6 ... hou2 laa1.",
+          "meaning": "嗯……好啦。",
+          "speaker": "朱太"
+        }
+      ]
+    },
+    {
+      "title": "7.2 對話：瑪麗和小強討論旅行",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "放假去邊度玩呀？",
+          "jyutping": "fong3 gaa3 heoi3 bin1 dou6 waan2 aa3?",
+          "meaning": "放假去哪里玩呀？",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "嗯。聖誕節都請倒一個禮拜假嘅。",
+          "jyutping": "ng6. sing3 daan3 zit3 dou1 cing2 dou2 jat1 go3 lai5 baai3 gaa3 ge3.",
+          "meaning": "嗯。圣诞节都请到一个礼拜假的。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "不如，去享受吓陽光海灘吖。",
+          "jyutping": "bat1 jyu4, heoi3 hoeng2 sau6 haa5 joeng4 gwong1 hoi2 taan1 aa1.",
+          "meaning": "不如，去享受下阳光海滩呀。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "好吖，近排呢度有啲凍，去啲熱嘅地方都唔錯。",
+          "jyutping": "hou2 aa1, kan5 paai4 ni1 dou6 jau5 di1 dung3, heoi3 di1 jit6 ge3 dei6 fong1 dou1 m4 co3.",
+          "meaning": "好呀，近来这里有点冷，去些热的地方都不错。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "唉，我舊年去過嗰個 Boracay，長灘島呀。",
+          "jyutping": "aai1, ngo5 gau6 nin4 heoi3 gwo3 go2 go3 Boracay, coeng4 taan1 dou2 aa3.",
+          "meaning": "唉，我去年去过那个 Boracay，长滩岛呀。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "哦。",
+          "jyutping": "o4.",
+          "meaning": "哦。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "嗰度都幾好嘅，不如去試吓呀。",
+          "jyutping": "go2 dou6 dou1 gei2 hou2 ge3, bat1 jyu4 heoi3 si3 haa5 aa3.",
+          "meaning": "那里都挺好的，不如去试下呀。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "咩嘢嘢？泰國嘅？",
+          "jyutping": "me1 je5 je5? taai3 gwok3 ge3?",
+          "meaning": "什么东西？泰国的？",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "唔係，菲律賓呀。",
+          "jyutping": "m4 hai6, fei1 leot6 ban1 aa3.",
+          "meaning": "不是，菲律宾呀。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "哦。",
+          "jyutping": "o4.",
+          "meaning": "哦。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "好出名嘅，你未聽過咩？",
+          "jyutping": "hou2 ceot1 meng2 ge3, nei5 mei6 teng1 gwo3 me1?",
+          "meaning": "很出名的，你没听过吗？",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "唔好意思呀，我未去過菲律賓。",
+          "jyutping": "m4 hou2 ji3 si1 aa3, ngo5 mei6 heoi3 gwo3 fei1 leot6 ban1.",
+          "meaning": "不好意思呀，我没去过菲律宾。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "都好玩嘅，不過去嘅嗰個旅程呢就麻煩嘅囉。",
+          "jyutping": "dou1 hou2 waan2 ge3, bat1 gwo3 heoi3 ge3 go2 go3 leoi5 cing4 ne1 zau6 maa4 faan4 ge3 lo1.",
+          "meaning": "都好玩的，不过去的那个旅程呢就麻烦的咯。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "唔，點去㗎？",
+          "jyutping": "m4, dim2 heoi3 gaa3?",
+          "meaning": "嗯，怎么去的？",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "你喺香港出發係咪？",
+          "jyutping": "nei5 hai2 hoeng1 gong2 ceot1 faat3 hai6 mai6?",
+          "meaning": "你从香港出发是吗？",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "係呀。",
+          "jyutping": "hai6 aa3.",
+          "meaning": "是呀。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "你呢就要喺香港搭機去馬尼拉。",
+          "jyutping": "nei5 ne1 zau6 jiu3 hai2 hoeng1 gong2 daap3 gei1 heoi3 maa5 nei4 laai1.",
+          "meaning": "你呢就要从香港搭飞机去马尼拉。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "哦。",
+          "jyutping": "o4.",
+          "meaning": "哦。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "喺馬尼拉呢再轉機去長灘島。",
+          "jyutping": "hai2 maa5 nei4 laai1 ne1 zoi3 zyun3 gei1 heoi3 coeng4 taan1 dou2.",
+          "meaning": "在马尼拉呢再转机去长滩岛。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "咁複雜嘅，有直航機嘅？",
+          "jyutping": "gam3 fuk1 zaap6 ge3, jau5 zik6 hong4 gei1 ge3?",
+          "meaning": "这么复杂的，有直航机的？",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "有嘅。嗰度係一個好遠嘅地方。",
+          "jyutping": "jau5 ge3. go2 dou6 hai6 jat1 go3 hou2 jyun5 ge3 dei6 fong1.",
+          "meaning": "有的。那里是一个很远的地方。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "哦。",
+          "jyutping": "o4.",
+          "meaning": "哦。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "噉你轉咗機之後呢，落咗機仲未得嘅嘞。",
+          "jyutping": "gam2 nei5 zyun3 zo2 gei1 zi1 hau6 ne1, lok6 zo2 gei1 zung6 mei6 dak1 ge3 le1.",
+          "meaning": "那你转了机之后呢，下了飞机还没完的了。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "嗯。",
+          "jyutping": "ng6.",
+          "meaning": "嗯。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "仲要坐巴士。",
+          "jyutping": "zung6 jiu3 co5 baa1 si2.",
+          "meaning": "还要坐巴士。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "嘩。",
+          "jyutping": "waa4.",
+          "meaning": "哇。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "我記得係，嘩，坐咗幾個鐘頭巴士呀。",
+          "jyutping": "ngo5 gei3 dak1 hai6, waa4, co5 zo2 gei2 go3 zung1 tau4 baa1 si2 aa3.",
+          "meaning": "我记得是，哇，坐了几个钟头巴士呀。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "嗯。",
+          "jyutping": "ng6.",
+          "meaning": "嗯。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "你唔暈車浪嘅可？",
+          "jyutping": "nei5 m4 wan4 ce1 long6 ge3 ho2?",
+          "meaning": "你不晕车的吗？",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "我 okay，但係我唔知同我一齊去嗰啲人點嘅嘛。",
+          "jyutping": "ngo5 okay, daan6 hai6 ngo5 m4 zi1 tung4 ngo5 jat1 cai4 heoi3 go2 di1 jan4 dim2 ge3 maa3.",
+          "meaning": "我okay，但是我不知同我一起去那些人怎样的嘛。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "係呀，因為我哋嗰次去呢，有人暈車浪，跟住呢，我哋嗰日上晝開始搭車，跟住去到嗰度呢，去到嗰陣時其實已經夜晚嘅嘞。仲未到酒店嘅嘞，酒店就會揸隻船，喺碼頭嗰度接你返酒店，嘅樣嘢。",
+          "jyutping": "hai6 aa3, jan1 wai6 ngo5 dei6 go2 ci3 heoi3 ne1, jau5 jan4 wan4 ce1 long6, gan1 zyu6 ne1, ngo5 dei6 go2 jat6 soeng6 zau3 hoi1 ci2 daap3 ce1, gan1 zyu6 heoi3 dou3 go2 dou6 ne1, heoi3 dou3 go2 zan6 si4 kei4 sat6 ji5 ging1 je6 maan5 ge3 le1. zung6 mei6 dou3 zau2 dim3 ge3 le1, zau2 dim3 zau6 wui5 zaa1 zek3 syun4, hai2 maa5 tau4 go2 dou6 zip3 nei5 faan1 zau2 dim3, ge3 joeng2 je5.",
+          "meaning": "是呀，因为我们那次去呢，有人晕车浪，跟住呢，我们那日上午开始搭车，跟住去到那里呢，去到那阵时其实已经夜晚的了。还没到酒店的了，酒店就会开只船，在码头那里接你返酒店，的样子。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "嘩，咁麻煩。",
+          "jyutping": "waa4, gam3 maa4 faan4.",
+          "meaning": "哇，这么麻烦。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "好值得嘅。",
+          "jyutping": "hou2 zik6 dak1 ge3.",
+          "meaning": "好值得的。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "十幾個鐘，美國都去到嗱嗱。",
+          "jyutping": "sap6 gei2 go3 zung1, mei5 gwok3 dou1 heoi3 dou3 naa4 naa4.",
+          "meaning": "十几个钟，美国都去到了啦。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "噉唔同嘅，你搭機去美國，如果你係直航機呀，你搭嗰十幾個鐘你都唔可以休息啦，係咪呀？你去到菲律賓嘅機場，你可以去吓洗手間呀，食吓嘢囉，玩吓電話。",
+          "jyutping": "gam2 m4 tung4 ge3, nei5 daap3 gei1 heoi3 mei5 gwok3, jyu4 gwo2 nei5 hai6 zik6 hong4 gei1 aa3, nei5 daap3 go2 sap6 gei2 go3 zung1 nei5 dou1 m4 ho2 ji5 jau1 sik1 laa1, hai6 mai6 aa3? nei5 heoi3 dou3 fei1 leot6 ban1 ge3 gei1 coeng4, nei5 ho2 ji5 heoi3 haa5 sai2 sau2 gaan1 aa3, sik6 haa5 je5 lo1, waan2 haa5 din6 waa2.",
+          "meaning": "那不同的，你搭飞机去美国，如果你是直航机呀，你搭那十几个钟你都不可以休息啦，是吗？你去到菲律宾的机场，你可以去下洗手间呀，吃下东西咯，玩下电话。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "噉又係嘅。唉，有冇嘢做嘅？去成個禮拜。",
+          "jyutping": "gam2 jau6 hai6 ge3. aai1, jau5 mou5 je5 zou6 ge3? heoi3 seng4 go3 lai5 baai3.",
+          "meaning": "那也是的。唉，有没有东西做的？去一整个礼拜。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "噉咪喺酒店食嘢囉，去沙灘遊水呀，同埋買吓嘢囉嚹，你可以玩滑翔傘呀。",
+          "jyutping": "gam2 mai6 hai2 zau2 dim3 sik6 je5 lo1, heoi3 saa1 taan1 jau4 seoi2 aa3, tung4 maai4 maai5 haa5 je5 lo1 laa3, nei5 ho2 ji5 waan2 waat6 coeng4 saan3 aa3.",
+          "meaning": "那就在酒店吃东西咯，去沙滩游水呀，还有买下东西咯，你可以玩滑翔伞呀。",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "唔。好似幾好玩嘅，戴嘅決定啦。",
+          "jyutping": "m4. hou2 ci5 gei2 hou2 waan2 ge3, daai3 ge3 kyut3 ding6 laa1.",
+          "meaning": "嗯。好像几好玩的，就这样决定啦。",
+          "speaker": "小強"
+        },
+        {
+          "cantonese": "你唔使問吓太太先嘛？",
+          "jyutping": "nei5 m4 sai2 man6 haa5 taai3 taai2 sin1 maa3?",
+          "meaning": "你不用问下太太先吗？",
+          "speaker": "瑪麗"
+        },
+        {
+          "cantonese": "啊……太太。好，我返去問吓先。",
+          "jyutping": "aa3 ... taai3 taai2. hou2, ngo5 faan1 heoi3 man6 haa5 sin1.",
+          "meaning": "啊……太太。好，我回去问下先。",
+          "speaker": "小強"
+        }
+      ]
+    }
+  ]
+}

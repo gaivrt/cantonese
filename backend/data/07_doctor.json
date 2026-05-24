@@ -1,0 +1,453 @@
+{
+  "title": "看醫生",
+  "theme": "doctor",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "一 課文（一）",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "喂，你隻左眼做乜嘢呀？",
+          "jyutping": "wai3, nei5 zek3 zo2 ngaan5 zou6 mat1 je5 aa3?",
+          "meaning": "喂，你只左眼做什么呀？"
+        },
+        {
+          "cantonese": "哦，開咗刀嘅。",
+          "jyutping": "o5, hoi1 zo2 dou1 ze1.",
+          "meaning": "哦，开了刀呗。"
+        },
+        {
+          "cantonese": "唔怪（之）得呢排唔見你啦。",
+          "jyutping": "m4 gwaai3 zi1 dak1 ni1 paai4 m4 gin3 nei5 laa1.",
+          "meaning": "难怪（之）得这阵子不见你啦。"
+        },
+        {
+          "cantonese": "而家覺得點呀？",
+          "jyutping": "ji4 gaa1 gok3 dak1 dim2 aa3?",
+          "meaning": "现在觉得怎么样？"
+        },
+        {
+          "cantonese": "而家比起啱啱開完刀嗰陣好好多喇。",
+          "jyutping": "ji4 gaa1 bei2 hei2 ngaam1 ngaam1 hoi1 jyun4 dou1 go2 zan6 hou2 hou2 do1 laa3.",
+          "meaning": "现在比起刚开完刀那会儿好好多了。"
+        }
+      ]
+    },
+    {
+      "title": "一 課文（二）",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "喂，你上個禮拜三點解唔嚟我屋企呀？",
+          "jyutping": "wai3, nei5 soeng6 go3 lai5 baai3 saam1 dim2 gaai2 m4 lai4 ngo5 uk1 kei2 aa3?",
+          "meaning": "喂，你上个礼拜三为什么不上我家来呀？"
+        },
+        {
+          "cantonese": "上個禮拜我啲牙唔掂。",
+          "jyutping": "soeng6 go3 lai5 baai3 ngo5 di1 ngaa4 m4 dim6.",
+          "meaning": "上个礼拜我的牙不行了。"
+        },
+        {
+          "cantonese": "點呀？牙痛呀？",
+          "jyutping": "dim2 aa3? ngaa4 tung3 aa4?",
+          "meaning": "怎么回事？牙痛呀？"
+        },
+        {
+          "cantonese": "唉，唔知幾辛苦，又打針又食藥。",
+          "jyutping": "haai4, m4 zi1 gei2 san1 fu2, jau6 daa2 zam1 jau6 sik6 joeng6.",
+          "meaning": "唉，不知几辛苦，又打针又食药。"
+        },
+        {
+          "cantonese": "牙痛慘過大病吖嘛。",
+          "jyutping": "ngaa4 tung3 caam2 gwo3 daai6 beng6 aa1 maa3.",
+          "meaning": "牙痛惨过大病呀嘛。"
+        }
+      ]
+    },
+    {
+      "title": "一 課文（三）",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "醫生，我嘅血壓點樣呀？",
+          "jyutping": "ji1 sang1, ngo5 ge3 hyut3 aat3 dim2 joeng2 aa3?",
+          "meaning": "医生，我的血压怎样呀？"
+        },
+        {
+          "cantonese": "同以前一樣，正常吖。",
+          "jyutping": "tung4 ji5 cin4 jat1 joeng6, zing3 soeng4 aa1.",
+          "meaning": "同以前一样，正常呀。"
+        },
+        {
+          "cantonese": "我好似仲有啲燒喎。",
+          "jyutping": "ngo5 hou2 ci5 zung6 jau5 di1 siu1 wo3.",
+          "meaning": "我好似还有点烧喎。"
+        },
+        {
+          "cantonese": "係，卅七度九，冇琴日咁高嘞。",
+          "jyutping": "hai6, saa1 aa6 cat1 dou6 gau2, mou5 kam4 jat6 gam3 gou1 lag3.",
+          "meaning": "是，三十七度九，没有昨日那么高了。"
+        },
+        {
+          "cantonese": "吓，呢度有兩包藥丸，白色嗰啲一日四次，每次兩粒，黃黃地嗰啲一日三次，每次一粒。飲多啲水，早啲瞓，一兩日就冇事嘅啦。",
+          "jyutping": "naa4, ni1 dou6 jau5 loeng5 baau1 joek6 jyun2, baak6 sik1 go2 di1 jat1 jat6 sei3 ci3, mui5 ci3 loeng5 nap1. wong4 wong4 dei2 go2 di1 jat1 jat6 saam1 ci3, mui5 ci3 jat1 nap1. jam2 do1 di1 seoi2, zou2 di1 fan3, jat1 loeng5 jat6 zau6 mou5 si6 gaa3 laa3.",
+          "meaning": "呐，这里有两包药丸，白色那些一日四次，每次两粒。黄黄的那些一日三次，每次一粒。饮多点水，早点睡，一两日就没事了。"
+        }
+      ]
+    },
+    {
+      "title": "普通話對譯（一）",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "（1）你左眼怎麼啦？",
+          "jyutping": "",
+          "meaning": "你左眼怎么啦？"
+        },
+        {
+          "cantonese": "（2）噢，開了刀呗。",
+          "jyutping": "",
+          "meaning": "噢，开了刀呗。"
+        },
+        {
+          "cantonese": "（3）難怪這些日子見不着你哪。",
+          "jyutping": "",
+          "meaning": "难怪这些日子见不着你哪。"
+        },
+        {
+          "cantonese": "（4）現在覺得怎麼樣？",
+          "jyutping": "",
+          "meaning": "现在觉得怎么样？"
+        },
+        {
+          "cantonese": "（5）現在比剛開完刀那會兒好多了。",
+          "jyutping": "",
+          "meaning": "现在比刚开完刀那会儿好多了。"
+        }
+      ]
+    },
+    {
+      "title": "普通話對譯（二）",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "（1）你上星期三為什麼不上我家來？",
+          "jyutping": "",
+          "meaning": "你上星期三为什么不上我家来？"
+        },
+        {
+          "cantonese": "（2）上星期我的牙疼，來不了。",
+          "jyutping": "",
+          "meaning": "上星期我的牙疼，来不了。"
+        },
+        {
+          "cantonese": "（3）怎麼回事？",
+          "jyutping": "",
+          "meaning": "怎么回事？"
+        }
+      ]
+    },
+    {
+      "title": "三 補充語彙（一）詞語",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "頭痛",
+          "jyutping": "tau4 tung3",
+          "meaning": "头疼"
+        },
+        {
+          "cantonese": "發燒",
+          "jyutping": "faat3 siu1",
+          "meaning": "发烧"
+        },
+        {
+          "cantonese": "傷風",
+          "jyutping": "soeng1 fung1",
+          "meaning": "伤风"
+        },
+        {
+          "cantonese": "感冒",
+          "jyutping": "gam2 mou6",
+          "meaning": "感冒"
+        },
+        {
+          "cantonese": "嘔",
+          "jyutping": "au2",
+          "meaning": "呕吐"
+        },
+        {
+          "cantonese": "咳",
+          "jyutping": "kat1",
+          "meaning": "咳嗽"
+        },
+        {
+          "cantonese": "睇醫生",
+          "jyutping": "tai2 ji1 sang1",
+          "meaning": "看病"
+        },
+        {
+          "cantonese": "醫院",
+          "jyutping": "ji1 jyun2",
+          "meaning": "医院"
+        },
+        {
+          "cantonese": "護士",
+          "jyutping": "wu6 si6",
+          "meaning": "护士"
+        },
+        {
+          "cantonese": "預約",
+          "jyutping": "jyu6 joek3",
+          "meaning": "预约"
+        },
+        {
+          "cantonese": "嘥藥水",
+          "jyutping": "saai1 joek6 seoi2",
+          "meaning": "（浪费）药水"
+        },
+        {
+          "cantonese": "好番",
+          "jyutping": "hou2 faan1",
+          "meaning": "病好了，痊愈"
+        }
+      ]
+    },
+    {
+      "title": "三 補充語彙（二）句子",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "你坐喺度等，姑娘一陣就嚟。",
+          "jyutping": "nei5 co5 hai2 dou6 dang2, gu1 noeng4 jat1 zan6 zau6 lai4.",
+          "meaning": "你坐这儿等，护士一会儿就过来。"
+        },
+        {
+          "cantonese": "睇街症，輪候時間長。",
+          "jyutping": "tai2 gaai1 zing3, leon4 hau6 si4 gaan3 coeng4.",
+          "meaning": "看政府门诊医生，等候时间长。"
+        },
+        {
+          "cantonese": "私家診所收費唔平㗎。",
+          "jyutping": "si1 gaa1 can2 so2 sau1 fai3 m4 peng4 gaa3.",
+          "meaning": "私立诊所收费可不便宜。"
+        },
+        {
+          "cantonese": "佢入咗院，喺度吊緊鹽水。",
+          "jyutping": "keoi5 jap6 zo2 jyun2, hai2 dou6 diu3 gan2 jim4 seoi2.",
+          "meaning": "他住了院，正在打点滴。"
+        },
+        {
+          "cantonese": "有人暈咗，快啲叫十字車。",
+          "jyutping": "jau5 jan4 wan4 zo2, faai3 di1 giu3 sap6 zi6 ce1.",
+          "meaning": "有人晕倒，快点儿叫救护车。"
+        }
+      ]
+    },
+    {
+      "title": "3.1 身體不適現象",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "口淡（淡）",
+          "jyutping": "hau2 taam5 (taam5)",
+          "meaning": "口淡无味",
+          "pos": ""
+        },
+        {
+          "cantonese": "無胃口",
+          "jyutping": "mou4 wai6 hau2",
+          "meaning": "胃口不好",
+          "pos": ""
+        },
+        {
+          "cantonese": "攪肚痛",
+          "jyutping": "gaau2 tou5 tung3",
+          "meaning": "肚子疼",
+          "pos": ""
+        },
+        {
+          "cantonese": "頭赤（赤）",
+          "jyutping": "tau4 cek3 (cek3)",
+          "meaning": "头疼",
+          "pos": ""
+        },
+        {
+          "cantonese": "打冷震",
+          "jyutping": "daa2 laang5 zan3",
+          "meaning": "发抖",
+          "pos": ""
+        },
+        {
+          "cantonese": "鼻塞",
+          "jyutping": "bei6 sak1",
+          "meaning": "鼻子不通气",
+          "pos": ""
+        },
+        {
+          "cantonese": "痰",
+          "jyutping": "taam5",
+          "meaning": "痰",
+          "pos": ""
+        },
+        {
+          "cantonese": "氣喘",
+          "jyutping": "hei3 cyun2",
+          "meaning": "气喘",
+          "pos": ""
+        },
+        {
+          "cantonese": "熱氣",
+          "jyutping": "jit6 hei3",
+          "meaning": "上火",
+          "pos": ""
+        },
+        {
+          "cantonese": "滯",
+          "jyutping": "zai6",
+          "meaning": "消化不良",
+          "pos": ""
+        },
+        {
+          "cantonese": "生痱滋",
+          "jyutping": "saang1 fei1 zi1",
+          "meaning": "长口疮",
+          "pos": ""
+        },
+        {
+          "cantonese": "痕",
+          "jyutping": "han4",
+          "meaning": "痒",
+          "pos": ""
+        },
+        {
+          "cantonese": "痺",
+          "jyutping": "bei3",
+          "meaning": "发麻",
+          "pos": ""
+        },
+        {
+          "cantonese": "抽筋",
+          "jyutping": "caau1 gan1",
+          "meaning": "抽筋",
+          "pos": ""
+        },
+        {
+          "cantonese": "瞓厲頸",
+          "jyutping": "fan3 lai4 geng2",
+          "meaning": "落枕",
+          "pos": ""
+        },
+        {
+          "cantonese": "虧",
+          "jyutping": "saan1",
+          "meaning": "体质衰弱",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "title": "3.2 醫藥用語",
+      "type": "vocab_table",
+      "units": [
+        {
+          "cantonese": "打針",
+          "jyutping": "daa2 zam1",
+          "meaning": "打针",
+          "pos": ""
+        },
+        {
+          "cantonese": "藥水 / 藥丸",
+          "jyutping": "joek6 seoi2 / joek6 jyun2",
+          "meaning": "药水 / 药丸",
+          "pos": ""
+        },
+        {
+          "cantonese": "醫生紙",
+          "jyutping": "ji1 sang1 zi2",
+          "meaning": "医生纸（病假条）",
+          "pos": ""
+        },
+        {
+          "cantonese": "隔離",
+          "jyutping": "gaak3 lei4",
+          "meaning": "隔离",
+          "pos": ""
+        },
+        {
+          "cantonese": "留醫",
+          "jyutping": "lau4 ji1",
+          "meaning": "留医（住院治疗）",
+          "pos": ""
+        },
+        {
+          "cantonese": "照X光",
+          "jyutping": "ziu3 ik1 si1 gwong1",
+          "meaning": "照X光",
+          "pos": ""
+        },
+        {
+          "cantonese": "做手術 / 開刀",
+          "jyutping": "zou6 sau2 seot6 / hoi1 dou1",
+          "meaning": "做手术 / 开刀",
+          "pos": ""
+        },
+        {
+          "cantonese": "物理治療",
+          "jyutping": "mat6 lei5 zi6 liu4",
+          "meaning": "物理治疗",
+          "pos": ""
+        },
+        {
+          "cantonese": "留院觀察",
+          "jyutping": "lau4 jyun2 gun1 caat3",
+          "meaning": "留院观察",
+          "pos": ""
+        },
+        {
+          "cantonese": "身體檢查",
+          "jyutping": "san1 tai2 gim2 caa4",
+          "meaning": "身体检查",
+          "pos": ""
+        },
+        {
+          "cantonese": "度高",
+          "jyutping": "dok6 gou1",
+          "meaning": "量身高",
+          "pos": ""
+        },
+        {
+          "cantonese": "磅重",
+          "jyutping": "bong6 cung5",
+          "meaning": "称体重",
+          "pos": ""
+        },
+        {
+          "cantonese": "量血壓",
+          "jyutping": "loeng4 hyut3 aat3",
+          "meaning": "量血压",
+          "pos": ""
+        },
+        {
+          "cantonese": "抽血",
+          "jyutping": "caau1 hyut3",
+          "meaning": "抽血",
+          "pos": ""
+        },
+        {
+          "cantonese": "驗血",
+          "jyutping": "jim6 hyut3",
+          "meaning": "验血",
+          "pos": ""
+        },
+        {
+          "cantonese": "驗小便 / 驗尿",
+          "jyutping": "jim6 siu2 bin6 / jim6 niu6",
+          "meaning": "验小便 / 验尿",
+          "pos": ""
+        }
+      ]
+    }
+  ]
+}

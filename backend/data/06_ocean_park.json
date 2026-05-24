@@ -1,0 +1,418 @@
+{
+  "title": "海洋公園",
+  "theme": "ocean_park",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "一 課文",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "嚟香港嘅遊客無論係嚟度假定係嚟公幹，",
+          "jyutping": "lai4 hoeng1 gong2 ge3 jau4 haak3 mou4 leon6 hai6 lai4 dou6 gaa3 ding6 hai6 lai4 gung1 gon3,",
+          "meaning": "来香港的游客无论是来度假还是来公干，"
+        },
+        {
+          "cantonese": "都會呢度優美嘅旅遊環境所吸引。",
+          "jyutping": "dou1 wui5 bei2 ni1 dou6 jau1 mei5 ge3 leoi5 jau4 waan4 ging2 so2 kap1 jan5.",
+          "meaning": "都会被这里优美的旅游环境所吸引。"
+        },
+        {
+          "cantonese": "查實香港嘅旅遊環境大致上可分為港市風情，",
+          "jyutping": "caa4 sat6 hoeng1 gong2 ge3 leoi5 jau4 waan4 ging2 daai6 zi3 soeng6 ho2 fan1 wai4 gong2 si5 fung1 cing4,",
+          "meaning": "查实香港的旅游环境大致上可分为港市风情，"
+        },
+        {
+          "cantonese": "名勝古蹟，文化旅遊，海灣泳灘，",
+          "jyutping": "ming4 sing3 gu2 zik1, man4 faa3 leoi5 jau4, hoi2 waan1 wing6 taan1,",
+          "meaning": "名胜古迹，文化旅游，海湾泳滩，"
+        },
+        {
+          "cantonese": "郊野風光同埋離島遊蹤等方面。",
+          "jyutping": "gaau1 je5 fung1 gwong1 tung4 maai4 lei4 dou2 jau4 zung1 dang2 fong1 min6.",
+          "meaning": "郊野风光同埋离岛游踪等方面。"
+        },
+        {
+          "cantonese": "譬如講，內地自由行抑或跟團嘅人士，",
+          "jyutping": "pei3 jyu4 gong2, noi6 dei6 zi6 jau4 hang4 jik1 waak6 gan1 tyun4 ge3 jan4 si6,",
+          "meaning": "譬如讲，内地自由行抑或跟团的人士，"
+        },
+        {
+          "cantonese": "實會有選擇嘅睇勻晒呢六個方面。",
+          "jyutping": "sat6 wui5 jau5 syun2 zaak6 gem2 tai2 wan4 saai3 ni1 luk6 go3 fong1 min6.",
+          "meaning": "实会有选择地看完这六个方面。"
+        },
+        {
+          "cantonese": "其中，海洋公園、淺水灣、大嶼山寶蓮寺嘅天壇大佛更加係必遊之地。",
+          "jyutping": "kei4 zung1, hoi2 joeng4 gung1 jyun2, cin2 seoi2 waan1, daai6 jyu4 saan1 bou2 lin4 zi2 ge3 tin1 taan4 daai6 fat6 gang3 gaa1 hai6 bit1 jau4 zi1 dei6.",
+          "meaning": "其中，海洋公园、浅水湾、大屿山宝莲寺的天坛大佛更加是必游之地。"
+        },
+        {
+          "cantonese": "海洋公園喺七十年代中開放營業，",
+          "jyutping": "hoi2 joeng4 gung1 jyun2 hai2 cat1 sap6 nin4 doi6 zung1 hoi1 fong3 jing4 jip6,",
+          "meaning": "海洋公园在七十年代中开放营业，"
+        },
+        {
+          "cantonese": "目的係：一嚟向遊客提供一個具有園林勝景嘅娛樂天地，",
+          "jyutping": "muk6 dik1 hai6: jat1 lai4 hoeng3 jau4 haak3 tai4 gung1 jat1 go3 geoi6 jau5 jyun4 lam4 sing3 ging2 ge3 jyu4 lok6 tin1 dei6,",
+          "meaning": "目的是：一来向游客提供一个具有园林胜景的娱乐天地，"
+        },
+        {
+          "cantonese": "二嚟係向佢哋展示環境保護同動物保育嘅趣味性。",
+          "jyutping": "ji6 lai4 hai6 hoeng3 keoi5 dei6 zin2 si6 waan4 ging2 bou2 wu6 tung4 dung6 mat6 bou2 juk6 ge3 ceoi3 mei6 sing3.",
+          "meaning": "二来是向他们展示环境保护同动物保育的趣味性。"
+        },
+        {
+          "cantonese": "海洋公園環山而建，分山上、山下兩部分。",
+          "jyutping": "hoi2 joeng4 gung1 jyun2 waan4 saan1 ji4 gin3, fan1 saan1 soeng6, saan1 haa6 loeng5 bou6 fan6.",
+          "meaning": "海洋公园环山而建，分山上、山下两部分。"
+        },
+        {
+          "cantonese": "兩部分之間遊客可以坐高空吊車往返，十分過癮。",
+          "jyutping": "loeng5 bou6 fan6 zi1 gaan1 jau4 haak3 ho2 ji5 co5 gou1 hung1 diu3 ce1 wong5 faan2, sap6 fan1 gwo3 jan5.",
+          "meaning": "两部分之间游客可以坐高空吊车往返，十分过瘾。"
+        },
+        {
+          "cantonese": "山上值得一遊嘅包括以海洋動物為主題嘅海洋天地。",
+          "jyutping": "saan1 soeng6 zik6 dak1 jat1 jau4 ge3 baau1 kut3 ji5 hoi2 joeng4 dung6 mat6 wai4 zyu2 tai4 ge3 hoi2 joeng4 tin1 dei6.",
+          "meaning": "山上值得一游的包括以海洋动物为主题的海洋天地。"
+        },
+        {
+          "cantonese": "嗰度唔單止有海洋劇場，一家大細齊齊睇海豚表演，",
+          "jyutping": "go2 dou6 m4 daan1 zi2 jau5 hoi2 joeng4 kek6 coeng4, jat1 gaa1 daai6 sai3 cai4 cai4 tai2 hoi2 tyun4 biu2 jin5,",
+          "meaning": "那里不单止有海洋剧场，一家大小齐齐看海豚表演，"
+        },
+        {
+          "cantonese": "仲有機動遊戲可以玩。",
+          "jyutping": "zung6 jau5 gei1 dung6 jau4 hei3 ho2 ji5 waan2.",
+          "meaning": "还有机动游戏可以玩。"
+        },
+        {
+          "cantonese": "你夠膽咪坐上瘋狂過山車，嚇自己一餐死。",
+          "jyutping": "nei5 gau3 daam2 me6 co5 soeng5 fung1 kwong4 gwo3 saan1 ce1, haak3 zi6 gei2 jat1 caan1 sei2.",
+          "meaning": "你够胆就坐上疯狂过山车，吓自己一餐死。"
+        },
+        {
+          "cantonese": "山下入口處有海洋奇觀水族館，養養埋埋5000條五顏六色嘅魚。",
+          "jyutping": "saan1 haa6 jap6 hau2 cyu3 jau5 hoi2 joeng4 kei4 gun1 seoi2 zuk6 gun2, joeng5 joeng5 maai4 maai4 ng5 cin1 tiu4 ng5 ngaan4 luk6 sik1 ge3 jyu2.",
+          "meaning": "山下入口处有海洋奇观水族馆，养养埋埋5000条五颜六色的鱼。"
+        },
+        {
+          "cantonese": "遊客可以透過巨型嘅觀賞屏盡情欣賞。",
+          "jyutping": "jau4 haak3 ho2 ji5 tau3 gwo3 geoi6 jing4 ge3 gun1 soeng2 ping4 zeon6 cing4 jan1 soeng2.",
+          "meaning": "游客可以透过巨型的观赏屏尽情欣赏。"
+        },
+        {
+          "cantonese": "山下另一頭係懷舊「香港老大街」，代表住五十年前香港人嘅集體回憶。",
+          "jyutping": "saan1 haa6 ling6 jat1 tau4 hai6 waai4 gau6 hoeng1 gong2 lou5 daai6 gaai1, doi6 biu2 zyu6 ng5 sap6 nin4 cin4 hoeng1 gong2 jan4 ge3 zaap6 tai2 wui4 jik1.",
+          "meaning": "山下另一头是怀旧「香港老大街」，代表住五十年前香港人的集体回忆。"
+        }
+      ]
+    },
+    {
+      "title": "補充語彙（一）詞語",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "游水",
+          "jyutping": "jau4 seoi2",
+          "meaning": "游泳"
+        },
+        {
+          "cantonese": "踩單車",
+          "jyutping": "caai2 daan1 ce1",
+          "meaning": "骑自行车"
+        },
+        {
+          "cantonese": "赤柱",
+          "jyutping": "cek3 cyu5",
+          "meaning": "赤柱（地名）"
+        },
+        {
+          "cantonese": "太平山",
+          "jyutping": "taai3 ping4 saan1",
+          "meaning": "太平山"
+        },
+        {
+          "cantonese": "老襯亭",
+          "jyutping": "lou5 can3 ting4",
+          "meaning": "老衬亭"
+        },
+        {
+          "cantonese": "黃大仙",
+          "jyutping": "wong4 daai6 sin1",
+          "meaning": "黄大仙（地名）"
+        },
+        {
+          "cantonese": "飛鵝山",
+          "jyutping": "fei1 ngo4 saan1",
+          "meaning": "飞鹅山"
+        },
+        {
+          "cantonese": "郊野公園",
+          "jyutping": "gaau1 je5 gung1 jyun2",
+          "meaning": "郊野公园"
+        },
+        {
+          "cantonese": "虎豹別墅",
+          "jyutping": "fu2 paau3 bit6 seoi5",
+          "meaning": "虎豹别墅"
+        },
+        {
+          "cantonese": "旋轉餐廳",
+          "jyutping": "syun4 zyun2 caan1 teng1",
+          "meaning": "旋转餐厅"
+        },
+        {
+          "cantonese": "平民夜總會",
+          "jyutping": "ping4 man4 je6 zung2 wui2",
+          "meaning": "平民夜总会"
+        }
+      ]
+    },
+    {
+      "title": "補充語彙（二）句子",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "淺水灣係香港嘅消暑勝地。",
+          "jyutping": "cin2 seoi2 waan1 hai6 hoeng1 gong2 ge3 siu1 syu2 sing3 dei6.",
+          "meaning": "浅水湾是香港的消暑胜地。"
+        },
+        {
+          "cantonese": "離市區搭十零廿分鐘巴士就到。",
+          "jyutping": "lei4 si5 keoi1 daap3 sap6 leng4 jaa6 fan1 zung1 baa1 si2 zau6 dou3.",
+          "meaning": "离市区搭十零二十分钟巴士就到。"
+        },
+        {
+          "cantonese": "嗰度有青山綠水，環境好靚。",
+          "jyutping": "go2 dou6 jau5 cing1 saan1 luk6 seoi2, waan4 ging2 hou2 leng3.",
+          "meaning": "那里有青山绿水，环境好靓。"
+        },
+        {
+          "cantonese": "一到夏天，啲人三五成群嘅湧嚟。",
+          "jyutping": "jat1 dou3 haa6 tin1, di1 jan4 saam1 ng5 sing4 kwan4 gam2 jung2 lai4.",
+          "meaning": "一到夏天，人们三五成群地涌来。"
+        },
+        {
+          "cantonese": "游水啦，曬太陽啦，一家大細至啱玩。",
+          "jyutping": "jau4 seoi2 laa1, saai3 taai3 joeng4 laa1, jat1 gaa1 daai6 sai3 zi3 ngaam1 waan2.",
+          "meaning": "游泳啦，晒太阳啦，一家大小最适合玩。"
+        }
+      ]
+    },
+    {
+      "title": "對話",
+      "type": "dialogue",
+      "units": [
+        {
+          "cantonese": "乙：哦，香港嘅天然景點唔多，旅遊協會唔度定啲橋（「度橋」dog6 kiu2，這裏指設計或謀算新花樣、新招兒）點會吸引到多啲外地遊客吖。",
+          "jyutping": "",
+          "meaning": "乙：哦，香港的天然景点不多，旅游协会不多想些主意怎么会吸引到更多外地游客呢。",
+          "speaker": "乙"
+        },
+        {
+          "cantonese": "甲：嘅又係。照計本地旅遊係應該儘量突出香港所具有嘅中西文化結合嘅特點嘅。",
+          "jyutping": "",
+          "meaning": "甲：说得也是。照理说本地旅游是应该尽量突出香港所具有的中西文化结合的特点的。",
+          "speaker": "甲"
+        },
+        {
+          "cantonese": "乙：梗係喇，呢點無煙工業賺大錢嘛。",
+          "jyutping": "",
+          "meaning": "乙：当然了，这点无烟工业赚大钱嘛。",
+          "speaker": "乙"
+        },
+        {
+          "cantonese": "甲：嘅，嘈緊呢個六月又有乜嘢花臣（「花臣」音譯自英語fashion，這裏指花樣）呀？",
+          "jyutping": "",
+          "meaning": "甲：对，最近这个六月又有什么花样呀？",
+          "speaker": "甲"
+        },
+        {
+          "cantonese": "乙：論都諗到啦，國際龍舟邀請賽吖嘛。",
+          "jyutping": "",
+          "meaning": "乙：谁都想到了，国际龙舟邀请赛嘛。",
+          "speaker": "乙"
+        },
+        {
+          "cantonese": "甲：國際龍舟邀請賽？",
+          "jyutping": "",
+          "meaning": "甲：国际龙舟邀请赛？",
+          "speaker": "甲"
+        },
+        {
+          "cantonese": "乙：使乜講。你未見過鬼佬扒龍船咩？",
+          "jyutping": "",
+          "meaning": "乙：不用说了。你没见过外国人划龙船吗？",
+          "speaker": "乙"
+        }
+      ]
+    },
+    {
+      "title": "八 短文朗讀",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "維多利亞港係個繁華嘅港口，船隻穿梭（qun1 so1）往來，兩岸商廈林立，五光十色，別具風格。可供觀光、飲食、購物嘅旅遊點唔少。先講講九龍個便。首先有傍海（bong6 hoi2）築欄而成嘅尖東海濱公園。長長嘅散步走廊（zeo2 long4），幽靜閒敞（hoi1 cong2），係觀賞海港活動及港島容貌最理想嘅地方之一。海濱公園嗰頭係原來象徵九龍嘅尖沙咀火車站鐘樓，隔籬（gaak3 lei4）冇幾遠就係天星碼頭同埋海洋中心。嗰度有度好：靜得嚟有動感。香港呢便呢，由東望去西，有銅鑼灣嘅鬧市，有坐落喺灣仔，樓高七十八層嘅智能大廈——中環廣場，然後係中環中銀大廈以及上環港澳碼頭。太平山就正喺佢哋嘅上面。你同你個位朋友喺海拔380米嘅山頂餐廳蹲（yang3）過枱腳未？未就第日快啲去新落成嘅山頂餐廳卜位（bug1 wei2），食完晚飯，居高臨下（geu1 gou1 lem4 haa6）欣賞香港之夜嘅迷人景色真係邊度都唔使去喇。",
+          "jyutping": "",
+          "meaning": "维多利亚港是个繁华的港口，船只穿梭往来，两岸商厦林立，五光十色，别具风格。可供观光、饮食、购物的旅游点不少。先讲讲九龙那边。首先有傍海筑栏而成的尖东海滨公园。长长的散步走廊，幽静闲敞，是观赏海港活动及港岛容貌最理想的地方之一。海滨公园那头是原来象征九龙的尖沙咀火车站钟楼，隔壁不远就是天星码头和海洋中心。那里有个好处：静中有动。香港这边呢，从东望向西，有铜锣湾的闹市，有坐落在湾仔、楼高七十八层的智能大厦——中环广场，然后是中环中银大厦以及上环港澳码头。太平山就正在它们的上面。你和你那位朋友在海拔380米的山顶餐厅蹲过桌脚没有？没有就改天快点去新落成的山顶餐厅订位，吃完晚饭，居高临下欣赏香港之夜的迷人景色真是哪里都不用去了。"
+        }
+      ]
+    },
+    {
+      "title": "補充語彙 — 環保（一）詞語",
+      "type": "vocab_list",
+      "units": [
+        {
+          "cantonese": "亂拋垃圾",
+          "jyutping": "lyun6 paau1 laap6 saap3",
+          "meaning": "乱扔垃圾"
+        },
+        {
+          "cantonese": "清潔香港",
+          "jyutping": "cing1 git3 hoeng1 gong2",
+          "meaning": "清洁香港"
+        },
+        {
+          "cantonese": "垃圾分類",
+          "jyutping": "laap6 saap3 fan1 leoi6",
+          "meaning": "垃圾分类"
+        },
+        {
+          "cantonese": "公民意識",
+          "jyutping": "gung1 man4 ji3 sik1",
+          "meaning": "公民意识"
+        },
+        {
+          "cantonese": "千祈",
+          "jyutping": "cin1 kei4",
+          "meaning": "千万（表示叮嘱）"
+        }
+      ]
+    },
+    {
+      "title": "補充語彙 — 環保（二）句子",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "亂拋垃圾，人見人憎。",
+          "jyutping": "lyun6 paau1 laap6 saap3, jan4 gin3 jan4 zang1.",
+          "meaning": "乱扔垃圾，人见人憎。（谁都讨厌）"
+        },
+        {
+          "cantonese": "清潔香港，人見人愛。",
+          "jyutping": "cing1 git3 hoeng1 gong2, jan4 gin3 jan4 oi3.",
+          "meaning": "清洁香港，人见人爱。（谁都欢迎）"
+        },
+        {
+          "cantonese": "垃圾分類，停車熄匙，人見人讚。",
+          "jyutping": "laap6 saap3 fan1 leoi6, ting4 ce1 sik1 si4, jan4 gin3 jan4 zaan3.",
+          "meaning": "垃圾分类，停车熄匙，人见人赞。（谁都称赞）"
+        },
+        {
+          "cantonese": "又要有公民意識，唔好做垃圾蟲。",
+          "jyutping": "jau6 jiu3 jau5 gung1 man4 ji3 sik1, m4 hou2 zou6 laap6 saap3 cung4.",
+          "meaning": "别当反面人士而要当清洁大使。"
+        },
+        {
+          "cantonese": "千祈唔好顧住自己噃，而唔理世界難受呀。",
+          "jyutping": "cin1 kei4 m4 hou2 gu3 zyu6 zi6 gei2 tan3, ji4 m4 lei5 sai3 gaai3 naan4 sau6 aa3.",
+          "meaning": "千万别只顾自己舒适，而不理世界难受呀。"
+        }
+      ]
+    },
+    {
+      "title": "重點理解 — -m 韻尾的字",
+      "type": "reference_table",
+      "units": [
+        {
+          "cantonese": "沉：沉悶 cem4 mun6 / 深沉 sam1 cem4",
+          "jyutping": "cem4",
+          "meaning": "粤语中-m韵母的字，绝大部分都是普通话-n韵尾的字"
+        },
+        {
+          "cantonese": "金：金門 gam1 mun4 / 金針 gam1 zam1",
+          "jyutping": "gam1",
+          "meaning": ""
+        },
+        {
+          "cantonese": "鹹：鹹味 haam4 mei6 / 鹹欖 haam4 laam2",
+          "jyutping": "haam4",
+          "meaning": ""
+        },
+        {
+          "cantonese": "尖：尖尾 zim1 mei5 / 奄尖 jim1 zim1",
+          "jyutping": "zim1",
+          "meaning": ""
+        },
+        {
+          "cantonese": "臨：臨門 lam4 mun4 / 臨急 lam4 gap1",
+          "jyutping": "lam4",
+          "meaning": ""
+        },
+        {
+          "cantonese": "甜：甜蜜 tim4 mat6 / 甘甜 gam1 tim4",
+          "jyutping": "tim4",
+          "meaning": ""
+        },
+        {
+          "cantonese": "陰：陰謀 jam1 mau4 / 陰險 jam1 him2",
+          "jyutping": "jam1",
+          "meaning": ""
+        },
+        {
+          "cantonese": "心：心魔 sam1 mo1 / 擔心 daam1 sam1",
+          "jyutping": "sam1",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "title": "重點理解 — -m 與 -n 韻尾對比",
+      "type": "reference_table",
+      "units": [
+        {
+          "cantonese": "談一彈：談判 taam4 pun3 / 彈琴 taan4 kam4",
+          "jyutping": "taam4 / taan4",
+          "meaning": "普通话同音，粤语分别收-m和-n韵尾"
+        },
+        {
+          "cantonese": "減一規：減價 gaam2 gaa3 / 番規 faan1 gaan2",
+          "jyutping": "gaam2 / gaan2",
+          "meaning": ""
+        },
+        {
+          "cantonese": "針一真：針對 zam1 deoi3 / 真正 zan1 zing3",
+          "jyutping": "zam1 / zan1",
+          "meaning": ""
+        },
+        {
+          "cantonese": "感一緊：感動 gam2 dung6 / 緊要 gan2 jiu3",
+          "jyutping": "gam2 / gan2",
+          "meaning": ""
+        },
+        {
+          "cantonese": "簽一千：簽名 cim1 meng2 / 千萬 cin1 maan6",
+          "jyutping": "cim1 / cin1",
+          "meaning": ""
+        },
+        {
+          "cantonese": "鹽一研：鹽份 jim4 fan6 / 研究 jin4 gau3",
+          "jyutping": "jim4 / jin4",
+          "meaning": ""
+        },
+        {
+          "cantonese": "廉一懶：廉潔 lim4 git3 / 懶惰 lin4 man5",
+          "jyutping": "lim4 / lin4",
+          "meaning": ""
+        },
+        {
+          "cantonese": "點一典：點心 dim2 sam1 / 字典 zi6 din2",
+          "jyutping": "dim2 / din2",
+          "meaning": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "title": "地方與購物",
+  "theme": "places_shopping",
+  "level": "intermediate",
+  "sections": [
+    {
+      "title": "一 課文",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "你件衫咁靚，喺邊度買㗎？",
+          "jyutping": "nei5 gin6 saam1 gam3 leng3, hai2 bin1 dou6 maai5 gaa3?",
+          "meaning": "你件衫咁靚，喺邊度買嘅？"
+        },
+        {
+          "cantonese": "喺銅鑼灣廣場，撞啱大減價。",
+          "jyutping": "hai2 tung4 lo4 waan1 gwong2 coeng4, zong6 ngaam1 daai6 gaam2 gaa3.",
+          "meaning": "在銅鑼灣廣場，碰上大減價。"
+        },
+        {
+          "cantonese": "幾多錢呀？",
+          "jyutping": "gei2 do1 cin2 aa3?",
+          "meaning": "幾多錢呀？"
+        },
+        {
+          "cantonese": "原價成兩千文，打咗八八折仲要千七。",
+          "jyutping": "jyun4 gaa3 seng4 loeng5 cin1 man1, daa2 zo2 baat3 baat3 zit3 zung6 jiu3 cin1 cat1.",
+          "meaning": "原價成兩千文，打了八八折仲要千七。"
+        },
+        {
+          "cantonese": "好抵噃。",
+          "jyutping": "hou2 dai2 wo3.",
+          "meaning": "好抵噃。"
+        },
+        {
+          "cantonese": "不如放咗工，我哋一齊去睇吓吖。",
+          "jyutping": "bat1 jyu4 fong3 zo2 gung1, ngo5 dei6 jat1 cai4 heoi3 tai2 haa5 aa1.",
+          "meaning": "不如放了工，我們一齊去瞄下吖。"
+        },
+        {
+          "cantonese": "我冇乜錢喺身，",
+          "jyutping": "ngo5 mou5 mat1 cin2 hai2 san1,",
+          "meaning": "我冇乜錢喺身，"
+        },
+        {
+          "cantonese": "等我過就近嗰間恒生撳啲錢至得。",
+          "jyutping": "dang2 ngo5 gwo3 zau6 gan6 go2 gaan1 hang4 saang1 gam6 di1 cin2 zi3 dak1.",
+          "meaning": "等我過就近嗰間恒生撳啲錢至得。"
+        },
+        {
+          "cantonese": "使乜特登行一趟嗻，碌咭都得㗎。",
+          "jyutping": "sai2 mat1 dak6 dang1 hang4 jat1 tong3 ze1, luk1 kaat1 dou1 dak1 gaa3.",
+          "meaning": "使乜特登行一趟嗻，碌卡都得㗎。"
+        },
+        {
+          "cantonese": "係就係，之不過碌咭就冇折頭㗎喇。",
+          "jyutping": "hai6 zau6 hai6, zi1 bat1 gwo3 luk1 kaat1 zau6 mou5 zit3 tau4 gaa3 laa3.",
+          "meaning": "係就係，之不過碌咭就冇折頭㗎喇。"
+        }
+      ]
+    },
+    {
+      "title": "補充語彙 — 詞語",
+      "type": "vocab_list",
+      "units": [
+        { "cantonese": "港幣", "jyutping": "gong2 bai6", "meaning": "港幣" },
+        { "cantonese": "港紙", "jyutping": "gong2 zi2", "meaning": "港幣（口語）" },
+        { "cantonese": "人民幣", "jyutping": "jan4 man4 bai6", "meaning": "人民幣" },
+        { "cantonese": "美金", "jyutping": "mei5 gam1", "meaning": "美金" },
+        { "cantonese": "毫子", "jyutping": "hou4 zi2", "meaning": "角" },
+        { "cantonese": "大減價", "jyutping": "daai6 gaam2 gaa3", "meaning": "大減價" },
+        { "cantonese": "銀行", "jyutping": "ngan4 hong4", "meaning": "銀行" },
+        { "cantonese": "存摺", "jyutping": "cyun4 zip3", "meaning": "存摺" },
+        { "cantonese": "平", "jyutping": "peng4", "meaning": "便宜" },
+        { "cantonese": "生意", "jyutping": "saang1 ji3", "meaning": "生意" },
+        { "cantonese": "舖頭", "jyutping": "pou3 tau2", "meaning": "商店" }
+      ]
+    },
+    {
+      "title": "補充語彙 — 句子",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "我個妹至鍾意行街買嘢。",
+          "jyutping": "ngo5 go3 mui2 zi3 zung1 ji3 haang4 gaai1 maai5 je5.",
+          "meaning": "我妹妹最喜歡逛街買東西。"
+        },
+        {
+          "cantonese": "佢係逢商場必入。",
+          "jyutping": "keoi5 hai6 fung4 soeng1 coeng4 bit1 jap6.",
+          "meaning": "她什麼商場都要進去。"
+        },
+        {
+          "cantonese": "撞啱大減價，就去掃貨。",
+          "jyutping": "zong6 ngaam1 daai6 gaam2 gaa3, zau6 heoi3 sou3 fo3.",
+          "meaning": "碰上大甩賣，就使勁買。"
+        }
+      ]
+    },
+    {
+      "title": "重點理解 — 地方詞語",
+      "type": "vocab_list",
+      "units": [
+        { "cantonese": "北角碼頭", "jyutping": "bak1 gok3 maa5 tau4", "meaning": "北角碼頭" },
+        { "cantonese": "巴士總站", "jyutping": "baa1 si2 zung2 zaam6", "meaning": "公共汽車終點站" },
+        { "cantonese": "郵政局", "jyutping": "jau4 zing3 guk6", "meaning": "郵局" },
+        { "cantonese": "書局街", "jyutping": "syu1 guk6 gaai1", "meaning": "書局街" },
+        { "cantonese": "渣華道", "jyutping": "zaa1 waa4 dou6", "meaning": "渣華道" },
+        { "cantonese": "北角地鐵站", "jyutping": "bak1 gok3 dei6 tit3 zaam6", "meaning": "北角地鐵站" },
+        { "cantonese": "便利店", "jyutping": "bin6 lei6 dim3", "meaning": "便利店" },
+        { "cantonese": "戲院", "jyutping": "hei3 jyun2", "meaning": "電影院" }
+      ]
+    },
+    {
+      "title": "重點理解 — 句子",
+      "type": "numbered_sentences",
+      "units": [
+        {
+          "cantonese": "今日啲巴士離晒譜。",
+          "jyutping": "gam1 jat6 di1 baa1 si2 lei4 saai3 pou2.",
+          "meaning": "今天的公共汽車亂了套了。"
+        },
+        {
+          "cantonese": "等咗半粒鐘都冇架嚟。",
+          "jyutping": "dang2 zo2 bun3 nap1 zung1 dou1 mou5 gaa3 lai4.",
+          "meaning": "等了半小時竟然一輛也沒來。"
+        },
+        {
+          "cantonese": "你急佢唔急吖嘛。",
+          "jyutping": "nei5 gap1 keoi5 m4 gap1 aa1 maa3.",
+          "meaning": "這叫：你急他不急。"
+        }
+      ]
+    },
+    {
+      "title": "重點理解 — 韻母字例",
+      "type": "reference_table",
+      "units": [
+        { "cantonese": "聽（話）", "jyutping": "teng1 (waa6)", "meaning": "eng 韻母" },
+        { "cantonese": "青靚（白）淨", "jyutping": "ceng1 leng3 (baak6) zeng6", "meaning": "eng 韻母" },
+        { "cantonese": "司儀", "jyutping": "si1 ji4", "meaning": "i 韻母" },
+        { "cantonese": "芝士", "jyutping": "zi1 si2", "meaning": "i 韻母" },
+        { "cantonese": "嬌小", "jyutping": "giu1 siu2", "meaning": "iu 韻母" },
+        { "cantonese": "照料", "jyutping": "ziu3 liu6", "meaning": "iu 韻母" },
+        { "cantonese": "奄尖", "jyutping": "jim1 zim1", "meaning": "im 韻母" },
+        { "cantonese": "沾染", "jyutping": "zim1 jim5", "meaning": "im 韻母" },
+        { "cantonese": "見面", "jyutping": "gin3 min6", "meaning": "in 韻母" },
+        { "cantonese": "天然", "jyutping": "tin1 jin4", "meaning": "in 韻母" },
+        { "cantonese": "應承", "jyutping": "jing1 sing4", "meaning": "ing 韻母" },
+        { "cantonese": "清蒸", "jyutping": "cing1 zing1", "meaning": "ing 韻母" },
+        { "cantonese": "囉嗦", "jyutping": "lo1 so1", "meaning": "o 韻母" },
+        { "cantonese": "婆婆", "jyutping": "po4 po2", "meaning": "o 韻母" },
+        { "cantonese": "開枱", "jyutping": "hoi1 toi2", "meaning": "oi 韻母" },
+        { "cantonese": "內在", "jyutping": "noi6 zoi6", "meaning": "oi 韻母" },
+        { "cantonese": "粗魯", "jyutping": "cou1 lou5", "meaning": "ou 韻母" },
+        { "cantonese": "好做", "jyutping": "hou2 zou6", "meaning": "ou 韻母" },
+        { "cantonese": "乾旱", "jyutping": "gon1 hon5", "meaning": "on 韻母" },
+        { "cantonese": "流汗", "jyutping": "lau4 hon6", "meaning": "on 韻母" },
+        { "cantonese": "當堂", "jyutping": "dong1 tong4", "meaning": "ong 韻母" },
+        { "cantonese": "幫忙", "jyutping": "bong1 mong4", "meaning": "ong 韻母" },
+        { "cantonese": "侏儒", "jyutping": "zyu1 jyu4", "meaning": "yu 韻母" },
+        { "cantonese": "乳豬", "jyutping": "jyu5 zyu1", "meaning": "yu 韻母" },
+        { "cantonese": "完全", "jyutping": "jyun4 cyun4", "meaning": "yun 韻母" },
+        { "cantonese": "轉圈", "jyutping": "zyun3 hyun1", "meaning": "yun 韻母" }
+      ]
+    }
+  ]
+}
