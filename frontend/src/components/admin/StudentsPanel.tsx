@@ -91,7 +91,7 @@ export default function StudentsPanel() {
       {/* Header */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-5">
         <div>
-          <h2 style={{ fontFamily: "var(--font-serif)", fontSize: "22px", fontWeight: 700, margin: 0 }}>學生管理</h2>
+          <h2 className="page-title" style={{ fontFamily: "var(--font-serif)", fontSize: "22px", fontWeight: 700, margin: 0 }}>學生管理</h2>
           <p style={{ fontSize: "12px", color: "var(--color-warm-text-secondary)", margin: "2px 0 0" }}>{students.length} 位學生</p>
         </div>
         <button
@@ -158,7 +158,7 @@ export default function StudentsPanel() {
               <div key={s.id} className="rounded-xl overflow-hidden transition-all" style={{ background: "var(--color-warm-card)", border: "1px solid var(--color-warm-border)" }}>
                 {/* Collapsed row — always visible */}
                 <div
-                  className="flex items-center gap-3 px-4 py-3 cursor-pointer transition-colors hover:bg-[var(--color-warm-surface)]"
+                  className="flex items-center gap-2.5 sm:gap-3 px-3 sm:px-4 py-3 cursor-pointer transition-colors hover:bg-[var(--color-warm-surface)]"
                   onClick={() => setExpandedId(isExpanded ? null : s.id)}
                 >
                   <div className="w-9 h-9 rounded-full flex items-center justify-center shrink-0" style={{ background: "var(--color-beige)", fontFamily: "var(--font-serif)", fontWeight: 700, fontSize: "14px" }}>
@@ -169,7 +169,7 @@ export default function StudentsPanel() {
                       <span style={{ fontWeight: 600, fontSize: "14px" }}>{s.name}</span>
                       <span style={{ fontSize: "11px", color: "var(--color-warm-text-hint)" }}>@{s.username}</span>
                     </div>
-                    <div className="flex items-center gap-3 mt-0.5" style={{ fontSize: "12px", color: "var(--color-warm-text-secondary)" }}>
+                    <div className="flex items-center gap-2 sm:gap-3 mt-0.5 flex-wrap" style={{ fontSize: "11px", color: "var(--color-warm-text-secondary)" }}>
                       {s.phone && <span>{s.phone}</span>}
                       <span>{s.level}</span>
                       <span>{s.lesson_ids.length} 門課</span>
@@ -188,34 +188,34 @@ export default function StudentsPanel() {
                 {isExpanded && (
                   <div className="px-4 pb-4 pt-3" style={{ borderTop: "1px solid var(--color-warm-border)" }}>
                     {/* Action buttons row */}
-                    <div className="flex flex-wrap items-center gap-2 mb-3" style={{ minHeight: "34px" }}>
+                    <div className="flex flex-wrap items-center gap-2 mb-3" style={{ minHeight: "40px" }}>
                       {/* Credits */}
                       {editingCredits === s.id ? (
-                        <div className="flex items-center gap-1">
-                          <input type="number" value={creditAmount} onChange={(e) => setCreditAmount(e.target.value)} placeholder="+5 或 -1" className="w-20 px-2 rounded-lg text-sm" style={{ height: "32px", border: "1px solid var(--color-warm-border)", background: "var(--color-warm-bg)", outline: "none" }} autoFocus />
-                          <button onClick={() => handleAddCredits(s.id)} className="cursor-pointer px-2.5 rounded-lg text-xs" style={{ height: "32px", background: "var(--color-sage)", color: "white", border: "none" }}>確認</button>
-                          <button onClick={() => setEditingCredits(null)} className="cursor-pointer px-1.5 rounded-lg text-xs" style={{ height: "32px", background: "none", color: "var(--color-warm-text-hint)", border: "none" }}>✕</button>
+                        <div className="flex items-center gap-1.5">
+                          <input type="number" value={creditAmount} onChange={(e) => setCreditAmount(e.target.value)} placeholder="+5 或 -1" className="w-20 px-2 rounded-lg text-sm" style={{ height: "40px", border: "1px solid var(--color-warm-border)", background: "var(--color-warm-bg)", outline: "none" }} autoFocus />
+                          <button onClick={() => handleAddCredits(s.id)} className="cursor-pointer px-3 rounded-lg text-xs" style={{ height: "40px", background: "var(--color-sage)", color: "white", border: "none" }}>確認</button>
+                          <button onClick={() => setEditingCredits(null)} className="cursor-pointer px-2 rounded-lg text-xs" style={{ height: "40px", background: "none", color: "var(--color-warm-text-hint)", border: "none" }}>✕</button>
                         </div>
                       ) : (
-                        <button onClick={() => setEditingCredits(s.id)} className="cursor-pointer text-xs px-3 rounded-lg" style={{ height: "32px", color: "var(--color-warm-text-secondary)", background: "none", border: "1px solid var(--color-warm-border)" }}>
+                        <button onClick={() => setEditingCredits(s.id)} className="cursor-pointer text-xs px-3 rounded-lg" style={{ height: "40px", color: "var(--color-warm-text-secondary)", background: "none", border: "1px solid var(--color-warm-border)" }}>
                           充值/扣減課時
                         </button>
                       )}
 
                       {/* Password */}
                       {editingPw === s.id ? (
-                        <div className="flex items-center gap-1">
-                          <input type="text" value={newPw} onChange={(e) => setNewPw(e.target.value)} placeholder="新密碼" className="w-28 px-2 rounded-lg text-sm" style={{ height: "32px", border: "1px solid var(--color-warm-border)", background: "var(--color-warm-bg)", outline: "none" }} autoFocus />
-                          <button onClick={() => handleResetPw(s.id)} className="cursor-pointer px-2.5 rounded-lg text-xs" style={{ height: "32px", background: "var(--color-blue)", color: "white", border: "none" }}>重置</button>
-                          <button onClick={() => { setEditingPw(null); setNewPw(""); }} className="cursor-pointer px-1.5 rounded-lg text-xs" style={{ height: "32px", background: "none", color: "var(--color-warm-text-hint)", border: "none" }}>✕</button>
+                        <div className="flex items-center gap-1.5">
+                          <input type="text" value={newPw} onChange={(e) => setNewPw(e.target.value)} placeholder="新密碼" className="w-28 px-2 rounded-lg text-sm" style={{ height: "40px", border: "1px solid var(--color-warm-border)", background: "var(--color-warm-bg)", outline: "none" }} autoFocus />
+                          <button onClick={() => handleResetPw(s.id)} className="cursor-pointer px-3 rounded-lg text-xs" style={{ height: "40px", background: "var(--color-blue)", color: "white", border: "none" }}>重置</button>
+                          <button onClick={() => { setEditingPw(null); setNewPw(""); }} className="cursor-pointer px-2 rounded-lg text-xs" style={{ height: "40px", background: "none", color: "var(--color-warm-text-hint)", border: "none" }}>✕</button>
                         </div>
                       ) : (
-                        <button onClick={() => setEditingPw(s.id)} className="cursor-pointer text-xs px-3 rounded-lg" style={{ height: "32px", color: "var(--color-warm-text-secondary)", background: "none", border: "1px solid var(--color-warm-border)" }}>
+                        <button onClick={() => setEditingPw(s.id)} className="cursor-pointer text-xs px-3 rounded-lg" style={{ height: "40px", color: "var(--color-warm-text-secondary)", background: "none", border: "1px solid var(--color-warm-border)" }}>
                           重置密碼
                         </button>
                       )}
 
-                      <button onClick={() => handleDelete(s.id)} className="cursor-pointer text-xs px-3 rounded-lg" style={{ height: "32px", color: "var(--color-terracotta)", background: "none", border: "1px solid rgba(217,119,87,0.3)" }}>
+                      <button onClick={() => handleDelete(s.id)} className="cursor-pointer text-xs px-3 rounded-lg" style={{ height: "40px", color: "var(--color-terracotta)", background: "none", border: "1px solid rgba(217,119,87,0.3)" }}>
                         刪除學生
                       </button>
                     </div>
@@ -224,8 +224,8 @@ export default function StudentsPanel() {
                     <div className="mb-4">
                       <div className="text-xs mb-1" style={{ color: "var(--color-warm-text-secondary)" }}>預約鏈接</div>
                       <div
-                        className="px-3 py-2 rounded-lg text-xs break-all flex items-center gap-2 transition-colors cursor-pointer"
-                        style={{ background: copiedId === s.id ? "rgba(189,210,203,0.3)" : "var(--color-warm-bg)", color: "var(--color-blue)", fontFamily: "var(--font-mono)" }}
+                        className="px-3 py-2.5 rounded-lg break-all flex items-center gap-2 transition-colors cursor-pointer"
+                        style={{ background: copiedId === s.id ? "rgba(189,210,203,0.3)" : "var(--color-warm-bg)", color: "var(--color-blue)", fontFamily: "var(--font-mono)", fontSize: "11px" }}
                         onClick={() => copyLink(s.id, `${baseUrl}/book/${s.booking_token}`)}
                       >
                         <span className="flex-1">{baseUrl}/book/{s.booking_token}</span>
@@ -248,7 +248,7 @@ export default function StudentsPanel() {
                         </button>
                       </div>
                       {assigningId === s.id ? (
-                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-1">
+                        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-1">
                           {lessons.map((l) => (
                             <label key={l.id} className="flex items-center gap-1.5 text-xs cursor-pointer py-1 px-2 rounded-lg hover:bg-[var(--color-warm-surface)]">
                               <input type="checkbox" checked={s.lesson_ids.includes(l.id)} onChange={(e) => handleAssign(s.id, l.id, e.target.checked)} />

@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session, joinedload
 
 from ..database import get_db
-from ..models import User, Lesson, Section, TextUnit, LessonAssignment, StudentProfile
+from ..models import User, Lesson, Section, TextUnit, Recording, LessonAssignment, StudentProfile
 from ..auth import get_current_user
 from ..schemas import LessonSummary, LessonDetail, SectionOut, TextUnitOut
 
@@ -24,33 +24,44 @@ def list_lessons(db: Session = Depends(get_db), user: User = Depends(get_current
         result = []
         for a in assignments:
             lesson = a.lesson
-            section_count = len(lesson.sections)
-            unit_count = sum(len(s.units) for s in lesson.sections)
+            units = [u for s in lesson.sections for u in s.units]
+            rec_count = sum(1 for u in units if u.recording is not None)
             result.append(LessonSummary(
                 id=lesson.id,
                 title=lesson.title,
                 theme=lesson.theme,
                 level=lesson.level,
                 sort_order=lesson.sort_order,
-                section_count=section_count,
-                unit_count=unit_count,
+                section_count=len(lesson.sections),
+                unit_count=len(units),
+                recording_count=rec_count,
                 assigned_at=a.assigned_at.isoformat() if a.assigned_at else None,
             ))
         return result
 
-    lessons = db.query(Lesson).order_by(Lesson.sort_order).all()
+    lessons = (
+        db.query(Lesson)
+        .options(
+            joinedload(Lesson.sections)
+            .joinedload(Section.units)
+            .joinedload(TextUnit.recording)
+        )
+        .order_by(Lesson.sort_order)
+        .all()
+    )
     result = []
     for lesson in lessons:
-        section_count = len(lesson.sections)
-        unit_count = sum(len(s.units) for s in lesson.sections)
+        units = [u for s in lesson.sections for u in s.units]
+        rec_count = sum(1 for u in units if u.recording is not None)
         result.append(LessonSummary(
             id=lesson.id,
             title=lesson.title,
             theme=lesson.theme,
             level=lesson.level,
             sort_order=lesson.sort_order,
-            section_count=section_count,
-            unit_count=unit_count,
+            section_count=len(lesson.sections),
+            unit_count=len(units),
+            recording_count=rec_count,
         ))
     return result
 

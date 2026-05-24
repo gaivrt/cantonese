@@ -168,16 +168,16 @@ export default function BookingPage() {
                       <button
                         key={d}
                         onClick={() => setSelectedDate(d)}
-                        className="shrink-0 cursor-pointer flex flex-col items-center px-3 py-2.5 rounded-xl transition-all"
+                        className="shrink-0 cursor-pointer flex flex-col items-center px-2.5 sm:px-3 py-2 sm:py-2.5 rounded-xl transition-all"
                         style={{
-                          minWidth: "64px",
+                          minWidth: "56px",
                           background: active ? "var(--color-terracotta)" : "var(--color-warm-card)",
                           color: active ? "white" : "var(--color-warm-text)",
                           border: isTd && !active ? "2px solid var(--color-terracotta)" : "2px solid transparent",
                         }}
                       >
                         <span style={{ fontSize: "10px", opacity: 0.7 }}>{info.month}</span>
-                        <span style={{ fontFamily: "var(--font-serif)", fontSize: "20px", fontWeight: 700, lineHeight: 1.2 }}>{info.day}</span>
+                        <span style={{ fontFamily: "var(--font-serif)", fontSize: "18px", fontWeight: 700, lineHeight: 1.2 }}>{info.day}</span>
                         <span style={{ fontSize: "11px", opacity: 0.7 }}>{info.weekday}</span>
                         <div className="flex gap-0.5 mt-1">
                           {dateGroups[d].map((_, i) => (
@@ -194,7 +194,7 @@ export default function BookingPage() {
                     <h3 className="mb-3" style={{ fontFamily: "var(--font-serif)", fontSize: "15px", fontWeight: 600, color: "var(--color-warm-text-secondary)" }}>
                       {fmtDateFull(selectedSlots[0].start_time)}
                     </h3>
-                    <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2">
                       {selectedSlots.map((s) => (
                         <button
                           key={s.id}
@@ -203,10 +203,10 @@ export default function BookingPage() {
                           className="cursor-pointer rounded-xl py-4 px-3 text-center transition-all disabled:opacity-40 hover:scale-[1.02]"
                           style={{ background: "rgba(189, 210, 203, 0.25)", border: "1px solid rgba(189, 210, 203, 0.5)" }}
                         >
-                          <span style={{ fontFamily: "var(--font-serif)", fontSize: "18px", fontWeight: 700 }}>
+                          <span style={{ fontFamily: "var(--font-serif)", fontSize: "16px", fontWeight: 700 }}>
                             {fmtTime(s.start_time)}
                           </span>
-                          <span style={{ fontSize: "13px", color: "var(--color-warm-text-secondary)", display: "block", marginTop: "2px" }}>
+                          <span style={{ fontSize: "12px", color: "var(--color-warm-text-secondary)", display: "block", marginTop: "2px" }}>
                             – {fmtTime(s.end_time)}
                           </span>
                         </button>
@@ -222,7 +222,7 @@ export default function BookingPage() {
                 <h3 className="mb-3" style={{ fontFamily: "var(--font-serif)", fontSize: "15px", fontWeight: 600 }}>即將上課</h3>
                 <div className="space-y-2">
                   {confirmedBookings.map((s) => (
-                    <div key={s.id} className="flex items-center justify-between gap-2 rounded-lg px-4 py-3" style={{ background: "rgba(106, 156, 205, 0.1)", borderLeft: "3px solid #6a9ccd" }}>
+                    <div key={s.id} className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 rounded-lg px-4 py-3" style={{ background: "rgba(106, 156, 205, 0.1)", borderLeft: "3px solid #6a9ccd" }}>
                       <span style={{ fontFamily: "var(--font-serif)", fontSize: "14px" }}>
                         {fmtDateFull(s.start_time)} {fmtTime(s.start_time)} – {fmtTime(s.end_time)}
                       </span>
@@ -231,7 +231,7 @@ export default function BookingPage() {
                         {canCancel(s.start_time) ? (
                           <button
                             onClick={() => handleCancel(s.id)}
-                            className="cursor-pointer text-xs px-2 py-1 rounded-lg"
+                            className="cursor-pointer text-xs px-3 py-2 sm:px-2 sm:py-1 rounded-lg"
                             style={{ color: "var(--color-warm-text-hint)", background: "none", border: "1px solid var(--color-warm-border)" }}
                           >
                             取消

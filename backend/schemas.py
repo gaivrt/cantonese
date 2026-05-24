@@ -48,6 +48,7 @@ class LessonSummary(BaseModel):
     sort_order: int
     section_count: int = 0
     unit_count: int = 0
+    recording_count: int = 0
     assigned_at: str | None = None
 
     class Config:

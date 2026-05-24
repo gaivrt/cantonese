@@ -18,7 +18,7 @@ export default function LoginPage() {
     try {
       const res = await api.login(username, password);
       login(res.token, res.role, res.name);
-      navigate("/");
+      navigate(res.role === "admin" ? "/admin" : "/");
     } catch (err: any) {
       setError(err.message || "登錄失敗");
     } finally {

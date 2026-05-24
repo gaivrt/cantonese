@@ -24,12 +24,12 @@ export default function SectionHeader({ title, children }: Props) {
         >
           ▶
         </span>
-        <h3 style={{ fontFamily: "var(--font-serif)", fontSize: "16px", fontWeight: 700, color: "var(--color-warm-text)", margin: 0 }}>
+        <h3 className="section-title" style={{ fontFamily: "var(--font-serif)", fontSize: "16px", fontWeight: 700, color: "var(--color-warm-text)", margin: 0 }}>
           {title}
         </h3>
       </button>
       {open && (
-        <div className="pl-5" style={{ borderLeft: "1.5px solid var(--color-warm-border)" }}>
+        <div className="sm:pl-5 sm:border-l-[1.5px]" style={{ borderColor: "var(--color-warm-border)" }}>
           {children}
         </div>
       )}

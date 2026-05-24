@@ -34,7 +34,7 @@ export interface MeResponse { name: string; role: string; credits: number | null
 export interface LessonSummary {
   id: number; title: string; theme: string; level: string;
   sort_order: number; section_count: number; unit_count: number;
-  assigned_at?: string;
+  recording_count: number; assigned_at?: string;
 }
 
 export interface TextUnit {

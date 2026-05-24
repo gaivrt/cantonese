@@ -43,4 +43,22 @@ input:focus, button:focus-visible {
 
 @media (max-width: 640px) {
   html { font-size: 15px; }
+  .page-title { font-size: 24px !important; }
+  .section-title { font-size: 14px !important; }
+  .jyutping-ruby { font-size: 10px !important; }
+}
+
+@media (min-width: 641px) and (max-width: 1024px) {
+  .page-title { font-size: 28px !important; }
+}
+
+@media (hover: none) {
+  .touch-visible {
+    opacity: 1 !important;
+  }
+}
+
+body.dragging {
+  overflow: hidden;
+  overscroll-behavior: none;
 }

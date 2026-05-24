@@ -31,7 +31,7 @@ export default function VocabTableRenderer({ units }: { units: TextUnit[] }) {
   }
 
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2">
       {units.map((unit) => (
         <TextUnitWrapper key={unit.id} unitId={unit.id} hasRecording={unit.has_recording}>
           <div className="rounded-lg px-3 py-2.5 sm:px-4 sm:py-3" style={{ background: "rgba(228, 219, 205, 0.3)" }}>

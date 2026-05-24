@@ -12,20 +12,28 @@ function ProtectedRoute({ children }: { children: React.ReactNode }) {
   return <>{children}</>;
 }
 
+function AdminRedirect({ children }: { children: React.ReactNode }) {
+  const { role } = useAuth();
+  if (role === "admin") return <Navigate to="/admin" replace />;
+  return <>{children}</>;
+}
+
 function AppRoutes() {
-  const { isLoggedIn } = useAuth();
+  const { isLoggedIn, role } = useAuth();
 
   return (
     <Routes>
       <Route
         path="/login"
-        element={isLoggedIn ? <Navigate to="/" replace /> : <LoginPage />}
+        element={isLoggedIn ? <Navigate to={role === "admin" ? "/admin" : "/"} replace /> : <LoginPage />}
       />
       <Route
         path="/"
         element={
           <ProtectedRoute>
-            <LessonListPage />
+            <AdminRedirect>
+              <LessonListPage />
+            </AdminRedirect>
           </ProtectedRoute>
         }
       />

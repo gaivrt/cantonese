@@ -47,7 +47,7 @@ export default function LessonListPage() {
           <h1 style={{ fontFamily: "var(--font-serif)", fontSize: "18px", fontWeight: 700 }}>
             🧊 冰紅茶粵語課堂
           </h1>
-          <div className="flex items-center gap-3" style={{ fontSize: "13px" }}>
+          <div className="flex items-center gap-2 sm:gap-3 flex-wrap justify-end" style={{ fontSize: "13px" }}>
             <span style={{ color: "var(--color-warm-text-secondary)" }}>{name}</span>
             {role === "student" && credits !== null && (
               <span className="px-2 py-0.5 rounded-full text-xs" style={{ background: credits >= 3 ? "rgba(189,210,203,0.3)" : "rgba(217,119,87,0.1)", color: credits >= 3 ? "#3d7565" : "var(--color-terracotta)", fontWeight: 600 }}>
@@ -77,7 +77,7 @@ export default function LessonListPage() {
 
       <main className="max-w-3xl mx-auto px-4 sm:px-6 py-10">
         <div className="mb-10">
-          <h2 style={{ fontFamily: "var(--font-serif)", fontSize: "32px", fontWeight: 700, lineHeight: 1.2 }}>
+          <h2 className="page-title" style={{ fontFamily: "var(--font-serif)", fontSize: "32px", fontWeight: 700, lineHeight: 1.2 }}>
             教材
           </h2>
           <p style={{ fontSize: "13px", color: "var(--color-warm-text-secondary)", marginTop: "6px", letterSpacing: "0.03em" }}>
@@ -97,13 +97,11 @@ export default function LessonListPage() {
                 <Link
                   key={lesson.id}
                   to={`/lessons/${lesson.id}`}
-                  className="no-underline flex items-center gap-4 sm:gap-5 py-4 sm:py-5 transition-all duration-200"
+                  className="no-underline flex items-center gap-3 sm:gap-5 py-3.5 sm:py-5 transition-all duration-200 hover:pl-2 hover:bg-[var(--color-warm-card)]"
                   style={{
                     borderBottom: "1px solid var(--color-warm-border)",
                     color: "var(--color-warm-text)",
                   }}
-                  onMouseEnter={(e) => { e.currentTarget.style.paddingLeft = "8px"; e.currentTarget.style.background = "var(--color-warm-card)"; }}
-                  onMouseLeave={(e) => { e.currentTarget.style.paddingLeft = "0"; e.currentTarget.style.background = "transparent"; }}
                 >
                   {/* Number */}
                   <span className="shrink-0" style={{ fontFamily: "var(--font-serif)", fontSize: "13px", color: "var(--color-warm-text-hint)", width: "24px", textAlign: "right" }}>
@@ -111,14 +109,14 @@ export default function LessonListPage() {
                   </span>
 
                   {/* Icon */}
-                  <span className="shrink-0" style={{ fontSize: "28px" }}>{meta.icon}</span>
+                  <span className="shrink-0 text-xl sm:text-3xl">{meta.icon}</span>
 
                   {/* Info */}
                   <div className="flex-1 min-w-0">
-                    <h3 className="truncate" style={{ fontFamily: "var(--font-serif)", fontSize: "17px", fontWeight: 700, margin: 0 }}>
+                    <h3 className="truncate" style={{ fontFamily: "var(--font-serif)", fontSize: "15px", fontWeight: 700, margin: 0 }}>
                       {lesson.title}
                     </h3>
-                    <div className="flex items-center gap-2 mt-1 flex-wrap" style={{ fontSize: "12px", color: "var(--color-warm-text-secondary)" }}>
+                    <div className="flex items-center gap-1.5 sm:gap-2 mt-1 flex-wrap" style={{ fontSize: "11px", color: "var(--color-warm-text-secondary)" }}>
                       <span>{meta.desc}</span>
                       <span style={{ color: "var(--color-warm-text-hint)" }}>·</span>
                       <span>{lesson.section_count} 章</span>

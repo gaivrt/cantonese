@@ -60,6 +60,7 @@ export default function JyutpingText({ cantonese, jyutping, charSize = 18, class
             }}
           >
             <span
+              className="jyutping-ruby"
               style={{
                 fontSize: "11px",
                 fontFamily: "var(--font-sans)",

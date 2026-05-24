@@ -2,7 +2,7 @@ import type { TextUnit } from "../../../lib/api";
 
 export default function DiscussionRenderer({ units }: { units: TextUnit[] }) {
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2">
       {units.map((unit, i) => (
         <div
           key={unit.id}

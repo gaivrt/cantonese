@@ -14,11 +14,32 @@ function addDays(d: Date, n: number) {
   const r = new Date(d); r.setDate(r.getDate() + n); return r;
 }
 
-const HOUR_H = 52;
 const START_H = 13;
 const END_H = 24;
 const TOTAL_H = END_H - START_H;
-const LABEL_W = 56;
+
+const HEADER_OVERHEAD = 260;
+
+function useCalendarSize() {
+  const [dims, setDims] = useState({ w: window.innerWidth, h: window.innerHeight });
+  useEffect(() => {
+    const onResize = () => setDims({ w: window.innerWidth, h: window.innerHeight });
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  }, []);
+
+  const isTouch = typeof window !== "undefined" && window.matchMedia("(hover: none)").matches;
+  const labelW = dims.w < 640 ? 40 : 56;
+
+  if (isTouch) {
+    const availH = dims.h - HEADER_OVERHEAD;
+    const hourH = Math.max(36, Math.min(Math.floor(availH / TOTAL_H), 80));
+    const gridFits = hourH * TOTAL_H <= availH;
+    return { hourH, labelW, gridFits, isTouch };
+  }
+
+  return { hourH: dims.w < 640 ? 44 : 52, labelW, gridFits: false, isTouch: false };
+}
 
 const ST: Record<string, { bg: string; bd: string; tx: string; glow: string }> = {
   available: { bg: "linear-gradient(135deg, rgba(189,210,203,0.5), rgba(189,210,203,0.35))", bd: "#8cbcab", tx: "#3d7565", glow: "rgba(189,210,203,0.3)" },
@@ -28,6 +49,7 @@ const ST: Record<string, { bg: string; bd: string; tx: string; glow: string }> =
 };
 
 export default function SchedulingPanel() {
+  const { hourH: HOUR_H, labelW: LABEL_W, gridFits, isTouch } = useCalendarSize();
   const [slots, setSlots] = useState<TimeSlotOut[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
@@ -35,6 +57,7 @@ export default function SchedulingPanel() {
     const d = new Date(); d.setDate(d.getDate() - d.getDay() + 1); d.setHours(0, 0, 0, 0); return d;
   });
 
+  const [activeSlotId, setActiveSlotId] = useState<number | null>(null);
   const [dragCol, setDragCol] = useState<string | null>(null);
   const [dragA, setDragA] = useState<number | null>(null);
   const [dragB, setDragB] = useState<number | null>(null);
@@ -83,21 +106,54 @@ export default function SchedulingPanel() {
     return idx >= 0 && idx < 7 ? days[idx].date : null;
   };
 
+  const longPressTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const longPressOrigin = useRef<{ col: string; startM: number; startY: number; pointerId: number } | null>(null);
+
+  const startDragMode = (col: string, m: number, el: HTMLElement, pointerId: number) => {
+    el.setPointerCapture(pointerId);
+    setDragCol(col); setDragA(m); setDragB(m);
+    document.body.classList.add("dragging");
+  };
+
+  const clearLongPress = () => {
+    if (longPressTimer.current) { clearTimeout(longPressTimer.current); longPressTimer.current = null; }
+    longPressOrigin.current = null;
+  };
+
   const onPointerDown = (e: React.PointerEvent) => {
     if (e.button !== 0 || (e.target as HTMLElement).closest("[data-slot]")) return;
+    setActiveSlotId(null);
     const col = getDateFromX(e.clientX);
     if (!col) return;
-    (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId);
     const m = getMinFromY(e.clientY, "floor");
-    setDragCol(col); setDragA(m); setDragB(m);
+
+    if (!isTouch || gridFits) {
+      startDragMode(col, m, e.currentTarget as HTMLElement, e.pointerId);
+    } else {
+      longPressOrigin.current = { col, startM: m, startY: e.clientY, pointerId: e.pointerId };
+      longPressTimer.current = setTimeout(() => {
+        if (!longPressOrigin.current) return;
+        const p = longPressOrigin.current;
+        if (gridRef.current) startDragMode(p.col, p.startM, gridRef.current, p.pointerId);
+        longPressOrigin.current = null;
+        longPressTimer.current = null;
+        navigator.vibrate?.(15);
+      }, 400);
+    }
   };
 
   const onPointerMove = (e: React.PointerEvent) => {
+    if (longPressOrigin.current) {
+      if (Math.abs(e.clientY - longPressOrigin.current.startY) > 10) clearLongPress();
+      return;
+    }
     if (dragCol === null) return;
     setDragB(getMinFromY(e.clientY));
   };
 
   const onPointerUp = async () => {
+    clearLongPress();
+    document.body.classList.remove("dragging");
     if (dragCol === null || dragA === null || dragB === null) { setDragCol(null); return; }
     const minS = Math.min(dragA, dragB), minE = Math.max(dragA, dragB);
     setDragCol(null); setDragA(null); setDragB(null);
@@ -134,13 +190,13 @@ export default function SchedulingPanel() {
       {/* Header */}
       <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-3 mb-5">
         <div>
-          <h2 style={{ fontFamily: "var(--font-serif)", fontSize: "26px", fontWeight: 700, margin: 0, lineHeight: 1.2 }}>排課</h2>
+          <h2 className="page-title" style={{ fontFamily: "var(--font-serif)", fontSize: "26px", fontWeight: 700, margin: 0, lineHeight: 1.2 }}>排課</h2>
           <p style={{ fontSize: "13px", color: "var(--color-warm-text-secondary)", margin: "4px 0 0" }}>
             {weekStart.getMonth() + 1}月{weekStart.getDate()}日 – {addDays(weekStart, 6).getMonth() + 1}月{addDays(weekStart, 6).getDate()}日
           </p>
         </div>
-        <div className="flex items-center gap-5">
-          <div className="flex items-center gap-4" style={{ fontSize: "12px" }}>
+        <div className="flex items-center gap-3 sm:gap-5">
+          <div className="flex items-center gap-2 sm:gap-4" style={{ fontSize: "11px" }}>
             <span className="flex items-center gap-1.5">
               <span className="w-2.5 h-2.5 rounded-full" style={{ background: "#8cbcab" }} />
               <span style={{ color: "var(--color-warm-text-secondary)" }}>{stats.av} 可約</span>
@@ -179,14 +235,13 @@ export default function SchedulingPanel() {
                 className="flex-1 flex flex-col items-center py-3 transition-colors"
                 style={{ borderLeft: "1px solid var(--color-warm-border)" }}
               >
-                <span style={{ fontSize: "11px", color: d.isWeekend ? "var(--color-terracotta)" : "var(--color-warm-text-secondary)", letterSpacing: "0.06em", fontWeight: 500 }}>
+                <span className="text-[10px] sm:text-[11px]" style={{ color: d.isWeekend ? "var(--color-terracotta)" : "var(--color-warm-text-secondary)", letterSpacing: "0.06em", fontWeight: 500 }}>
                   {d.weekday}
                 </span>
                 <span
-                  className="flex items-center justify-center rounded-full mt-1 transition-all"
+                  className="flex items-center justify-center rounded-full mt-1 transition-all w-8 h-8 sm:w-9 sm:h-9 text-sm sm:text-lg"
                   style={{
-                    width: 36, height: 36,
-                    fontFamily: "var(--font-serif)", fontSize: "18px", fontWeight: isT ? 700 : 500,
+                    fontFamily: "var(--font-serif)", fontWeight: isT ? 700 : 500,
                     color: isT ? "white" : "var(--color-warm-text)",
                     background: isT ? "var(--color-terracotta)" : "transparent",
                   }}
@@ -199,16 +254,20 @@ export default function SchedulingPanel() {
           })}
         </div>
 
-        {/* Time grid (scrollable) */}
+        {/* Time grid */}
         <div
           ref={scrollRef}
-          className="overflow-y-auto overflow-x-hidden"
-          style={{ maxHeight: "calc(100vh - 260px)", minHeight: "400px" }}
+          className={gridFits ? "overflow-hidden" : "overflow-y-auto overflow-x-hidden"}
+          style={gridFits ? undefined : { maxHeight: `calc(100vh - ${HEADER_OVERHEAD}px)`, minHeight: "400px" }}
         >
           <div
             ref={gridRef}
             className="flex relative select-none"
-            style={{ height: TOTAL_H * HOUR_H, touchAction: dragCol ? "none" : "pan-y" }}
+            style={{
+              height: TOTAL_H * HOUR_H,
+              touchAction: (gridFits || dragCol) ? "none" : "auto",
+              overscrollBehavior: "none",
+            }}
             onPointerDown={onPointerDown}
             onPointerMove={onPointerMove}
             onPointerUp={onPointerUp}
@@ -223,7 +282,7 @@ export default function SchedulingPanel() {
                     <span
                       style={{
                         fontFamily: "var(--font-serif)",
-                        fontSize: "12px",
+                        fontSize: LABEL_W < 50 ? "10px" : "12px",
                         fontWeight: isCurrent ? 700 : 400,
                         color: isCurrent ? "var(--color-terracotta)" : "var(--color-warm-text-secondary)",
                       }}
@@ -277,45 +336,27 @@ export default function SchedulingPanel() {
                     const isPast = ed.getTime() < Date.now();
                     const visualStatus = (s.status === "booked" && isPast) ? "completed" : s.status;
                     const c = ST[visualStatus] || ST.available;
+                    const isActive = activeSlotId === s.id;
                     return (
                       <div
                         key={s.id}
                         data-slot
-                        className="absolute overflow-hidden group transition-all duration-200 hover:scale-[1.02] hover:z-20 cursor-default"
+                        className="absolute overflow-hidden rounded-lg cursor-pointer transition-all duration-150"
                         style={{
                           top: top + 1, height: h - 2,
-                          left: 3, right: 3,
+                          left: 2, right: 2,
                           background: c.bg,
                           borderLeft: `3px solid ${c.bd}`,
-                          borderRadius: 8,
-                          zIndex: 10,
-                          boxShadow: `0 1px 3px ${c.glow}`,
+                          zIndex: isActive ? 20 : 10,
+                          boxShadow: isActive ? `0 0 0 2px ${c.bd}` : `0 1px 3px ${c.glow}`,
                         }}
-                        onClick={(e) => e.stopPropagation()}
+                        onClick={(e) => { e.stopPropagation(); setActiveSlotId(isActive ? null : s.id); }}
                       >
-                        <div className="px-2 py-1 h-full flex flex-col justify-center overflow-hidden">
-                          <div className="flex items-center gap-1" style={{ lineHeight: 1.3 }}>
-                            <span style={{ fontSize: "11px", fontWeight: 600, color: c.tx }}>{fmtTime(s.start_time)}</span>
-                            {h <= 40 && s.student_name && (
-                              <span className="truncate" style={{ fontSize: "10px", color: c.tx, opacity: 0.8 }}>{s.student_name}</span>
-                            )}
-                          </div>
-                          {h > 40 && (
-                            <div style={{ fontSize: "10px", color: c.tx, opacity: 0.6 }}>{fmtTime(s.end_time)}</div>
-                          )}
-                          {h > 40 && s.student_name && (
-                            <div className="truncate mt-0.5" style={{ fontSize: "10px", fontWeight: 600, color: c.tx }}>
-                              {s.student_name}
-                            </div>
-                          )}
-                        </div>
-                        <div className="absolute top-1 right-1 flex gap-0.5 opacity-0 group-hover:opacity-100 transition-opacity" style={{ zIndex: 11 }}>
-                          {s.status === "available" && (
-                            <button onClick={() => { if (confirm("刪除此時段？")) act(() => api.deleteSlot(s.id)); }} className="cursor-pointer w-6 h-6 rounded-md flex items-center justify-center" style={{ background: "rgba(255,255,255,0.9)", color: "var(--color-warm-text-hint)", border: "none", fontSize: "11px" }} title="刪除">✕</button>
-                          )}
-                          {s.status === "booked" && !isPast && (
-                            <button onClick={() => { if (confirm("取消此預約並退還課時？")) act(() => api.cancelSlot(s.id)); }} className="cursor-pointer w-6 h-6 rounded-md flex items-center justify-center" style={{ background: "rgba(255,255,255,0.9)", color: "var(--color-warm-text-hint)", border: "none", fontSize: "11px" }} title="取消">✕</button>
-                          )}
+                        <div className="px-1 sm:px-2 py-0.5 h-full flex flex-col justify-center">
+                          <span style={{ fontSize: LABEL_W < 50 ? "10px" : "11px", fontWeight: 600, color: c.tx, lineHeight: 1.3 }}>{fmtTime(s.start_time)}</span>
+                          {h > 40 && <span style={{ fontSize: LABEL_W < 50 ? "9px" : "10px", color: c.tx, opacity: 0.6 }}>{fmtTime(s.end_time)}</span>}
+                          {h > 40 && s.student_name && <span className="truncate" style={{ fontSize: "10px", fontWeight: 600, color: c.tx }}>{s.student_name}</span>}
+                          {h <= 40 && s.student_name && <span className="truncate" style={{ fontSize: "9px", color: c.tx, opacity: 0.8 }}>{s.student_name}</span>}
                         </div>
                       </div>
                     );
@@ -366,6 +407,57 @@ export default function SchedulingPanel() {
           </div>
         </div>
       </div>
+
+      {/* Slot detail panel */}
+      {activeSlotId && (() => {
+        const s = slots.find(x => x.id === activeSlotId);
+        if (!s) return null;
+        const isPast = new Date(s.end_time).getTime() < Date.now();
+        const visualStatus = (s.status === "booked" && isPast) ? "completed" : s.status;
+        const c = ST[visualStatus] || ST.available;
+        const statusLabel: Record<string, string> = { available: "可約", booked: "已約", completed: "已完成", cancelled: "已取消" };
+        return (
+          <div
+            className="mt-3 rounded-xl px-4 py-3 flex flex-col sm:flex-row sm:items-center justify-between gap-3"
+            style={{ background: "var(--color-warm-card)", border: `1px solid ${c.bd}` }}
+          >
+            <div className="flex items-center gap-3">
+              <span className="w-3 h-3 rounded-full shrink-0" style={{ background: c.bd }} />
+              <div>
+                <div style={{ fontFamily: "var(--font-serif)", fontSize: "15px", fontWeight: 600 }}>
+                  {new Date(s.start_time).toLocaleDateString("zh-HK", { month: "short", day: "numeric", weekday: "short" })}
+                  {" "}{fmtTime(s.start_time)} – {fmtTime(s.end_time)}
+                </div>
+                <div className="flex items-center gap-2 mt-0.5" style={{ fontSize: "12px", color: "var(--color-warm-text-secondary)" }}>
+                  <span>{statusLabel[visualStatus] || visualStatus}</span>
+                  {s.student_name && <><span>·</span><span>{s.student_name}</span></>}
+                </div>
+              </div>
+            </div>
+            <div className="flex items-center gap-2">
+              {s.status === "available" && (
+                <button
+                  onClick={() => { if (confirm("刪除此時段？")) { setActiveSlotId(null); act(() => api.deleteSlot(s.id)); } }}
+                  className="cursor-pointer px-4 py-2 rounded-lg text-sm"
+                  style={{ color: "var(--color-terracotta)", background: "none", border: "1px solid rgba(217,119,87,0.3)" }}
+                >刪除時段</button>
+              )}
+              {s.status === "booked" && !isPast && (
+                <button
+                  onClick={() => { if (confirm("取消此預約並退還課時？")) { setActiveSlotId(null); act(() => api.cancelSlot(s.id)); } }}
+                  className="cursor-pointer px-4 py-2 rounded-lg text-sm"
+                  style={{ color: "var(--color-terracotta)", background: "none", border: "1px solid rgba(217,119,87,0.3)" }}
+                >取消預約</button>
+              )}
+              <button
+                onClick={() => setActiveSlotId(null)}
+                className="cursor-pointer px-3 py-2 rounded-lg text-sm"
+                style={{ color: "var(--color-warm-text-hint)", background: "none", border: "1px solid var(--color-warm-border)" }}
+              >關閉</button>
+            </div>
+          </div>
+        );
+      })()}
 
       {loading && <p className="mt-3 text-center" style={{ color: "var(--color-warm-text-hint)", fontSize: "12px" }}>載入中...</p>}
     </div>

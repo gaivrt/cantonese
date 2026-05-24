@@ -3,10 +3,12 @@ import { Link } from "react-router-dom";
 import { useAuth } from "../lib/auth";
 import StudentsPanel from "../components/admin/StudentsPanel";
 import SchedulingPanel from "../components/admin/SchedulingPanel";
+import RecordingPanel from "../components/admin/RecordingPanel";
 
 const TABS = [
   { key: "students", label: "學生管理" },
   { key: "scheduling", label: "排課預約" },
+  { key: "recording", label: "教材錄音" },
 ] as const;
 
 type Tab = (typeof TABS)[number]["key"];
@@ -51,12 +53,12 @@ export default function AdminDashboard() {
       </header>
 
       <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6">
-        <div className="flex gap-1 mb-6">
+        <div className="flex gap-1 mb-6 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
           {TABS.map((t) => (
             <button
               key={t.key}
               onClick={() => setTab(t.key)}
-              className="cursor-pointer px-4 py-2 rounded-lg text-sm transition-all duration-200"
+              className="cursor-pointer px-4 py-2 rounded-lg text-sm transition-all duration-200 whitespace-nowrap shrink-0"
               style={{
                 fontFamily: "var(--font-sans)",
                 background: tab === t.key ? "var(--color-beige)" : "transparent",
@@ -72,6 +74,7 @@ export default function AdminDashboard() {
 
         {tab === "students" && <StudentsPanel />}
         {tab === "scheduling" && <SchedulingPanel />}
+        {tab === "recording" && <RecordingPanel />}
       </div>
     </div>
   );
