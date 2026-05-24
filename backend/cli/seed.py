@@ -3,8 +3,13 @@
 Usage:
     uv run python -m backend.cli.seed          # seed (skip existing)
     uv run python -m backend.cli.seed --force   # wipe and re-seed
+
+Credentials via environment variables:
+    ADMIN_USERNAME / ADMIN_PASSWORD
+    DEMO_STUDENT_USERNAME / DEMO_STUDENT_PASSWORD / DEMO_STUDENT_NAME
 """
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -15,11 +20,17 @@ from backend.models import User, StudentProfile, Lesson, Section, TextUnit
 from backend.auth import hash_password
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "admin123"
+ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "admin")
+ADMIN_PASSWORD = os.environ.get("ADMIN_PASSWORD", "changeme")
 
 DEMO_STUDENTS = [
-    {"username": "gaivr", "password": "gaivr123", "name": "GAIVR", "level": "intermediate", "credits": 10},
+    {
+        "username": os.environ.get("DEMO_STUDENT_USERNAME", "student"),
+        "password": os.environ.get("DEMO_STUDENT_PASSWORD", "changeme"),
+        "name": os.environ.get("DEMO_STUDENT_NAME", "Demo Student"),
+        "level": "intermediate",
+        "credits": 10,
+    },
 ]
 
 
